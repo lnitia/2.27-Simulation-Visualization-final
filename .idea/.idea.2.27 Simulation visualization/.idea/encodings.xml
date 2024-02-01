@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/FlowField/FlowField.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/mesh/LoadToMesh.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/mesh/MeshStandard.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/mesh/mesh.cs" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/mesh/mesh2part.cs" charset="GBK" />
+  </component>
+</project>

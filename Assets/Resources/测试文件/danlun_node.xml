@@ -1,0 +1,5166 @@
+<?xml version="1.0" encoding="GBK" ?>
+<Nodes>
+    <node id="1">Gcoord
+        <gcoord>8.31E-01  -9.00E-03  -1.25E-01</gcoord>
+    </node>
+    <node id="2">Gcoord
+        <gcoord>8.31E-01  9.00E-03  1.25E-01</gcoord>
+    </node>
+    <node id="3">Gcoord
+        <gcoord>8.31E-01  7.00E-03  9.50E-02</gcoord>
+    </node>
+    <node id="4">Gcoord
+        <gcoord>8.31E-01  -7.00E-03  -9.50E-02</gcoord>
+    </node>
+    <node id="5">Gcoord
+        <gcoord>6.56E-01  -7.00E-03  -9.50E-02</gcoord>
+    </node>
+    <node id="6">Gcoord
+        <gcoord>6.56E-01  7.00E-03  9.50E-02</gcoord>
+    </node>
+    <node id="7">Gcoord
+        <gcoord>7.56E-01  1.40E-02  2.00E-01</gcoord>
+    </node>
+    <node id="8">Gcoord
+        <gcoord>7.56E-01  -1.40E-02  -2.00E-01</gcoord>
+    </node>
+    <node id="9">Gcoord
+        <gcoord>6.56E-01  9.00E-03  1.25E-01</gcoord>
+    </node>
+    <node id="10">Gcoord
+        <gcoord>6.56E-01  -9.00E-03  -1.25E-01</gcoord>
+    </node>
+    <node id="11">Gcoord
+        <gcoord>7.56E-01  -2.50E-02  -3.60E-01</gcoord>
+    </node>
+    <node id="12">Gcoord
+        <gcoord>7.56E-01  2.50E-02  3.60E-01</gcoord>
+    </node>
+    <node id="13">Gcoord
+        <gcoord>7.30E-01  -1.40E-02  -2.06E-01</gcoord>
+    </node>
+    <node id="14">Gcoord
+        <gcoord>7.30E-01  1.40E-02  2.06E-01</gcoord>
+    </node>
+    <node id="15">Gcoord
+        <gcoord>7.66E-01  -2.60E-02  -3.86E-01</gcoord>
+    </node>
+    <node id="16">Gcoord
+        <gcoord>7.66E-01  2.60E-02  3.86E-01</gcoord>
+    </node>
+    <node id="17">Gcoord
+        <gcoord>7.30E-01  -2.40E-02  -3.45E-01</gcoord>
+    </node>
+    <node id="18">Gcoord
+        <gcoord>7.30E-01  2.40E-02  3.45E-01</gcoord>
+    </node>
+    <node id="19">Gcoord
+        <gcoord>8.11E-01  2.70E-02  3.91E-01</gcoord>
+    </node>
+    <node id="20">Gcoord
+        <gcoord>8.11E-01  -2.70E-02  -3.91E-01</gcoord>
+    </node>
+    <node id="21">Gcoord
+        <gcoord>6.76E-01  -2.80E-02  -4.04E-01</gcoord>
+    </node>
+    <node id="22">Gcoord
+        <gcoord>6.76E-01  2.80E-02  4.04E-01</gcoord>
+    </node>
+    <node id="23">Gcoord
+        <gcoord>8.11E-01  -3.10E-02  -4.52E-01</gcoord>
+    </node>
+    <node id="24">Gcoord
+        <gcoord>8.11E-01  3.10E-02  4.52E-01</gcoord>
+    </node>
+    <node id="25">Gcoord
+        <gcoord>8.06E-01  4.56E-01  -3.10E-02</gcoord>
+    </node>
+    <node id="26">Gcoord
+        <gcoord>8.06E-01  -3.10E-02  -4.56E-01</gcoord>
+    </node>
+    <node id="27">Gcoord
+        <gcoord>8.06E-01  3.10E-02  4.56E-01</gcoord>
+    </node>
+    <node id="28">Gcoord
+        <gcoord>6.76E-01  4.65E-01  -3.20E-02</gcoord>
+    </node>
+    <node id="29">Gcoord
+        <gcoord>6.76E-01  -4.65E-01  3.20E-02</gcoord>
+    </node>
+    <node id="30">Gcoord
+        <gcoord>8.06E-01  -4.56E-01  3.10E-02</gcoord>
+    </node>
+    <node id="31">Gcoord
+        <gcoord>8.31E-01  2.40E-02  -1.23E-01</gcoord>
+    </node>
+    <node id="32">Gcoord
+        <gcoord>8.31E-01  5.50E-02  -1.13E-01</gcoord>
+    </node>
+    <node id="33">Gcoord
+        <gcoord>8.31E-01  8.20E-02  -9.50E-02</gcoord>
+    </node>
+    <node id="34">Gcoord
+        <gcoord>8.31E-01  1.04E-01  -7.00E-02</gcoord>
+    </node>
+    <node id="35">Gcoord
+        <gcoord>8.31E-01  1.19E-01  -4.10E-02</gcoord>
+    </node>
+    <node id="36">Gcoord
+        <gcoord>8.31E-01  1.25E-01  -9.00E-03</gcoord>
+    </node>
+    <node id="37">Gcoord
+        <gcoord>8.31E-01  1.23E-01  2.40E-02</gcoord>
+    </node>
+    <node id="38">Gcoord
+        <gcoord>8.31E-01  1.13E-01  5.50E-02</gcoord>
+    </node>
+    <node id="39">Gcoord
+        <gcoord>8.31E-01  9.50E-02  8.20E-02</gcoord>
+    </node>
+    <node id="40">Gcoord
+        <gcoord>8.31E-01  7.00E-02  1.04E-01</gcoord>
+    </node>
+    <node id="41">Gcoord
+        <gcoord>8.31E-01  4.10E-02  1.19E-01</gcoord>
+    </node>
+    <node id="42">Gcoord
+        <gcoord>8.31E-01  -2.40E-02  1.23E-01</gcoord>
+    </node>
+    <node id="43">Gcoord
+        <gcoord>8.31E-01  -5.50E-02  1.13E-01</gcoord>
+    </node>
+    <node id="44">Gcoord
+        <gcoord>8.31E-01  -8.20E-02  9.50E-02</gcoord>
+    </node>
+    <node id="45">Gcoord
+        <gcoord>8.31E-01  -1.04E-01  7.00E-02</gcoord>
+    </node>
+    <node id="46">Gcoord
+        <gcoord>8.31E-01  -1.19E-01  4.10E-02</gcoord>
+    </node>
+    <node id="47">Gcoord
+        <gcoord>8.31E-01  -1.25E-01  9.00E-03</gcoord>
+    </node>
+    <node id="48">Gcoord
+        <gcoord>8.31E-01  -1.23E-01  -2.40E-02</gcoord>
+    </node>
+    <node id="49">Gcoord
+        <gcoord>8.31E-01  -1.13E-01  -5.50E-02</gcoord>
+    </node>
+    <node id="50">Gcoord
+        <gcoord>8.31E-01  -9.50E-02  -8.20E-02</gcoord>
+    </node>
+    <node id="51">Gcoord
+        <gcoord>8.31E-01  -7.00E-02  -1.04E-01</gcoord>
+    </node>
+    <node id="52">Gcoord
+        <gcoord>8.31E-01  -4.10E-02  -1.19E-01</gcoord>
+    </node>
+    <node id="53">Gcoord
+        <gcoord>8.31E-01  5.30E-02  7.90E-02</gcoord>
+    </node>
+    <node id="54">Gcoord
+        <gcoord>8.31E-01  8.60E-02  4.20E-02</gcoord>
+    </node>
+    <node id="55">Gcoord
+        <gcoord>8.31E-01  9.50E-02  -7.00E-03</gcoord>
+    </node>
+    <node id="56">Gcoord
+        <gcoord>8.31E-01  7.90E-02  -5.30E-02</gcoord>
+    </node>
+    <node id="57">Gcoord
+        <gcoord>8.31E-01  4.20E-02  -8.60E-02</gcoord>
+    </node>
+    <node id="58">Gcoord
+        <gcoord>8.31E-01  -5.30E-02  -7.90E-02</gcoord>
+    </node>
+    <node id="59">Gcoord
+        <gcoord>8.31E-01  -8.60E-02  -4.20E-02</gcoord>
+    </node>
+    <node id="60">Gcoord
+        <gcoord>8.31E-01  -9.50E-02  7.00E-03</gcoord>
+    </node>
+    <node id="61">Gcoord
+        <gcoord>8.31E-01  -7.90E-02  5.30E-02</gcoord>
+    </node>
+    <node id="62">Gcoord
+        <gcoord>8.31E-01  -4.20E-02  8.60E-02</gcoord>
+    </node>
+    <node id="63">Gcoord
+        <gcoord>7.72E-01  -7.00E-03  -9.50E-02</gcoord>
+    </node>
+    <node id="64">Gcoord
+        <gcoord>7.14E-01  -7.00E-03  -9.50E-02</gcoord>
+    </node>
+    <node id="65">Gcoord
+        <gcoord>6.56E-01  -5.30E-02  -7.90E-02</gcoord>
+    </node>
+    <node id="66">Gcoord
+        <gcoord>6.56E-01  -8.60E-02  -4.20E-02</gcoord>
+    </node>
+    <node id="67">Gcoord
+        <gcoord>6.56E-01  -9.50E-02  7.00E-03</gcoord>
+    </node>
+    <node id="68">Gcoord
+        <gcoord>6.56E-01  -7.90E-02  5.30E-02</gcoord>
+    </node>
+    <node id="69">Gcoord
+        <gcoord>6.56E-01  -4.20E-02  8.60E-02</gcoord>
+    </node>
+    <node id="70">Gcoord
+        <gcoord>7.14E-01  7.00E-03  9.50E-02</gcoord>
+    </node>
+    <node id="71">Gcoord
+        <gcoord>7.72E-01  7.00E-03  9.50E-02</gcoord>
+    </node>
+    <node id="72">Gcoord
+        <gcoord>6.56E-01  5.30E-02  7.90E-02</gcoord>
+    </node>
+    <node id="73">Gcoord
+        <gcoord>6.56E-01  8.60E-02  4.20E-02</gcoord>
+    </node>
+    <node id="74">Gcoord
+        <gcoord>6.56E-01  9.50E-02  -7.00E-03</gcoord>
+    </node>
+    <node id="75">Gcoord
+        <gcoord>6.56E-01  7.90E-02  -5.30E-02</gcoord>
+    </node>
+    <node id="76">Gcoord
+        <gcoord>6.56E-01  4.20E-02  -8.60E-02</gcoord>
+    </node>
+    <node id="77">Gcoord
+        <gcoord>7.56E-01  -3.90E-02  1.97E-01</gcoord>
+    </node>
+    <node id="78">Gcoord
+        <gcoord>7.56E-01  -8.80E-02  1.80E-01</gcoord>
+    </node>
+    <node id="79">Gcoord
+        <gcoord>7.56E-01  -1.32E-01  1.51E-01</gcoord>
+    </node>
+    <node id="80">Gcoord
+        <gcoord>7.56E-01  -1.66E-01  1.12E-01</gcoord>
+    </node>
+    <node id="81">Gcoord
+        <gcoord>7.56E-01  -1.90E-01  6.50E-02</gcoord>
+    </node>
+    <node id="82">Gcoord
+        <gcoord>7.56E-01  -2.00E-01  1.40E-02</gcoord>
+    </node>
+    <node id="83">Gcoord
+        <gcoord>7.56E-01  -1.97E-01  -3.90E-02</gcoord>
+    </node>
+    <node id="84">Gcoord
+        <gcoord>7.56E-01  -1.80E-01  -8.80E-02</gcoord>
+    </node>
+    <node id="85">Gcoord
+        <gcoord>7.56E-01  -1.51E-01  -1.32E-01</gcoord>
+    </node>
+    <node id="86">Gcoord
+        <gcoord>7.56E-01  -1.12E-01  -1.66E-01</gcoord>
+    </node>
+    <node id="87">Gcoord
+        <gcoord>7.56E-01  -6.50E-02  -1.90E-01</gcoord>
+    </node>
+    <node id="88">Gcoord
+        <gcoord>7.77E-01  -1.00E-02  -1.47E-01</gcoord>
+    </node>
+    <node id="89">Gcoord
+        <gcoord>7.77E-01  1.00E-02  1.47E-01</gcoord>
+    </node>
+    <node id="90">Gcoord
+        <gcoord>7.56E-01  3.90E-02  -1.97E-01</gcoord>
+    </node>
+    <node id="91">Gcoord
+        <gcoord>7.56E-01  8.80E-02  -1.80E-01</gcoord>
+    </node>
+    <node id="92">Gcoord
+        <gcoord>7.56E-01  1.32E-01  -1.51E-01</gcoord>
+    </node>
+    <node id="93">Gcoord
+        <gcoord>7.56E-01  1.66E-01  -1.12E-01</gcoord>
+    </node>
+    <node id="94">Gcoord
+        <gcoord>7.56E-01  1.90E-01  -6.50E-02</gcoord>
+    </node>
+    <node id="95">Gcoord
+        <gcoord>7.56E-01  2.00E-01  -1.40E-02</gcoord>
+    </node>
+    <node id="96">Gcoord
+        <gcoord>7.56E-01  1.97E-01  3.90E-02</gcoord>
+    </node>
+    <node id="97">Gcoord
+        <gcoord>7.56E-01  1.80E-01  8.80E-02</gcoord>
+    </node>
+    <node id="98">Gcoord
+        <gcoord>7.56E-01  1.51E-01  1.32E-01</gcoord>
+    </node>
+    <node id="99">Gcoord
+        <gcoord>7.56E-01  1.12E-01  1.66E-01</gcoord>
+    </node>
+    <node id="100">Gcoord
+        <gcoord>7.56E-01  6.50E-02  1.90E-01</gcoord>
+    </node>
+    <node id="101">Gcoord
+        <gcoord>6.56E-01  2.50E-02  1.23E-01</gcoord>
+    </node>
+    <node id="102">Gcoord
+        <gcoord>6.56E-01  4.10E-02  1.19E-01</gcoord>
+    </node>
+    <node id="103">Gcoord
+        <gcoord>6.56E-01  5.60E-02  1.12E-01</gcoord>
+    </node>
+    <node id="104">Gcoord
+        <gcoord>6.56E-01  7.00E-02  1.04E-01</gcoord>
+    </node>
+    <node id="105">Gcoord
+        <gcoord>6.56E-01  8.30E-02  9.40E-02</gcoord>
+    </node>
+    <node id="106">Gcoord
+        <gcoord>6.56E-01  9.50E-02  8.20E-02</gcoord>
+    </node>
+    <node id="107">Gcoord
+        <gcoord>6.56E-01  1.04E-01  6.90E-02</gcoord>
+    </node>
+    <node id="108">Gcoord
+        <gcoord>6.56E-01  1.13E-01  5.50E-02</gcoord>
+    </node>
+    <node id="109">Gcoord
+        <gcoord>6.56E-01  1.19E-01  4.00E-02</gcoord>
+    </node>
+    <node id="110">Gcoord
+        <gcoord>6.56E-01  1.23E-01  2.40E-02</gcoord>
+    </node>
+    <node id="111">Gcoord
+        <gcoord>6.56E-01  1.25E-01  8.00E-03</gcoord>
+    </node>
+    <node id="112">Gcoord
+        <gcoord>6.56E-01  1.25E-01  -9.00E-03</gcoord>
+    </node>
+    <node id="113">Gcoord
+        <gcoord>6.56E-01  1.23E-01  -2.50E-02</gcoord>
+    </node>
+    <node id="114">Gcoord
+        <gcoord>6.56E-01  1.19E-01  -4.10E-02</gcoord>
+    </node>
+    <node id="115">Gcoord
+        <gcoord>6.56E-01  1.12E-01  -5.60E-02</gcoord>
+    </node>
+    <node id="116">Gcoord
+        <gcoord>6.56E-01  1.04E-01  -7.00E-02</gcoord>
+    </node>
+    <node id="117">Gcoord
+        <gcoord>6.56E-01  9.40E-02  -8.30E-02</gcoord>
+    </node>
+    <node id="118">Gcoord
+        <gcoord>6.56E-01  8.20E-02  -9.50E-02</gcoord>
+    </node>
+    <node id="119">Gcoord
+        <gcoord>6.56E-01  6.90E-02  -1.04E-01</gcoord>
+    </node>
+    <node id="120">Gcoord
+        <gcoord>6.56E-01  5.50E-02  -1.13E-01</gcoord>
+    </node>
+    <node id="121">Gcoord
+        <gcoord>6.56E-01  4.00E-02  -1.19E-01</gcoord>
+    </node>
+    <node id="122">Gcoord
+        <gcoord>6.56E-01  2.40E-02  -1.23E-01</gcoord>
+    </node>
+    <node id="123">Gcoord
+        <gcoord>6.56E-01  8.00E-03  -1.25E-01</gcoord>
+    </node>
+    <node id="124">Gcoord
+        <gcoord>6.56E-01  -2.50E-02  -1.23E-01</gcoord>
+    </node>
+    <node id="125">Gcoord
+        <gcoord>6.56E-01  -4.10E-02  -1.19E-01</gcoord>
+    </node>
+    <node id="126">Gcoord
+        <gcoord>6.56E-01  -5.60E-02  -1.12E-01</gcoord>
+    </node>
+    <node id="127">Gcoord
+        <gcoord>6.56E-01  -7.00E-02  -1.04E-01</gcoord>
+    </node>
+    <node id="128">Gcoord
+        <gcoord>6.56E-01  -8.30E-02  -9.40E-02</gcoord>
+    </node>
+    <node id="129">Gcoord
+        <gcoord>6.56E-01  -9.50E-02  -8.20E-02</gcoord>
+    </node>
+    <node id="130">Gcoord
+        <gcoord>6.56E-01  -1.04E-01  -6.90E-02</gcoord>
+    </node>
+    <node id="131">Gcoord
+        <gcoord>6.56E-01  -1.13E-01  -5.50E-02</gcoord>
+    </node>
+    <node id="132">Gcoord
+        <gcoord>6.56E-01  -1.19E-01  -4.00E-02</gcoord>
+    </node>
+    <node id="133">Gcoord
+        <gcoord>6.56E-01  -1.23E-01  -2.40E-02</gcoord>
+    </node>
+    <node id="134">Gcoord
+        <gcoord>6.56E-01  -1.25E-01  -8.00E-03</gcoord>
+    </node>
+    <node id="135">Gcoord
+        <gcoord>6.56E-01  -1.25E-01  9.00E-03</gcoord>
+    </node>
+    <node id="136">Gcoord
+        <gcoord>6.56E-01  -1.23E-01  2.50E-02</gcoord>
+    </node>
+    <node id="137">Gcoord
+        <gcoord>6.56E-01  -1.19E-01  4.10E-02</gcoord>
+    </node>
+    <node id="138">Gcoord
+        <gcoord>6.56E-01  -1.12E-01  5.60E-02</gcoord>
+    </node>
+    <node id="139">Gcoord
+        <gcoord>6.56E-01  -1.04E-01  7.00E-02</gcoord>
+    </node>
+    <node id="140">Gcoord
+        <gcoord>6.56E-01  -9.40E-02  8.30E-02</gcoord>
+    </node>
+    <node id="141">Gcoord
+        <gcoord>6.56E-01  -8.20E-02  9.50E-02</gcoord>
+    </node>
+    <node id="142">Gcoord
+        <gcoord>6.56E-01  -6.90E-02  1.04E-01</gcoord>
+    </node>
+    <node id="143">Gcoord
+        <gcoord>6.56E-01  -5.50E-02  1.13E-01</gcoord>
+    </node>
+    <node id="144">Gcoord
+        <gcoord>6.56E-01  -4.00E-02  1.19E-01</gcoord>
+    </node>
+    <node id="145">Gcoord
+        <gcoord>6.56E-01  -2.40E-02  1.23E-01</gcoord>
+    </node>
+    <node id="146">Gcoord
+        <gcoord>6.56E-01  -8.00E-03  1.25E-01</gcoord>
+    </node>
+    <node id="147">Gcoord
+        <gcoord>7.56E-01  2.50E-02  -3.60E-01</gcoord>
+    </node>
+    <node id="148">Gcoord
+        <gcoord>7.56E-01  7.30E-02  -3.53E-01</gcoord>
+    </node>
+    <node id="149">Gcoord
+        <gcoord>7.56E-01  1.21E-01  -3.40E-01</gcoord>
+    </node>
+    <node id="150">Gcoord
+        <gcoord>7.56E-01  1.66E-01  -3.20E-01</gcoord>
+    </node>
+    <node id="151">Gcoord
+        <gcoord>7.56E-01  2.08E-01  -2.94E-01</gcoord>
+    </node>
+    <node id="152">Gcoord
+        <gcoord>7.56E-01  2.46E-01  -2.63E-01</gcoord>
+    </node>
+    <node id="153">Gcoord
+        <gcoord>7.56E-01  2.80E-01  -2.27E-01</gcoord>
+    </node>
+    <node id="154">Gcoord
+        <gcoord>7.56E-01  3.08E-01  -1.87E-01</gcoord>
+    </node>
+    <node id="155">Gcoord
+        <gcoord>7.56E-01  3.31E-01  -1.44E-01</gcoord>
+    </node>
+    <node id="156">Gcoord
+        <gcoord>7.56E-01  3.47E-01  -9.70E-02</gcoord>
+    </node>
+    <node id="157">Gcoord
+        <gcoord>7.56E-01  3.57E-01  -4.90E-02</gcoord>
+    </node>
+    <node id="158">Gcoord
+        <gcoord>7.56E-01  3.60E-01  -4.40E-05</gcoord>
+    </node>
+    <node id="159">Gcoord
+        <gcoord>7.56E-01  3.57E-01  4.90E-02</gcoord>
+    </node>
+    <node id="160">Gcoord
+        <gcoord>7.56E-01  3.47E-01  9.70E-02</gcoord>
+    </node>
+    <node id="161">Gcoord
+        <gcoord>7.56E-01  3.31E-01  1.44E-01</gcoord>
+    </node>
+    <node id="162">Gcoord
+        <gcoord>7.56E-01  3.08E-01  1.87E-01</gcoord>
+    </node>
+    <node id="163">Gcoord
+        <gcoord>7.56E-01  2.80E-01  2.27E-01</gcoord>
+    </node>
+    <node id="164">Gcoord
+        <gcoord>7.56E-01  2.46E-01  2.63E-01</gcoord>
+    </node>
+    <node id="165">Gcoord
+        <gcoord>7.56E-01  2.08E-01  2.94E-01</gcoord>
+    </node>
+    <node id="166">Gcoord
+        <gcoord>7.56E-01  1.66E-01  3.20E-01</gcoord>
+    </node>
+    <node id="167">Gcoord
+        <gcoord>7.56E-01  1.21E-01  3.40E-01</gcoord>
+    </node>
+    <node id="168">Gcoord
+        <gcoord>7.56E-01  7.30E-02  3.53E-01</gcoord>
+    </node>
+    <node id="169">Gcoord
+        <gcoord>7.56E-01  -2.50E-02  3.60E-01</gcoord>
+    </node>
+    <node id="170">Gcoord
+        <gcoord>7.56E-01  -7.30E-02  3.53E-01</gcoord>
+    </node>
+    <node id="171">Gcoord
+        <gcoord>7.56E-01  -1.21E-01  3.40E-01</gcoord>
+    </node>
+    <node id="172">Gcoord
+        <gcoord>7.56E-01  -1.66E-01  3.20E-01</gcoord>
+    </node>
+    <node id="173">Gcoord
+        <gcoord>7.56E-01  -2.08E-01  2.94E-01</gcoord>
+    </node>
+    <node id="174">Gcoord
+        <gcoord>7.56E-01  -2.46E-01  2.63E-01</gcoord>
+    </node>
+    <node id="175">Gcoord
+        <gcoord>7.56E-01  -2.80E-01  2.27E-01</gcoord>
+    </node>
+    <node id="176">Gcoord
+        <gcoord>7.56E-01  -3.08E-01  1.87E-01</gcoord>
+    </node>
+    <node id="177">Gcoord
+        <gcoord>7.56E-01  -3.31E-01  1.44E-01</gcoord>
+    </node>
+    <node id="178">Gcoord
+        <gcoord>7.56E-01  -3.47E-01  9.70E-02</gcoord>
+    </node>
+    <node id="179">Gcoord
+        <gcoord>7.56E-01  -3.57E-01  4.90E-02</gcoord>
+    </node>
+    <node id="180">Gcoord
+        <gcoord>7.56E-01  -3.60E-01  4.40E-05</gcoord>
+    </node>
+    <node id="181">Gcoord
+        <gcoord>7.56E-01  -3.57E-01  -4.90E-02</gcoord>
+    </node>
+    <node id="182">Gcoord
+        <gcoord>7.56E-01  -3.47E-01  -9.70E-02</gcoord>
+    </node>
+    <node id="183">Gcoord
+        <gcoord>7.56E-01  -3.31E-01  -1.44E-01</gcoord>
+    </node>
+    <node id="184">Gcoord
+        <gcoord>7.56E-01  -3.08E-01  -1.87E-01</gcoord>
+    </node>
+    <node id="185">Gcoord
+        <gcoord>7.56E-01  -2.80E-01  -2.27E-01</gcoord>
+    </node>
+    <node id="186">Gcoord
+        <gcoord>7.56E-01  -2.46E-01  -2.63E-01</gcoord>
+    </node>
+    <node id="187">Gcoord
+        <gcoord>7.56E-01  -2.08E-01  -2.94E-01</gcoord>
+    </node>
+    <node id="188">Gcoord
+        <gcoord>7.56E-01  -1.66E-01  -3.20E-01</gcoord>
+    </node>
+    <node id="189">Gcoord
+        <gcoord>7.56E-01  -1.21E-01  -3.40E-01</gcoord>
+    </node>
+    <node id="190">Gcoord
+        <gcoord>7.56E-01  -7.30E-02  -3.53E-01</gcoord>
+    </node>
+    <node id="191">Gcoord
+        <gcoord>7.11E-01  -1.00E-02  -1.49E-01</gcoord>
+    </node>
+    <node id="192">Gcoord
+        <gcoord>7.30E-01  -4.10E-02  -2.03E-01</gcoord>
+    </node>
+    <node id="193">Gcoord
+        <gcoord>7.30E-01  -6.70E-02  -1.96E-01</gcoord>
+    </node>
+    <node id="194">Gcoord
+        <gcoord>7.30E-01  -9.20E-02  -1.85E-01</gcoord>
+    </node>
+    <node id="195">Gcoord
+        <gcoord>7.30E-01  -1.15E-01  -1.72E-01</gcoord>
+    </node>
+    <node id="196">Gcoord
+        <gcoord>7.30E-01  -1.37E-01  -1.55E-01</gcoord>
+    </node>
+    <node id="197">Gcoord
+        <gcoord>7.30E-01  -1.56E-01  -1.36E-01</gcoord>
+    </node>
+    <node id="198">Gcoord
+        <gcoord>7.30E-01  -1.72E-01  -1.14E-01</gcoord>
+    </node>
+    <node id="199">Gcoord
+        <gcoord>7.30E-01  -1.86E-01  -9.10E-02</gcoord>
+    </node>
+    <node id="200">Gcoord
+        <gcoord>7.30E-01  -1.96E-01  -6.60E-02</gcoord>
+    </node>
+    <node id="201">Gcoord
+        <gcoord>7.30E-01  -2.03E-01  -4.00E-02</gcoord>
+    </node>
+    <node id="202">Gcoord
+        <gcoord>7.30E-01  -2.06E-01  -1.30E-02</gcoord>
+    </node>
+    <node id="203">Gcoord
+        <gcoord>7.30E-01  -2.06E-01  1.40E-02</gcoord>
+    </node>
+    <node id="204">Gcoord
+        <gcoord>7.30E-01  -2.03E-01  4.10E-02</gcoord>
+    </node>
+    <node id="205">Gcoord
+        <gcoord>7.30E-01  -1.96E-01  6.70E-02</gcoord>
+    </node>
+    <node id="206">Gcoord
+        <gcoord>7.30E-01  -1.85E-01  9.20E-02</gcoord>
+    </node>
+    <node id="207">Gcoord
+        <gcoord>7.30E-01  -1.72E-01  1.15E-01</gcoord>
+    </node>
+    <node id="208">Gcoord
+        <gcoord>7.30E-01  -1.55E-01  1.37E-01</gcoord>
+    </node>
+    <node id="209">Gcoord
+        <gcoord>7.30E-01  -1.36E-01  1.56E-01</gcoord>
+    </node>
+    <node id="210">Gcoord
+        <gcoord>7.30E-01  -1.14E-01  1.72E-01</gcoord>
+    </node>
+    <node id="211">Gcoord
+        <gcoord>7.30E-01  -9.10E-02  1.86E-01</gcoord>
+    </node>
+    <node id="212">Gcoord
+        <gcoord>7.30E-01  -6.60E-02  1.96E-01</gcoord>
+    </node>
+    <node id="213">Gcoord
+        <gcoord>7.30E-01  -4.00E-02  2.03E-01</gcoord>
+    </node>
+    <node id="214">Gcoord
+        <gcoord>7.30E-01  -1.30E-02  2.06E-01</gcoord>
+    </node>
+    <node id="215">Gcoord
+        <gcoord>7.11E-01  1.00E-02  1.49E-01</gcoord>
+    </node>
+    <node id="216">Gcoord
+        <gcoord>7.30E-01  4.10E-02  2.03E-01</gcoord>
+    </node>
+    <node id="217">Gcoord
+        <gcoord>7.30E-01  6.70E-02  1.96E-01</gcoord>
+    </node>
+    <node id="218">Gcoord
+        <gcoord>7.30E-01  9.20E-02  1.85E-01</gcoord>
+    </node>
+    <node id="219">Gcoord
+        <gcoord>7.30E-01  1.15E-01  1.72E-01</gcoord>
+    </node>
+    <node id="220">Gcoord
+        <gcoord>7.30E-01  1.37E-01  1.55E-01</gcoord>
+    </node>
+    <node id="221">Gcoord
+        <gcoord>7.30E-01  1.56E-01  1.36E-01</gcoord>
+    </node>
+    <node id="222">Gcoord
+        <gcoord>7.30E-01  1.72E-01  1.14E-01</gcoord>
+    </node>
+    <node id="223">Gcoord
+        <gcoord>7.30E-01  1.86E-01  9.10E-02</gcoord>
+    </node>
+    <node id="224">Gcoord
+        <gcoord>7.30E-01  1.96E-01  6.60E-02</gcoord>
+    </node>
+    <node id="225">Gcoord
+        <gcoord>7.30E-01  2.03E-01  4.00E-02</gcoord>
+    </node>
+    <node id="226">Gcoord
+        <gcoord>7.30E-01  2.06E-01  1.30E-02</gcoord>
+    </node>
+    <node id="227">Gcoord
+        <gcoord>7.30E-01  2.06E-01  -1.40E-02</gcoord>
+    </node>
+    <node id="228">Gcoord
+        <gcoord>7.30E-01  2.03E-01  -4.10E-02</gcoord>
+    </node>
+    <node id="229">Gcoord
+        <gcoord>7.30E-01  1.96E-01  -6.70E-02</gcoord>
+    </node>
+    <node id="230">Gcoord
+        <gcoord>7.30E-01  1.85E-01  -9.20E-02</gcoord>
+    </node>
+    <node id="231">Gcoord
+        <gcoord>7.30E-01  1.72E-01  -1.15E-01</gcoord>
+    </node>
+    <node id="232">Gcoord
+        <gcoord>7.30E-01  1.55E-01  -1.37E-01</gcoord>
+    </node>
+    <node id="233">Gcoord
+        <gcoord>7.30E-01  1.36E-01  -1.56E-01</gcoord>
+    </node>
+    <node id="234">Gcoord
+        <gcoord>7.30E-01  1.14E-01  -1.72E-01</gcoord>
+    </node>
+    <node id="235">Gcoord
+        <gcoord>7.30E-01  9.10E-02  -1.86E-01</gcoord>
+    </node>
+    <node id="236">Gcoord
+        <gcoord>7.30E-01  6.60E-02  -1.96E-01</gcoord>
+    </node>
+    <node id="237">Gcoord
+        <gcoord>7.30E-01  4.00E-02  -2.03E-01</gcoord>
+    </node>
+    <node id="238">Gcoord
+        <gcoord>7.30E-01  1.30E-02  -2.06E-01</gcoord>
+    </node>
+    <node id="239">Gcoord
+        <gcoord>7.52E-01  -2.50E-02  -3.70E-01</gcoord>
+    </node>
+    <node id="240">Gcoord
+        <gcoord>7.56E-01  -2.60E-02  -3.81E-01</gcoord>
+    </node>
+    <node id="241">Gcoord
+        <gcoord>7.66E-01  2.60E-02  -3.86E-01</gcoord>
+    </node>
+    <node id="242">Gcoord
+        <gcoord>7.66E-01  7.90E-02  -3.79E-01</gcoord>
+    </node>
+    <node id="243">Gcoord
+        <gcoord>7.66E-01  1.30E-01  -3.65E-01</gcoord>
+    </node>
+    <node id="244">Gcoord
+        <gcoord>7.66E-01  1.78E-01  -3.44E-01</gcoord>
+    </node>
+    <node id="245">Gcoord
+        <gcoord>7.66E-01  2.23E-01  -3.16E-01</gcoord>
+    </node>
+    <node id="246">Gcoord
+        <gcoord>7.66E-01  2.64E-01  -2.83E-01</gcoord>
+    </node>
+    <node id="247">Gcoord
+        <gcoord>7.66E-01  3.00E-01  -2.44E-01</gcoord>
+    </node>
+    <node id="248">Gcoord
+        <gcoord>7.66E-01  3.31E-01  -2.01E-01</gcoord>
+    </node>
+    <node id="249">Gcoord
+        <gcoord>7.66E-01  3.55E-01  -1.54E-01</gcoord>
+    </node>
+    <node id="250">Gcoord
+        <gcoord>7.66E-01  3.73E-01  -1.04E-01</gcoord>
+    </node>
+    <node id="251">Gcoord
+        <gcoord>7.66E-01  3.83E-01  -5.30E-02</gcoord>
+    </node>
+    <node id="252">Gcoord
+        <gcoord>7.66E-01  3.87E-01  -4.80E-05</gcoord>
+    </node>
+    <node id="253">Gcoord
+        <gcoord>7.66E-01  3.83E-01  5.30E-02</gcoord>
+    </node>
+    <node id="254">Gcoord
+        <gcoord>7.66E-01  3.73E-01  1.04E-01</gcoord>
+    </node>
+    <node id="255">Gcoord
+        <gcoord>7.66E-01  3.55E-01  1.54E-01</gcoord>
+    </node>
+    <node id="256">Gcoord
+        <gcoord>7.66E-01  3.31E-01  2.01E-01</gcoord>
+    </node>
+    <node id="257">Gcoord
+        <gcoord>7.66E-01  3.00E-01  2.44E-01</gcoord>
+    </node>
+    <node id="258">Gcoord
+        <gcoord>7.66E-01  2.64E-01  2.83E-01</gcoord>
+    </node>
+    <node id="259">Gcoord
+        <gcoord>7.66E-01  2.23E-01  3.16E-01</gcoord>
+    </node>
+    <node id="260">Gcoord
+        <gcoord>7.66E-01  1.78E-01  3.43E-01</gcoord>
+    </node>
+    <node id="261">Gcoord
+        <gcoord>7.66E-01  1.30E-01  3.65E-01</gcoord>
+    </node>
+    <node id="262">Gcoord
+        <gcoord>7.66E-01  7.90E-02  3.79E-01</gcoord>
+    </node>
+    <node id="263">Gcoord
+        <gcoord>7.56E-01  2.60E-02  3.81E-01</gcoord>
+    </node>
+    <node id="264">Gcoord
+        <gcoord>7.52E-01  2.50E-02  3.70E-01</gcoord>
+    </node>
+    <node id="265">Gcoord
+        <gcoord>7.66E-01  -2.60E-02  3.86E-01</gcoord>
+    </node>
+    <node id="266">Gcoord
+        <gcoord>7.66E-01  -7.90E-02  3.79E-01</gcoord>
+    </node>
+    <node id="267">Gcoord
+        <gcoord>7.66E-01  -1.30E-01  3.65E-01</gcoord>
+    </node>
+    <node id="268">Gcoord
+        <gcoord>7.66E-01  -1.78E-01  3.44E-01</gcoord>
+    </node>
+    <node id="269">Gcoord
+        <gcoord>7.66E-01  -2.23E-01  3.16E-01</gcoord>
+    </node>
+    <node id="270">Gcoord
+        <gcoord>7.66E-01  -2.64E-01  2.83E-01</gcoord>
+    </node>
+    <node id="271">Gcoord
+        <gcoord>7.66E-01  -3.00E-01  2.44E-01</gcoord>
+    </node>
+    <node id="272">Gcoord
+        <gcoord>7.66E-01  -3.31E-01  2.01E-01</gcoord>
+    </node>
+    <node id="273">Gcoord
+        <gcoord>7.66E-01  -3.55E-01  1.54E-01</gcoord>
+    </node>
+    <node id="274">Gcoord
+        <gcoord>7.66E-01  -3.73E-01  1.04E-01</gcoord>
+    </node>
+    <node id="275">Gcoord
+        <gcoord>7.66E-01  -3.83E-01  5.30E-02</gcoord>
+    </node>
+    <node id="276">Gcoord
+        <gcoord>7.66E-01  -3.87E-01  4.80E-05</gcoord>
+    </node>
+    <node id="277">Gcoord
+        <gcoord>7.66E-01  -3.83E-01  -5.30E-02</gcoord>
+    </node>
+    <node id="278">Gcoord
+        <gcoord>7.66E-01  -3.73E-01  -1.04E-01</gcoord>
+    </node>
+    <node id="279">Gcoord
+        <gcoord>7.66E-01  -3.55E-01  -1.54E-01</gcoord>
+    </node>
+    <node id="280">Gcoord
+        <gcoord>7.66E-01  -3.31E-01  -2.01E-01</gcoord>
+    </node>
+    <node id="281">Gcoord
+        <gcoord>7.66E-01  -3.00E-01  -2.44E-01</gcoord>
+    </node>
+    <node id="282">Gcoord
+        <gcoord>7.66E-01  -2.64E-01  -2.83E-01</gcoord>
+    </node>
+    <node id="283">Gcoord
+        <gcoord>7.66E-01  -2.23E-01  -3.16E-01</gcoord>
+    </node>
+    <node id="284">Gcoord
+        <gcoord>7.66E-01  -1.78E-01  -3.43E-01</gcoord>
+    </node>
+    <node id="285">Gcoord
+        <gcoord>7.66E-01  -1.30E-01  -3.65E-01</gcoord>
+    </node>
+    <node id="286">Gcoord
+        <gcoord>7.66E-01  -7.90E-02  -3.79E-01</gcoord>
+    </node>
+    <node id="287">Gcoord
+        <gcoord>7.28E-01  -1.70E-02  -2.52E-01</gcoord>
+    </node>
+    <node id="288">Gcoord
+        <gcoord>7.28E-01  -2.00E-02  -2.98E-01</gcoord>
+    </node>
+    <node id="289">Gcoord
+        <gcoord>7.30E-01  -6.80E-02  -3.38E-01</gcoord>
+    </node>
+    <node id="290">Gcoord
+        <gcoord>7.30E-01  -1.12E-01  -3.27E-01</gcoord>
+    </node>
+    <node id="291">Gcoord
+        <gcoord>7.30E-01  -1.54E-01  -3.09E-01</gcoord>
+    </node>
+    <node id="292">Gcoord
+        <gcoord>7.30E-01  -1.93E-01  -2.87E-01</gcoord>
+    </node>
+    <node id="293">Gcoord
+        <gcoord>7.30E-01  -2.28E-01  -2.59E-01</gcoord>
+    </node>
+    <node id="294">Gcoord
+        <gcoord>7.30E-01  -2.60E-01  -2.27E-01</gcoord>
+    </node>
+    <node id="295">Gcoord
+        <gcoord>7.30E-01  -2.88E-01  -1.91E-01</gcoord>
+    </node>
+    <node id="296">Gcoord
+        <gcoord>7.30E-01  -3.10E-01  -1.52E-01</gcoord>
+    </node>
+    <node id="297">Gcoord
+        <gcoord>7.30E-01  -3.27E-01  -1.10E-01</gcoord>
+    </node>
+    <node id="298">Gcoord
+        <gcoord>7.30E-01  -3.39E-01  -6.60E-02</gcoord>
+    </node>
+    <node id="299">Gcoord
+        <gcoord>7.30E-01  -3.45E-01  -2.20E-02</gcoord>
+    </node>
+    <node id="300">Gcoord
+        <gcoord>7.30E-01  -3.45E-01  2.40E-02</gcoord>
+    </node>
+    <node id="301">Gcoord
+        <gcoord>7.30E-01  -3.38E-01  6.80E-02</gcoord>
+    </node>
+    <node id="302">Gcoord
+        <gcoord>7.30E-01  -3.27E-01  1.12E-01</gcoord>
+    </node>
+    <node id="303">Gcoord
+        <gcoord>7.30E-01  -3.09E-01  1.54E-01</gcoord>
+    </node>
+    <node id="304">Gcoord
+        <gcoord>7.30E-01  -2.87E-01  1.93E-01</gcoord>
+    </node>
+    <node id="305">Gcoord
+        <gcoord>7.30E-01  -2.59E-01  2.28E-01</gcoord>
+    </node>
+    <node id="306">Gcoord
+        <gcoord>7.30E-01  -2.27E-01  2.60E-01</gcoord>
+    </node>
+    <node id="307">Gcoord
+        <gcoord>7.30E-01  -1.91E-01  2.88E-01</gcoord>
+    </node>
+    <node id="308">Gcoord
+        <gcoord>7.30E-01  -1.52E-01  3.10E-01</gcoord>
+    </node>
+    <node id="309">Gcoord
+        <gcoord>7.30E-01  -1.10E-01  3.27E-01</gcoord>
+    </node>
+    <node id="310">Gcoord
+        <gcoord>7.30E-01  -6.60E-02  3.39E-01</gcoord>
+    </node>
+    <node id="311">Gcoord
+        <gcoord>7.30E-01  -2.20E-02  3.45E-01</gcoord>
+    </node>
+    <node id="312">Gcoord
+        <gcoord>7.28E-01  2.00E-02  2.98E-01</gcoord>
+    </node>
+    <node id="313">Gcoord
+        <gcoord>7.28E-01  1.70E-02  2.52E-01</gcoord>
+    </node>
+    <node id="314">Gcoord
+        <gcoord>7.30E-01  6.80E-02  3.38E-01</gcoord>
+    </node>
+    <node id="315">Gcoord
+        <gcoord>7.30E-01  1.12E-01  3.27E-01</gcoord>
+    </node>
+    <node id="316">Gcoord
+        <gcoord>7.30E-01  1.54E-01  3.09E-01</gcoord>
+    </node>
+    <node id="317">Gcoord
+        <gcoord>7.30E-01  1.93E-01  2.87E-01</gcoord>
+    </node>
+    <node id="318">Gcoord
+        <gcoord>7.30E-01  2.28E-01  2.59E-01</gcoord>
+    </node>
+    <node id="319">Gcoord
+        <gcoord>7.30E-01  2.60E-01  2.27E-01</gcoord>
+    </node>
+    <node id="320">Gcoord
+        <gcoord>7.30E-01  2.88E-01  1.91E-01</gcoord>
+    </node>
+    <node id="321">Gcoord
+        <gcoord>7.30E-01  3.10E-01  1.52E-01</gcoord>
+    </node>
+    <node id="322">Gcoord
+        <gcoord>7.30E-01  3.27E-01  1.10E-01</gcoord>
+    </node>
+    <node id="323">Gcoord
+        <gcoord>7.30E-01  3.39E-01  6.60E-02</gcoord>
+    </node>
+    <node id="324">Gcoord
+        <gcoord>7.30E-01  3.45E-01  2.20E-02</gcoord>
+    </node>
+    <node id="325">Gcoord
+        <gcoord>7.30E-01  3.45E-01  -2.40E-02</gcoord>
+    </node>
+    <node id="326">Gcoord
+        <gcoord>7.30E-01  3.38E-01  -6.80E-02</gcoord>
+    </node>
+    <node id="327">Gcoord
+        <gcoord>7.30E-01  3.27E-01  -1.12E-01</gcoord>
+    </node>
+    <node id="328">Gcoord
+        <gcoord>7.30E-01  3.09E-01  -1.54E-01</gcoord>
+    </node>
+    <node id="329">Gcoord
+        <gcoord>7.30E-01  2.87E-01  -1.93E-01</gcoord>
+    </node>
+    <node id="330">Gcoord
+        <gcoord>7.30E-01  2.59E-01  -2.28E-01</gcoord>
+    </node>
+    <node id="331">Gcoord
+        <gcoord>7.30E-01  2.27E-01  -2.60E-01</gcoord>
+    </node>
+    <node id="332">Gcoord
+        <gcoord>7.30E-01  1.91E-01  -2.88E-01</gcoord>
+    </node>
+    <node id="333">Gcoord
+        <gcoord>7.30E-01  1.52E-01  -3.10E-01</gcoord>
+    </node>
+    <node id="334">Gcoord
+        <gcoord>7.30E-01  1.10E-01  -3.27E-01</gcoord>
+    </node>
+    <node id="335">Gcoord
+        <gcoord>7.30E-01  6.60E-02  -3.39E-01</gcoord>
+    </node>
+    <node id="336">Gcoord
+        <gcoord>7.30E-01  2.20E-02  -3.45E-01</gcoord>
+    </node>
+    <node id="337">Gcoord
+        <gcoord>8.11E-01  2.70E-02  -3.91E-01</gcoord>
+    </node>
+    <node id="338">Gcoord
+        <gcoord>8.11E-01  8.00E-02  -3.84E-01</gcoord>
+    </node>
+    <node id="339">Gcoord
+        <gcoord>8.11E-01  1.31E-01  -3.69E-01</gcoord>
+    </node>
+    <node id="340">Gcoord
+        <gcoord>8.11E-01  1.80E-01  -3.48E-01</gcoord>
+    </node>
+    <node id="341">Gcoord
+        <gcoord>8.11E-01  2.26E-01  -3.20E-01</gcoord>
+    </node>
+    <node id="342">Gcoord
+        <gcoord>8.11E-01  2.68E-01  -2.87E-01</gcoord>
+    </node>
+    <node id="343">Gcoord
+        <gcoord>8.11E-01  3.04E-01  -2.47E-01</gcoord>
+    </node>
+    <node id="344">Gcoord
+        <gcoord>8.11E-01  3.35E-01  -2.04E-01</gcoord>
+    </node>
+    <node id="345">Gcoord
+        <gcoord>8.11E-01  3.60E-01  -1.56E-01</gcoord>
+    </node>
+    <node id="346">Gcoord
+        <gcoord>8.11E-01  3.77E-01  -1.06E-01</gcoord>
+    </node>
+    <node id="347">Gcoord
+        <gcoord>8.11E-01  3.88E-01  -5.30E-02</gcoord>
+    </node>
+    <node id="348">Gcoord
+        <gcoord>8.11E-01  3.92E-01  -4.80E-05</gcoord>
+    </node>
+    <node id="349">Gcoord
+        <gcoord>8.11E-01  3.88E-01  5.30E-02</gcoord>
+    </node>
+    <node id="350">Gcoord
+        <gcoord>8.11E-01  3.77E-01  1.06E-01</gcoord>
+    </node>
+    <node id="351">Gcoord
+        <gcoord>8.11E-01  3.60E-01  1.56E-01</gcoord>
+    </node>
+    <node id="352">Gcoord
+        <gcoord>8.11E-01  3.35E-01  2.04E-01</gcoord>
+    </node>
+    <node id="353">Gcoord
+        <gcoord>8.11E-01  3.04E-01  2.47E-01</gcoord>
+    </node>
+    <node id="354">Gcoord
+        <gcoord>8.11E-01  2.68E-01  2.86E-01</gcoord>
+    </node>
+    <node id="355">Gcoord
+        <gcoord>8.11E-01  2.26E-01  3.20E-01</gcoord>
+    </node>
+    <node id="356">Gcoord
+        <gcoord>8.11E-01  1.80E-01  3.48E-01</gcoord>
+    </node>
+    <node id="357">Gcoord
+        <gcoord>8.11E-01  1.31E-01  3.69E-01</gcoord>
+    </node>
+    <node id="358">Gcoord
+        <gcoord>8.11E-01  8.00E-02  3.84E-01</gcoord>
+    </node>
+    <node id="359">Gcoord
+        <gcoord>8.11E-01  -2.70E-02  3.91E-01</gcoord>
+    </node>
+    <node id="360">Gcoord
+        <gcoord>8.11E-01  -8.00E-02  3.84E-01</gcoord>
+    </node>
+    <node id="361">Gcoord
+        <gcoord>8.11E-01  -1.31E-01  3.69E-01</gcoord>
+    </node>
+    <node id="362">Gcoord
+        <gcoord>8.11E-01  -1.80E-01  3.48E-01</gcoord>
+    </node>
+    <node id="363">Gcoord
+        <gcoord>8.11E-01  -2.26E-01  3.20E-01</gcoord>
+    </node>
+    <node id="364">Gcoord
+        <gcoord>8.11E-01  -2.68E-01  2.87E-01</gcoord>
+    </node>
+    <node id="365">Gcoord
+        <gcoord>8.11E-01  -3.04E-01  2.47E-01</gcoord>
+    </node>
+    <node id="366">Gcoord
+        <gcoord>8.11E-01  -3.35E-01  2.04E-01</gcoord>
+    </node>
+    <node id="367">Gcoord
+        <gcoord>8.11E-01  -3.60E-01  1.56E-01</gcoord>
+    </node>
+    <node id="368">Gcoord
+        <gcoord>8.11E-01  -3.77E-01  1.06E-01</gcoord>
+    </node>
+    <node id="369">Gcoord
+        <gcoord>8.11E-01  -3.88E-01  5.30E-02</gcoord>
+    </node>
+    <node id="370">Gcoord
+        <gcoord>8.11E-01  -3.92E-01  4.80E-05</gcoord>
+    </node>
+    <node id="371">Gcoord
+        <gcoord>8.11E-01  -3.88E-01  -5.30E-02</gcoord>
+    </node>
+    <node id="372">Gcoord
+        <gcoord>8.11E-01  -3.77E-01  -1.06E-01</gcoord>
+    </node>
+    <node id="373">Gcoord
+        <gcoord>8.11E-01  -3.60E-01  -1.56E-01</gcoord>
+    </node>
+    <node id="374">Gcoord
+        <gcoord>8.11E-01  -3.35E-01  -2.04E-01</gcoord>
+    </node>
+    <node id="375">Gcoord
+        <gcoord>8.11E-01  -3.04E-01  -2.47E-01</gcoord>
+    </node>
+    <node id="376">Gcoord
+        <gcoord>8.11E-01  -2.68E-01  -2.86E-01</gcoord>
+    </node>
+    <node id="377">Gcoord
+        <gcoord>8.11E-01  -2.26E-01  -3.20E-01</gcoord>
+    </node>
+    <node id="378">Gcoord
+        <gcoord>8.11E-01  -1.80E-01  -3.48E-01</gcoord>
+    </node>
+    <node id="379">Gcoord
+        <gcoord>8.11E-01  -1.31E-01  -3.69E-01</gcoord>
+    </node>
+    <node id="380">Gcoord
+        <gcoord>8.11E-01  -8.00E-02  -3.84E-01</gcoord>
+    </node>
+    <node id="381">Gcoord
+        <gcoord>7.16E-01  -2.60E-02  -3.86E-01</gcoord>
+    </node>
+    <node id="382">Gcoord
+        <gcoord>6.76E-01  -8.00E-02  -3.97E-01</gcoord>
+    </node>
+    <node id="383">Gcoord
+        <gcoord>6.76E-01  -1.31E-01  -3.83E-01</gcoord>
+    </node>
+    <node id="384">Gcoord
+        <gcoord>6.76E-01  -1.80E-01  -3.63E-01</gcoord>
+    </node>
+    <node id="385">Gcoord
+        <gcoord>6.76E-01  -2.26E-01  -3.36E-01</gcoord>
+    </node>
+    <node id="386">Gcoord
+        <gcoord>6.76E-01  -2.68E-01  -3.04E-01</gcoord>
+    </node>
+    <node id="387">Gcoord
+        <gcoord>6.76E-01  -3.05E-01  -2.66E-01</gcoord>
+    </node>
+    <node id="388">Gcoord
+        <gcoord>6.76E-01  -3.37E-01  -2.24E-01</gcoord>
+    </node>
+    <node id="389">Gcoord
+        <gcoord>6.76E-01  -3.64E-01  -1.78E-01</gcoord>
+    </node>
+    <node id="390">Gcoord
+        <gcoord>6.76E-01  -3.84E-01  -1.29E-01</gcoord>
+    </node>
+    <node id="391">Gcoord
+        <gcoord>6.76E-01  -3.97E-01  -7.80E-02</gcoord>
+    </node>
+    <node id="392">Gcoord
+        <gcoord>6.76E-01  -4.04E-01  -2.50E-02</gcoord>
+    </node>
+    <node id="393">Gcoord
+        <gcoord>6.76E-01  -4.04E-01  2.80E-02</gcoord>
+    </node>
+    <node id="394">Gcoord
+        <gcoord>6.76E-01  -3.97E-01  8.00E-02</gcoord>
+    </node>
+    <node id="395">Gcoord
+        <gcoord>6.76E-01  -3.83E-01  1.31E-01</gcoord>
+    </node>
+    <node id="396">Gcoord
+        <gcoord>6.76E-01  -3.63E-01  1.80E-01</gcoord>
+    </node>
+    <node id="397">Gcoord
+        <gcoord>6.76E-01  -3.36E-01  2.26E-01</gcoord>
+    </node>
+    <node id="398">Gcoord
+        <gcoord>6.76E-01  -3.04E-01  2.68E-01</gcoord>
+    </node>
+    <node id="399">Gcoord
+        <gcoord>6.76E-01  -2.66E-01  3.05E-01</gcoord>
+    </node>
+    <node id="400">Gcoord
+        <gcoord>6.76E-01  -2.24E-01  3.37E-01</gcoord>
+    </node>
+    <node id="401">Gcoord
+        <gcoord>6.76E-01  -1.78E-01  3.64E-01</gcoord>
+    </node>
+    <node id="402">Gcoord
+        <gcoord>6.76E-01  -1.29E-01  3.84E-01</gcoord>
+    </node>
+    <node id="403">Gcoord
+        <gcoord>6.76E-01  -7.80E-02  3.97E-01</gcoord>
+    </node>
+    <node id="404">Gcoord
+        <gcoord>6.76E-01  -2.50E-02  4.04E-01</gcoord>
+    </node>
+    <node id="405">Gcoord
+        <gcoord>7.16E-01  2.60E-02  3.86E-01</gcoord>
+    </node>
+    <node id="406">Gcoord
+        <gcoord>6.76E-01  8.00E-02  3.97E-01</gcoord>
+    </node>
+    <node id="407">Gcoord
+        <gcoord>6.76E-01  1.31E-01  3.83E-01</gcoord>
+    </node>
+    <node id="408">Gcoord
+        <gcoord>6.76E-01  1.80E-01  3.63E-01</gcoord>
+    </node>
+    <node id="409">Gcoord
+        <gcoord>6.76E-01  2.26E-01  3.36E-01</gcoord>
+    </node>
+    <node id="410">Gcoord
+        <gcoord>6.76E-01  2.68E-01  3.04E-01</gcoord>
+    </node>
+    <node id="411">Gcoord
+        <gcoord>6.76E-01  3.05E-01  2.66E-01</gcoord>
+    </node>
+    <node id="412">Gcoord
+        <gcoord>6.76E-01  3.37E-01  2.24E-01</gcoord>
+    </node>
+    <node id="413">Gcoord
+        <gcoord>6.76E-01  3.64E-01  1.78E-01</gcoord>
+    </node>
+    <node id="414">Gcoord
+        <gcoord>6.76E-01  3.84E-01  1.29E-01</gcoord>
+    </node>
+    <node id="415">Gcoord
+        <gcoord>6.76E-01  3.97E-01  7.80E-02</gcoord>
+    </node>
+    <node id="416">Gcoord
+        <gcoord>6.76E-01  4.04E-01  2.50E-02</gcoord>
+    </node>
+    <node id="417">Gcoord
+        <gcoord>6.76E-01  4.04E-01  -2.80E-02</gcoord>
+    </node>
+    <node id="418">Gcoord
+        <gcoord>6.76E-01  3.97E-01  -8.00E-02</gcoord>
+    </node>
+    <node id="419">Gcoord
+        <gcoord>6.76E-01  3.83E-01  -1.31E-01</gcoord>
+    </node>
+    <node id="420">Gcoord
+        <gcoord>6.76E-01  3.63E-01  -1.80E-01</gcoord>
+    </node>
+    <node id="421">Gcoord
+        <gcoord>6.76E-01  3.36E-01  -2.26E-01</gcoord>
+    </node>
+    <node id="422">Gcoord
+        <gcoord>6.76E-01  3.04E-01  -2.68E-01</gcoord>
+    </node>
+    <node id="423">Gcoord
+        <gcoord>6.76E-01  2.66E-01  -3.05E-01</gcoord>
+    </node>
+    <node id="424">Gcoord
+        <gcoord>6.76E-01  2.24E-01  -3.37E-01</gcoord>
+    </node>
+    <node id="425">Gcoord
+        <gcoord>6.76E-01  1.78E-01  -3.64E-01</gcoord>
+    </node>
+    <node id="426">Gcoord
+        <gcoord>6.76E-01  1.29E-01  -3.84E-01</gcoord>
+    </node>
+    <node id="427">Gcoord
+        <gcoord>6.76E-01  7.80E-02  -3.97E-01</gcoord>
+    </node>
+    <node id="428">Gcoord
+        <gcoord>6.76E-01  2.50E-02  -4.04E-01</gcoord>
+    </node>
+    <node id="429">Gcoord
+        <gcoord>8.11E-01  2.00E-02  -4.53E-01</gcoord>
+    </node>
+    <node id="430">Gcoord
+        <gcoord>8.11E-01  7.00E-02  -4.48E-01</gcoord>
+    </node>
+    <node id="431">Gcoord
+        <gcoord>8.11E-01  1.20E-01  -4.37E-01</gcoord>
+    </node>
+    <node id="432">Gcoord
+        <gcoord>8.11E-01  1.68E-01  -4.21E-01</gcoord>
+    </node>
+    <node id="433">Gcoord
+        <gcoord>8.11E-01  2.14E-01  -3.99E-01</gcoord>
+    </node>
+    <node id="434">Gcoord
+        <gcoord>8.11E-01  2.58E-01  -3.73E-01</gcoord>
+    </node>
+    <node id="435">Gcoord
+        <gcoord>8.11E-01  2.98E-01  -3.41E-01</gcoord>
+    </node>
+    <node id="436">Gcoord
+        <gcoord>8.11E-01  3.34E-01  -3.06E-01</gcoord>
+    </node>
+    <node id="437">Gcoord
+        <gcoord>8.11E-01  3.66E-01  -2.67E-01</gcoord>
+    </node>
+    <node id="438">Gcoord
+        <gcoord>8.11E-01  3.94E-01  -2.24E-01</gcoord>
+    </node>
+    <node id="439">Gcoord
+        <gcoord>8.11E-01  4.16E-01  -1.79E-01</gcoord>
+    </node>
+    <node id="440">Gcoord
+        <gcoord>8.11E-01  4.34E-01  -1.31E-01</gcoord>
+    </node>
+    <node id="441">Gcoord
+        <gcoord>8.11E-01  4.46E-01  -8.10E-02</gcoord>
+    </node>
+    <node id="442">Gcoord
+        <gcoord>8.11E-01  4.52E-01  -3.10E-02</gcoord>
+    </node>
+    <node id="443">Gcoord
+        <gcoord>8.11E-01  4.53E-01  2.00E-02</gcoord>
+    </node>
+    <node id="444">Gcoord
+        <gcoord>8.11E-01  4.48E-01  7.00E-02</gcoord>
+    </node>
+    <node id="445">Gcoord
+        <gcoord>8.11E-01  4.37E-01  1.20E-01</gcoord>
+    </node>
+    <node id="446">Gcoord
+        <gcoord>8.11E-01  4.21E-01  1.68E-01</gcoord>
+    </node>
+    <node id="447">Gcoord
+        <gcoord>8.11E-01  3.99E-01  2.14E-01</gcoord>
+    </node>
+    <node id="448">Gcoord
+        <gcoord>8.11E-01  3.73E-01  2.58E-01</gcoord>
+    </node>
+    <node id="449">Gcoord
+        <gcoord>8.11E-01  3.41E-01  2.98E-01</gcoord>
+    </node>
+    <node id="450">Gcoord
+        <gcoord>8.11E-01  3.06E-01  3.34E-01</gcoord>
+    </node>
+    <node id="451">Gcoord
+        <gcoord>8.11E-01  2.67E-01  3.66E-01</gcoord>
+    </node>
+    <node id="452">Gcoord
+        <gcoord>8.11E-01  2.24E-01  3.94E-01</gcoord>
+    </node>
+    <node id="453">Gcoord
+        <gcoord>8.11E-01  1.79E-01  4.16E-01</gcoord>
+    </node>
+    <node id="454">Gcoord
+        <gcoord>8.11E-01  1.31E-01  4.34E-01</gcoord>
+    </node>
+    <node id="455">Gcoord
+        <gcoord>8.11E-01  8.10E-02  4.46E-01</gcoord>
+    </node>
+    <node id="456">Gcoord
+        <gcoord>8.11E-01  -2.00E-02  4.53E-01</gcoord>
+    </node>
+    <node id="457">Gcoord
+        <gcoord>8.11E-01  -7.00E-02  4.48E-01</gcoord>
+    </node>
+    <node id="458">Gcoord
+        <gcoord>8.11E-01  -1.20E-01  4.37E-01</gcoord>
+    </node>
+    <node id="459">Gcoord
+        <gcoord>8.11E-01  -1.68E-01  4.21E-01</gcoord>
+    </node>
+    <node id="460">Gcoord
+        <gcoord>8.11E-01  -2.14E-01  3.99E-01</gcoord>
+    </node>
+    <node id="461">Gcoord
+        <gcoord>8.11E-01  -2.58E-01  3.73E-01</gcoord>
+    </node>
+    <node id="462">Gcoord
+        <gcoord>8.11E-01  -2.98E-01  3.41E-01</gcoord>
+    </node>
+    <node id="463">Gcoord
+        <gcoord>8.11E-01  -3.34E-01  3.06E-01</gcoord>
+    </node>
+    <node id="464">Gcoord
+        <gcoord>8.11E-01  -3.66E-01  2.67E-01</gcoord>
+    </node>
+    <node id="465">Gcoord
+        <gcoord>8.11E-01  -3.94E-01  2.24E-01</gcoord>
+    </node>
+    <node id="466">Gcoord
+        <gcoord>8.11E-01  -4.16E-01  1.79E-01</gcoord>
+    </node>
+    <node id="467">Gcoord
+        <gcoord>8.11E-01  -4.34E-01  1.31E-01</gcoord>
+    </node>
+    <node id="468">Gcoord
+        <gcoord>8.11E-01  -4.46E-01  8.10E-02</gcoord>
+    </node>
+    <node id="469">Gcoord
+        <gcoord>8.11E-01  -4.52E-01  3.10E-02</gcoord>
+    </node>
+    <node id="470">Gcoord
+        <gcoord>8.11E-01  -4.53E-01  -2.00E-02</gcoord>
+    </node>
+    <node id="471">Gcoord
+        <gcoord>8.11E-01  -4.48E-01  -7.00E-02</gcoord>
+    </node>
+    <node id="472">Gcoord
+        <gcoord>8.11E-01  -4.37E-01  -1.20E-01</gcoord>
+    </node>
+    <node id="473">Gcoord
+        <gcoord>8.11E-01  -4.21E-01  -1.68E-01</gcoord>
+    </node>
+    <node id="474">Gcoord
+        <gcoord>8.11E-01  -3.99E-01  -2.14E-01</gcoord>
+    </node>
+    <node id="475">Gcoord
+        <gcoord>8.11E-01  -3.73E-01  -2.58E-01</gcoord>
+    </node>
+    <node id="476">Gcoord
+        <gcoord>8.11E-01  -3.41E-01  -2.98E-01</gcoord>
+    </node>
+    <node id="477">Gcoord
+        <gcoord>8.11E-01  -3.06E-01  -3.34E-01</gcoord>
+    </node>
+    <node id="478">Gcoord
+        <gcoord>8.11E-01  -2.67E-01  -3.66E-01</gcoord>
+    </node>
+    <node id="479">Gcoord
+        <gcoord>8.11E-01  -2.24E-01  -3.94E-01</gcoord>
+    </node>
+    <node id="480">Gcoord
+        <gcoord>8.11E-01  -1.79E-01  -4.16E-01</gcoord>
+    </node>
+    <node id="481">Gcoord
+        <gcoord>8.11E-01  -1.31E-01  -4.34E-01</gcoord>
+    </node>
+    <node id="482">Gcoord
+        <gcoord>8.11E-01  -8.10E-02  -4.46E-01</gcoord>
+    </node>
+    <node id="483">Gcoord
+        <gcoord>8.06E-01  4.57E-01  2.00E-02</gcoord>
+    </node>
+    <node id="484">Gcoord
+        <gcoord>8.06E-01  4.52E-01  7.10E-02</gcoord>
+    </node>
+    <node id="485">Gcoord
+        <gcoord>8.06E-01  4.41E-01  1.21E-01</gcoord>
+    </node>
+    <node id="486">Gcoord
+        <gcoord>8.06E-01  4.25E-01  1.70E-01</gcoord>
+    </node>
+    <node id="487">Gcoord
+        <gcoord>8.06E-01  4.03E-01  2.16E-01</gcoord>
+    </node>
+    <node id="488">Gcoord
+        <gcoord>8.06E-01  3.76E-01  2.60E-01</gcoord>
+    </node>
+    <node id="489">Gcoord
+        <gcoord>8.06E-01  3.45E-01  3.01E-01</gcoord>
+    </node>
+    <node id="490">Gcoord
+        <gcoord>8.06E-01  3.09E-01  3.37E-01</gcoord>
+    </node>
+    <node id="491">Gcoord
+        <gcoord>8.06E-01  2.69E-01  3.70E-01</gcoord>
+    </node>
+    <node id="492">Gcoord
+        <gcoord>8.06E-01  2.26E-01  3.98E-01</gcoord>
+    </node>
+    <node id="493">Gcoord
+        <gcoord>8.06E-01  1.80E-01  4.20E-01</gcoord>
+    </node>
+    <node id="494">Gcoord
+        <gcoord>8.06E-01  1.32E-01  4.38E-01</gcoord>
+    </node>
+    <node id="495">Gcoord
+        <gcoord>8.06E-01  8.20E-02  4.50E-01</gcoord>
+    </node>
+    <node id="496">Gcoord
+        <gcoord>8.06E-01  2.00E-02  -4.57E-01</gcoord>
+    </node>
+    <node id="497">Gcoord
+        <gcoord>8.06E-01  7.10E-02  -4.52E-01</gcoord>
+    </node>
+    <node id="498">Gcoord
+        <gcoord>8.06E-01  1.21E-01  -4.41E-01</gcoord>
+    </node>
+    <node id="499">Gcoord
+        <gcoord>8.06E-01  1.70E-01  -4.25E-01</gcoord>
+    </node>
+    <node id="500">Gcoord
+        <gcoord>8.06E-01  2.16E-01  -4.03E-01</gcoord>
+    </node>
+    <node id="501">Gcoord
+        <gcoord>8.06E-01  2.60E-01  -3.76E-01</gcoord>
+    </node>
+    <node id="502">Gcoord
+        <gcoord>8.06E-01  3.01E-01  -3.45E-01</gcoord>
+    </node>
+    <node id="503">Gcoord
+        <gcoord>8.06E-01  3.37E-01  -3.09E-01</gcoord>
+    </node>
+    <node id="504">Gcoord
+        <gcoord>8.06E-01  3.70E-01  -2.69E-01</gcoord>
+    </node>
+    <node id="505">Gcoord
+        <gcoord>8.06E-01  3.98E-01  -2.26E-01</gcoord>
+    </node>
+    <node id="506">Gcoord
+        <gcoord>8.06E-01  4.20E-01  -1.80E-01</gcoord>
+    </node>
+    <node id="507">Gcoord
+        <gcoord>8.06E-01  4.38E-01  -1.32E-01</gcoord>
+    </node>
+    <node id="508">Gcoord
+        <gcoord>8.06E-01  4.50E-01  -8.20E-02</gcoord>
+    </node>
+    <node id="509">Gcoord
+        <gcoord>6.76E-01  4.59E-01  -8.40E-02</gcoord>
+    </node>
+    <node id="510">Gcoord
+        <gcoord>6.76E-01  4.47E-01  -1.35E-01</gcoord>
+    </node>
+    <node id="511">Gcoord
+        <gcoord>6.76E-01  4.29E-01  -1.84E-01</gcoord>
+    </node>
+    <node id="512">Gcoord
+        <gcoord>6.76E-01  4.05E-01  -2.31E-01</gcoord>
+    </node>
+    <node id="513">Gcoord
+        <gcoord>6.76E-01  3.77E-01  -2.75E-01</gcoord>
+    </node>
+    <node id="514">Gcoord
+        <gcoord>6.76E-01  3.44E-01  -3.15E-01</gcoord>
+    </node>
+    <node id="515">Gcoord
+        <gcoord>6.76E-01  3.07E-01  -3.52E-01</gcoord>
+    </node>
+    <node id="516">Gcoord
+        <gcoord>6.76E-01  2.65E-01  -3.84E-01</gcoord>
+    </node>
+    <node id="517">Gcoord
+        <gcoord>6.76E-01  2.21E-01  -4.11E-01</gcoord>
+    </node>
+    <node id="518">Gcoord
+        <gcoord>6.76E-01  1.73E-01  -4.33E-01</gcoord>
+    </node>
+    <node id="519">Gcoord
+        <gcoord>6.76E-01  1.24E-01  -4.50E-01</gcoord>
+    </node>
+    <node id="520">Gcoord
+        <gcoord>6.76E-01  7.20E-02  -4.61E-01</gcoord>
+    </node>
+    <node id="521">Gcoord
+        <gcoord>6.76E-01  2.00E-02  -4.66E-01</gcoord>
+    </node>
+    <node id="522">Gcoord
+        <gcoord>6.76E-01  -3.20E-02  -4.65E-01</gcoord>
+    </node>
+    <node id="523">Gcoord
+        <gcoord>6.76E-01  -8.40E-02  -4.59E-01</gcoord>
+    </node>
+    <node id="524">Gcoord
+        <gcoord>6.76E-01  -1.35E-01  -4.47E-01</gcoord>
+    </node>
+    <node id="525">Gcoord
+        <gcoord>6.76E-01  -1.84E-01  -4.29E-01</gcoord>
+    </node>
+    <node id="526">Gcoord
+        <gcoord>6.76E-01  -2.31E-01  -4.05E-01</gcoord>
+    </node>
+    <node id="527">Gcoord
+        <gcoord>6.76E-01  -2.75E-01  -3.77E-01</gcoord>
+    </node>
+    <node id="528">Gcoord
+        <gcoord>6.76E-01  -3.15E-01  -3.44E-01</gcoord>
+    </node>
+    <node id="529">Gcoord
+        <gcoord>6.76E-01  -3.52E-01  -3.07E-01</gcoord>
+    </node>
+    <node id="530">Gcoord
+        <gcoord>6.76E-01  -3.84E-01  -2.65E-01</gcoord>
+    </node>
+    <node id="531">Gcoord
+        <gcoord>6.76E-01  -4.11E-01  -2.21E-01</gcoord>
+    </node>
+    <node id="532">Gcoord
+        <gcoord>6.76E-01  -4.33E-01  -1.73E-01</gcoord>
+    </node>
+    <node id="533">Gcoord
+        <gcoord>6.76E-01  -4.50E-01  -1.24E-01</gcoord>
+    </node>
+    <node id="534">Gcoord
+        <gcoord>6.76E-01  -4.61E-01  -7.20E-02</gcoord>
+    </node>
+    <node id="535">Gcoord
+        <gcoord>6.76E-01  -4.66E-01  -2.00E-02</gcoord>
+    </node>
+    <node id="536">Gcoord
+        <gcoord>6.76E-01  -4.59E-01  8.40E-02</gcoord>
+    </node>
+    <node id="537">Gcoord
+        <gcoord>6.76E-01  -4.47E-01  1.35E-01</gcoord>
+    </node>
+    <node id="538">Gcoord
+        <gcoord>6.76E-01  -4.29E-01  1.84E-01</gcoord>
+    </node>
+    <node id="539">Gcoord
+        <gcoord>6.76E-01  -4.05E-01  2.31E-01</gcoord>
+    </node>
+    <node id="540">Gcoord
+        <gcoord>6.76E-01  -3.77E-01  2.75E-01</gcoord>
+    </node>
+    <node id="541">Gcoord
+        <gcoord>6.76E-01  -3.44E-01  3.15E-01</gcoord>
+    </node>
+    <node id="542">Gcoord
+        <gcoord>6.76E-01  -3.07E-01  3.52E-01</gcoord>
+    </node>
+    <node id="543">Gcoord
+        <gcoord>6.76E-01  -2.65E-01  3.84E-01</gcoord>
+    </node>
+    <node id="544">Gcoord
+        <gcoord>6.76E-01  -2.21E-01  4.11E-01</gcoord>
+    </node>
+    <node id="545">Gcoord
+        <gcoord>6.76E-01  -1.73E-01  4.33E-01</gcoord>
+    </node>
+    <node id="546">Gcoord
+        <gcoord>6.76E-01  -1.24E-01  4.50E-01</gcoord>
+    </node>
+    <node id="547">Gcoord
+        <gcoord>6.76E-01  -7.20E-02  4.61E-01</gcoord>
+    </node>
+    <node id="548">Gcoord
+        <gcoord>6.76E-01  -2.00E-02  4.66E-01</gcoord>
+    </node>
+    <node id="549">Gcoord
+        <gcoord>6.76E-01  3.20E-02  4.65E-01</gcoord>
+    </node>
+    <node id="550">Gcoord
+        <gcoord>6.76E-01  8.40E-02  4.59E-01</gcoord>
+    </node>
+    <node id="551">Gcoord
+        <gcoord>6.76E-01  1.35E-01  4.47E-01</gcoord>
+    </node>
+    <node id="552">Gcoord
+        <gcoord>6.76E-01  1.84E-01  4.29E-01</gcoord>
+    </node>
+    <node id="553">Gcoord
+        <gcoord>6.76E-01  2.31E-01  4.05E-01</gcoord>
+    </node>
+    <node id="554">Gcoord
+        <gcoord>6.76E-01  2.75E-01  3.77E-01</gcoord>
+    </node>
+    <node id="555">Gcoord
+        <gcoord>6.76E-01  3.15E-01  3.44E-01</gcoord>
+    </node>
+    <node id="556">Gcoord
+        <gcoord>6.76E-01  3.52E-01  3.07E-01</gcoord>
+    </node>
+    <node id="557">Gcoord
+        <gcoord>6.76E-01  3.84E-01  2.65E-01</gcoord>
+    </node>
+    <node id="558">Gcoord
+        <gcoord>6.76E-01  4.11E-01  2.21E-01</gcoord>
+    </node>
+    <node id="559">Gcoord
+        <gcoord>6.76E-01  4.33E-01  1.73E-01</gcoord>
+    </node>
+    <node id="560">Gcoord
+        <gcoord>6.76E-01  4.50E-01  1.24E-01</gcoord>
+    </node>
+    <node id="561">Gcoord
+        <gcoord>6.76E-01  4.61E-01  7.20E-02</gcoord>
+    </node>
+    <node id="562">Gcoord
+        <gcoord>6.76E-01  4.66E-01  2.00E-02</gcoord>
+    </node>
+    <node id="563">Gcoord
+        <gcoord>6.80E-01  -4.78E-01  3.30E-02</gcoord>
+    </node>
+    <node id="564">Gcoord
+        <gcoord>6.88E-01  -4.84E-01  3.30E-02</gcoord>
+    </node>
+    <node id="565">Gcoord
+        <gcoord>6.97E-01  -4.85E-01  3.30E-02</gcoord>
+    </node>
+    <node id="566">Gcoord
+        <gcoord>7.08E-01  -4.74E-01  3.20E-02</gcoord>
+    </node>
+    <node id="567">Gcoord
+        <gcoord>7.13E-01  -4.65E-01  3.20E-02</gcoord>
+    </node>
+    <node id="568">Gcoord
+        <gcoord>7.27E-01  -4.61E-01  3.20E-02</gcoord>
+    </node>
+    <node id="569">Gcoord
+        <gcoord>7.54E-01  -4.59E-01  3.10E-02</gcoord>
+    </node>
+    <node id="570">Gcoord
+        <gcoord>8.06E-01  -4.50E-01  8.20E-02</gcoord>
+    </node>
+    <node id="571">Gcoord
+        <gcoord>8.06E-01  -4.38E-01  1.32E-01</gcoord>
+    </node>
+    <node id="572">Gcoord
+        <gcoord>8.06E-01  -4.20E-01  1.80E-01</gcoord>
+    </node>
+    <node id="573">Gcoord
+        <gcoord>8.06E-01  -3.98E-01  2.26E-01</gcoord>
+    </node>
+    <node id="574">Gcoord
+        <gcoord>8.06E-01  -3.70E-01  2.69E-01</gcoord>
+    </node>
+    <node id="575">Gcoord
+        <gcoord>8.06E-01  -3.37E-01  3.09E-01</gcoord>
+    </node>
+    <node id="576">Gcoord
+        <gcoord>8.06E-01  -3.01E-01  3.45E-01</gcoord>
+    </node>
+    <node id="577">Gcoord
+        <gcoord>8.06E-01  -2.60E-01  3.76E-01</gcoord>
+    </node>
+    <node id="578">Gcoord
+        <gcoord>8.06E-01  -2.16E-01  4.03E-01</gcoord>
+    </node>
+    <node id="579">Gcoord
+        <gcoord>8.06E-01  -1.70E-01  4.25E-01</gcoord>
+    </node>
+    <node id="580">Gcoord
+        <gcoord>8.06E-01  -1.21E-01  4.41E-01</gcoord>
+    </node>
+    <node id="581">Gcoord
+        <gcoord>8.06E-01  -7.10E-02  4.52E-01</gcoord>
+    </node>
+    <node id="582">Gcoord
+        <gcoord>8.06E-01  -2.00E-02  4.57E-01</gcoord>
+    </node>
+    <node id="583">Gcoord
+        <gcoord>7.54E-01  4.59E-01  -3.10E-02</gcoord>
+    </node>
+    <node id="584">Gcoord
+        <gcoord>7.27E-01  4.61E-01  -3.20E-02</gcoord>
+    </node>
+    <node id="585">Gcoord
+        <gcoord>7.13E-01  4.65E-01  -3.20E-02</gcoord>
+    </node>
+    <node id="586">Gcoord
+        <gcoord>7.08E-01  4.74E-01  -3.20E-02</gcoord>
+    </node>
+    <node id="587">Gcoord
+        <gcoord>6.97E-01  4.85E-01  -3.30E-02</gcoord>
+    </node>
+    <node id="588">Gcoord
+        <gcoord>6.88E-01  4.84E-01  -3.30E-02</gcoord>
+    </node>
+    <node id="589">Gcoord
+        <gcoord>6.80E-01  4.78E-01  -3.30E-02</gcoord>
+    </node>
+    <node id="590">Gcoord
+        <gcoord>8.06E-01  -4.57E-01  -2.00E-02</gcoord>
+    </node>
+    <node id="591">Gcoord
+        <gcoord>8.06E-01  -4.52E-01  -7.10E-02</gcoord>
+    </node>
+    <node id="592">Gcoord
+        <gcoord>8.06E-01  -4.41E-01  -1.21E-01</gcoord>
+    </node>
+    <node id="593">Gcoord
+        <gcoord>8.06E-01  -4.25E-01  -1.70E-01</gcoord>
+    </node>
+    <node id="594">Gcoord
+        <gcoord>8.06E-01  -4.03E-01  -2.16E-01</gcoord>
+    </node>
+    <node id="595">Gcoord
+        <gcoord>8.06E-01  -3.76E-01  -2.60E-01</gcoord>
+    </node>
+    <node id="596">Gcoord
+        <gcoord>8.06E-01  -3.45E-01  -3.01E-01</gcoord>
+    </node>
+    <node id="597">Gcoord
+        <gcoord>8.06E-01  -3.09E-01  -3.37E-01</gcoord>
+    </node>
+    <node id="598">Gcoord
+        <gcoord>8.06E-01  -2.69E-01  -3.70E-01</gcoord>
+    </node>
+    <node id="599">Gcoord
+        <gcoord>8.06E-01  -2.26E-01  -3.98E-01</gcoord>
+    </node>
+    <node id="600">Gcoord
+        <gcoord>8.06E-01  -1.80E-01  -4.20E-01</gcoord>
+    </node>
+    <node id="601">Gcoord
+        <gcoord>8.06E-01  -1.32E-01  -4.38E-01</gcoord>
+    </node>
+    <node id="602">Gcoord
+        <gcoord>8.06E-01  -8.20E-02  -4.50E-01</gcoord>
+    </node>
+    <node id="603">Gcoord
+        <gcoord>7.72E-01  -4.20E-02  8.60E-02</gcoord>
+    </node>
+    <node id="604">Gcoord
+        <gcoord>7.72E-01  -7.90E-02  5.30E-02</gcoord>
+    </node>
+    <node id="605">Gcoord
+        <gcoord>7.72E-01  -9.50E-02  7.00E-03</gcoord>
+    </node>
+    <node id="606">Gcoord
+        <gcoord>7.72E-01  -8.60E-02  -4.20E-02</gcoord>
+    </node>
+    <node id="607">Gcoord
+        <gcoord>7.72E-01  -5.30E-02  -7.90E-02</gcoord>
+    </node>
+    <node id="608">Gcoord
+        <gcoord>7.14E-01  -4.20E-02  8.60E-02</gcoord>
+    </node>
+    <node id="609">Gcoord
+        <gcoord>7.14E-01  -7.90E-02  5.30E-02</gcoord>
+    </node>
+    <node id="610">Gcoord
+        <gcoord>7.14E-01  -9.50E-02  7.00E-03</gcoord>
+    </node>
+    <node id="611">Gcoord
+        <gcoord>7.14E-01  -8.60E-02  -4.20E-02</gcoord>
+    </node>
+    <node id="612">Gcoord
+        <gcoord>7.14E-01  -5.30E-02  -7.90E-02</gcoord>
+    </node>
+    <node id="613">Gcoord
+        <gcoord>7.14E-01  4.20E-02  -8.60E-02</gcoord>
+    </node>
+    <node id="614">Gcoord
+        <gcoord>7.72E-01  4.20E-02  -8.60E-02</gcoord>
+    </node>
+    <node id="615">Gcoord
+        <gcoord>7.14E-01  7.90E-02  -5.30E-02</gcoord>
+    </node>
+    <node id="616">Gcoord
+        <gcoord>7.72E-01  7.90E-02  -5.30E-02</gcoord>
+    </node>
+    <node id="617">Gcoord
+        <gcoord>7.14E-01  9.50E-02  -7.00E-03</gcoord>
+    </node>
+    <node id="618">Gcoord
+        <gcoord>7.72E-01  9.50E-02  -7.00E-03</gcoord>
+    </node>
+    <node id="619">Gcoord
+        <gcoord>7.14E-01  8.60E-02  4.20E-02</gcoord>
+    </node>
+    <node id="620">Gcoord
+        <gcoord>7.72E-01  8.60E-02  4.20E-02</gcoord>
+    </node>
+    <node id="621">Gcoord
+        <gcoord>7.14E-01  5.30E-02  7.90E-02</gcoord>
+    </node>
+    <node id="622">Gcoord
+        <gcoord>7.72E-01  5.30E-02  7.90E-02</gcoord>
+    </node>
+    <node id="623">Gcoord
+        <gcoord>7.76E-01  -3.20E-02  1.46E-01</gcoord>
+    </node>
+    <node id="624">Gcoord
+        <gcoord>7.74E-01  -7.10E-02  1.33E-01</gcoord>
+    </node>
+    <node id="625">Gcoord
+        <gcoord>7.72E-01  -1.05E-01  1.12E-01</gcoord>
+    </node>
+    <node id="626">Gcoord
+        <gcoord>7.71E-01  -1.31E-01  8.30E-02</gcoord>
+    </node>
+    <node id="627">Gcoord
+        <gcoord>7.70E-01  -1.49E-01  4.80E-02</gcoord>
+    </node>
+    <node id="628">Gcoord
+        <gcoord>7.69E-01  -1.57E-01  1.10E-02</gcoord>
+    </node>
+    <node id="629">Gcoord
+        <gcoord>7.70E-01  -1.54E-01  -2.80E-02</gcoord>
+    </node>
+    <node id="630">Gcoord
+        <gcoord>7.71E-01  -1.41E-01  -6.40E-02</gcoord>
+    </node>
+    <node id="631">Gcoord
+        <gcoord>7.72E-01  -1.19E-01  -9.70E-02</gcoord>
+    </node>
+    <node id="632">Gcoord
+        <gcoord>7.74E-01  -8.80E-02  -1.22E-01</gcoord>
+    </node>
+    <node id="633">Gcoord
+        <gcoord>7.76E-01  -5.10E-02  -1.40E-01</gcoord>
+    </node>
+    <node id="634">Gcoord
+        <gcoord>7.76E-01  3.20E-02  -1.46E-01</gcoord>
+    </node>
+    <node id="635">Gcoord
+        <gcoord>7.74E-01  7.10E-02  -1.33E-01</gcoord>
+    </node>
+    <node id="636">Gcoord
+        <gcoord>7.72E-01  1.05E-01  -1.12E-01</gcoord>
+    </node>
+    <node id="637">Gcoord
+        <gcoord>7.71E-01  1.31E-01  -8.30E-02</gcoord>
+    </node>
+    <node id="638">Gcoord
+        <gcoord>7.70E-01  1.49E-01  -4.80E-02</gcoord>
+    </node>
+    <node id="639">Gcoord
+        <gcoord>7.69E-01  1.57E-01  -1.10E-02</gcoord>
+    </node>
+    <node id="640">Gcoord
+        <gcoord>7.70E-01  1.54E-01  2.80E-02</gcoord>
+    </node>
+    <node id="641">Gcoord
+        <gcoord>7.71E-01  1.41E-01  6.40E-02</gcoord>
+    </node>
+    <node id="642">Gcoord
+        <gcoord>7.72E-01  1.19E-01  9.70E-02</gcoord>
+    </node>
+    <node id="643">Gcoord
+        <gcoord>7.74E-01  8.80E-02  1.22E-01</gcoord>
+    </node>
+    <node id="644">Gcoord
+        <gcoord>7.76E-01  5.10E-02  1.40E-01</gcoord>
+    </node>
+    <node id="645">Gcoord
+        <gcoord>6.56E-01  -8.40E-02  -7.30E-02</gcoord>
+    </node>
+    <node id="646">Gcoord
+        <gcoord>6.56E-01  7.30E-02  -8.40E-02</gcoord>
+    </node>
+    <node id="647">Gcoord
+        <gcoord>6.56E-01  1.06E-01  -3.60E-02</gcoord>
+    </node>
+    <node id="648">Gcoord
+        <gcoord>6.56E-01  -7.30E-02  8.40E-02</gcoord>
+    </node>
+    <node id="649">Gcoord
+        <gcoord>6.56E-01  1.10E-01  2.10E-02</gcoord>
+    </node>
+    <node id="650">Gcoord
+        <gcoord>6.56E-01  -1.06E-01  3.60E-02</gcoord>
+    </node>
+    <node id="651">Gcoord
+        <gcoord>6.56E-01  -1.10E-01  -2.10E-02</gcoord>
+    </node>
+    <node id="652">Gcoord
+        <gcoord>6.56E-01  8.40E-02  7.30E-02</gcoord>
+    </node>
+    <node id="653">Gcoord
+        <gcoord>6.56E-01  3.60E-02  -1.10E-01</gcoord>
+    </node>
+    <node id="654">Gcoord
+        <gcoord>6.56E-01  -3.60E-02  1.10E-01</gcoord>
+    </node>
+    <node id="655">Gcoord
+        <gcoord>6.56E-01  2.10E-02  -1.08E-01</gcoord>
+    </node>
+    <node id="656">Gcoord
+        <gcoord>6.56E-01  -2.10E-02  1.08E-01</gcoord>
+    </node>
+    <node id="657">Gcoord
+        <gcoord>6.56E-01  5.10E-02  1.04E-01</gcoord>
+    </node>
+    <node id="658">Gcoord
+        <gcoord>6.56E-01  3.50E-02  1.04E-01</gcoord>
+    </node>
+    <node id="659">Gcoord
+        <gcoord>6.56E-01  -4.50E-02  -1.02E-01</gcoord>
+    </node>
+    <node id="660">Gcoord
+        <gcoord>7.56E-01  2.43E-01  -4.90E-02</gcoord>
+    </node>
+    <node id="661">Gcoord
+        <gcoord>7.56E-01  3.09E-01  2.30E-02</gcoord>
+    </node>
+    <node id="662">Gcoord
+        <gcoord>7.56E-01  2.48E-01  1.70E-02</gcoord>
+    </node>
+    <node id="663">Gcoord
+        <gcoord>7.56E-01  3.17E-01  6.80E-02</gcoord>
+    </node>
+    <node id="664">Gcoord
+        <gcoord>7.56E-01  2.99E-01  1.04E-01</gcoord>
+    </node>
+    <node id="665">Gcoord
+        <gcoord>7.56E-01  2.61E-01  1.90E-01</gcoord>
+    </node>
+    <node id="666">Gcoord
+        <gcoord>7.56E-01  2.23E-01  2.17E-01</gcoord>
+    </node>
+    <node id="667">Gcoord
+        <gcoord>7.56E-01  1.65E-01  2.69E-01</gcoord>
+    </node>
+    <node id="668">Gcoord
+        <gcoord>7.56E-01  1.22E-01  2.89E-01</gcoord>
+    </node>
+    <node id="669">Gcoord
+        <gcoord>7.56E-01  4.50E-02  3.23E-01</gcoord>
+    </node>
+    <node id="670">Gcoord
+        <gcoord>7.56E-01  5.00E-03  3.15E-01</gcoord>
+    </node>
+    <node id="671">Gcoord
+        <gcoord>7.56E-01  -4.10E-02  3.10E-01</gcoord>
+    </node>
+    <node id="672">Gcoord
+        <gcoord>7.56E-01  -1.40E-02  2.58E-01</gcoord>
+    </node>
+    <node id="673">Gcoord
+        <gcoord>7.56E-01  3.05E-01  -1.09E-01</gcoord>
+    </node>
+    <node id="674">Gcoord
+        <gcoord>7.56E-01  3.03E-01  -6.40E-02</gcoord>
+    </node>
+    <node id="675">Gcoord
+        <gcoord>7.56E-01  2.16E-01  -1.03E-01</gcoord>
+    </node>
+    <node id="676">Gcoord
+        <gcoord>7.56E-01  2.33E-01  -2.24E-01</gcoord>
+    </node>
+    <node id="677">Gcoord
+        <gcoord>7.56E-01  2.48E-01  -1.82E-01</gcoord>
+    </node>
+    <node id="678">Gcoord
+        <gcoord>7.56E-01  -8.70E-02  2.45E-01</gcoord>
+    </node>
+    <node id="679">Gcoord
+        <gcoord>7.56E-01  -1.28E-01  2.90E-01</gcoord>
+    </node>
+    <node id="680">Gcoord
+        <gcoord>7.56E-01  -1.47E-01  2.05E-01</gcoord>
+    </node>
+    <node id="681">Gcoord
+        <gcoord>7.56E-01  -2.33E-01  2.24E-01</gcoord>
+    </node>
+    <node id="682">Gcoord
+        <gcoord>7.56E-01  -3.05E-01  1.10E-01</gcoord>
+    </node>
+    <node id="683">Gcoord
+        <gcoord>7.56E-01  -3.03E-01  6.40E-02</gcoord>
+    </node>
+    <node id="684">Gcoord
+        <gcoord>7.56E-01  -3.23E-01  2.20E-02</gcoord>
+    </node>
+    <node id="685">Gcoord
+        <gcoord>7.56E-01  -2.48E-01  -1.70E-02</gcoord>
+    </node>
+    <node id="686">Gcoord
+        <gcoord>7.56E-01  -3.17E-01  -6.80E-02</gcoord>
+    </node>
+    <node id="687">Gcoord
+        <gcoord>7.56E-01  -2.99E-01  -1.04E-01</gcoord>
+    </node>
+    <node id="688">Gcoord
+        <gcoord>7.56E-01  -2.61E-01  -1.90E-01</gcoord>
+    </node>
+    <node id="689">Gcoord
+        <gcoord>7.56E-01  -2.23E-01  -2.17E-01</gcoord>
+    </node>
+    <node id="690">Gcoord
+        <gcoord>7.56E-01  -1.64E-01  -2.69E-01</gcoord>
+    </node>
+    <node id="691">Gcoord
+        <gcoord>7.56E-01  -1.21E-01  -2.88E-01</gcoord>
+    </node>
+    <node id="692">Gcoord
+        <gcoord>7.56E-01  -4.40E-02  -3.24E-01</gcoord>
+    </node>
+    <node id="693">Gcoord
+        <gcoord>7.56E-01  1.50E-02  -2.58E-01</gcoord>
+    </node>
+    <node id="694">Gcoord
+        <gcoord>7.56E-01  -5.00E-02  -2.38E-01</gcoord>
+    </node>
+    <node id="695">Gcoord
+        <gcoord>7.56E-01  5.10E-02  2.38E-01</gcoord>
+    </node>
+    <node id="696">Gcoord
+        <gcoord>7.56E-01  1.18E-01  2.29E-01</gcoord>
+    </node>
+    <node id="697">Gcoord
+        <gcoord>7.56E-01  1.74E-01  1.82E-01</gcoord>
+    </node>
+    <node id="698">Gcoord
+        <gcoord>7.56E-01  2.12E-01  1.28E-01</gcoord>
+    </node>
+    <node id="699">Gcoord
+        <gcoord>7.56E-01  2.28E-01  7.30E-02</gcoord>
+    </node>
+    <node id="700">Gcoord
+        <gcoord>7.56E-01  1.93E-01  -1.56E-01</gcoord>
+    </node>
+    <node id="701">Gcoord
+        <gcoord>7.56E-01  1.48E-01  -2.04E-01</gcoord>
+    </node>
+    <node id="702">Gcoord
+        <gcoord>7.56E-01  1.67E-01  -2.80E-01</gcoord>
+    </node>
+    <node id="703">Gcoord
+        <gcoord>7.56E-01  8.80E-02  -2.45E-01</gcoord>
+    </node>
+    <node id="704">Gcoord
+        <gcoord>7.56E-01  4.20E-02  -3.11E-01</gcoord>
+    </node>
+    <node id="705">Gcoord
+        <gcoord>7.56E-01  -5.00E-03  -3.16E-01</gcoord>
+    </node>
+    <node id="706">Gcoord
+        <gcoord>7.56E-01  -1.18E-01  -2.29E-01</gcoord>
+    </node>
+    <node id="707">Gcoord
+        <gcoord>7.56E-01  -1.74E-01  -1.82E-01</gcoord>
+    </node>
+    <node id="708">Gcoord
+        <gcoord>7.56E-01  -2.12E-01  -1.28E-01</gcoord>
+    </node>
+    <node id="709">Gcoord
+        <gcoord>7.56E-01  -2.28E-01  -7.30E-02</gcoord>
+    </node>
+    <node id="710">Gcoord
+        <gcoord>7.56E-01  -2.43E-01  5.00E-02</gcoord>
+    </node>
+    <node id="711">Gcoord
+        <gcoord>7.56E-01  -2.15E-01  1.04E-01</gcoord>
+    </node>
+    <node id="712">Gcoord
+        <gcoord>7.56E-01  -2.47E-01  1.83E-01</gcoord>
+    </node>
+    <node id="713">Gcoord
+        <gcoord>7.56E-01  -1.93E-01  1.56E-01</gcoord>
+    </node>
+    <node id="714">Gcoord
+        <gcoord>7.56E-01  -1.67E-01  2.80E-01</gcoord>
+    </node>
+    <node id="715">Gcoord
+        <gcoord>7.56E-01  1.28E-01  -2.90E-01</gcoord>
+    </node>
+    <node id="716">Gcoord
+        <gcoord>7.56E-01  8.10E-02  3.09E-01</gcoord>
+    </node>
+    <node id="717">Gcoord
+        <gcoord>7.56E-01  2.03E-01  2.55E-01</gcoord>
+    </node>
+    <node id="718">Gcoord
+        <gcoord>7.56E-01  2.70E-01  1.47E-01</gcoord>
+    </node>
+    <node id="719">Gcoord
+        <gcoord>7.56E-01  3.23E-01  -2.20E-02</gcoord>
+    </node>
+    <node id="720">Gcoord
+        <gcoord>7.56E-01  2.83E-01  -1.43E-01</gcoord>
+    </node>
+    <node id="721">Gcoord
+        <gcoord>7.56E-01  1.92E-01  -2.46E-01</gcoord>
+    </node>
+    <node id="722">Gcoord
+        <gcoord>7.56E-01  8.50E-02  -3.03E-01</gcoord>
+    </node>
+    <node id="723">Gcoord
+        <gcoord>7.56E-01  -8.00E-02  -3.09E-01</gcoord>
+    </node>
+    <node id="724">Gcoord
+        <gcoord>7.56E-01  -2.03E-01  -2.55E-01</gcoord>
+    </node>
+    <node id="725">Gcoord
+        <gcoord>7.56E-01  -2.70E-01  -1.47E-01</gcoord>
+    </node>
+    <node id="726">Gcoord
+        <gcoord>7.56E-01  -3.09E-01  -2.20E-02</gcoord>
+    </node>
+    <node id="727">Gcoord
+        <gcoord>7.56E-01  -2.82E-01  1.44E-01</gcoord>
+    </node>
+    <node id="728">Gcoord
+        <gcoord>7.56E-01  -1.92E-01  2.46E-01</gcoord>
+    </node>
+    <node id="729">Gcoord
+        <gcoord>7.56E-01  -8.40E-02  3.02E-01</gcoord>
+    </node>
+    <node id="730">Gcoord
+        <gcoord>7.56E-01  4.20E-02  2.85E-01</gcoord>
+    </node>
+    <node id="731">Gcoord
+        <gcoord>7.56E-01  2.28E-01  1.73E-01</gcoord>
+    </node>
+    <node id="732">Gcoord
+        <gcoord>7.56E-01  -5.70E-02  2.79E-01</gcoord>
+    </node>
+    <node id="733">Gcoord
+        <gcoord>7.56E-01  -2.02E-01  2.03E-01</gcoord>
+    </node>
+    <node id="734">Gcoord
+        <gcoord>7.56E-01  -8.20E-02  -2.70E-01</gcoord>
+    </node>
+    <node id="735">Gcoord
+        <gcoord>7.56E-01  2.03E-01  -2.02E-01</gcoord>
+    </node>
+    <node id="736">Gcoord
+        <gcoord>7.56E-01  -1.76E-01  -2.30E-01</gcoord>
+    </node>
+    <node id="737">Gcoord
+        <gcoord>7.56E-01  -1.44E-01  2.53E-01</gcoord>
+    </node>
+    <node id="738">Gcoord
+        <gcoord>7.56E-01  8.20E-02  2.70E-01</gcoord>
+    </node>
+    <node id="739">Gcoord
+        <gcoord>7.56E-01  -2.57E-01  -1.03E-01</gcoord>
+    </node>
+    <node id="740">Gcoord
+        <gcoord>7.56E-01  -2.40E-01  1.37E-01</gcoord>
+    </node>
+    <node id="741">Gcoord
+        <gcoord>7.56E-01  5.70E-02  -2.79E-01</gcoord>
+    </node>
+    <node id="742">Gcoord
+        <gcoord>7.56E-01  2.41E-01  -1.37E-01</gcoord>
+    </node>
+    <node id="743">Gcoord
+        <gcoord>7.56E-01  2.57E-01  1.03E-01</gcoord>
+    </node>
+    <node id="744">Gcoord
+        <gcoord>7.56E-01  -2.28E-01  -1.73E-01</gcoord>
+    </node>
+    <node id="745">Gcoord
+        <gcoord>7.56E-01  1.77E-01  2.30E-01</gcoord>
+    </node>
+    <node id="746">Gcoord
+        <gcoord>7.56E-01  1.44E-01  -2.53E-01</gcoord>
+    </node>
+    <node id="747">Gcoord
+        <gcoord>7.56E-01  -2.77E-01  -6.50E-02</gcoord>
+    </node>
+    <node id="748">Gcoord
+        <gcoord>7.56E-01  2.76E-01  6.50E-02</gcoord>
+    </node>
+    <node id="749">Gcoord
+        <gcoord>7.56E-01  2.85E-01  -1.90E-02</gcoord>
+    </node>
+    <node id="750">Gcoord
+        <gcoord>7.56E-01  -2.85E-01  1.90E-02</gcoord>
+    </node>
+    <node id="751">Gcoord
+        <gcoord>7.56E-01  2.65E-01  -1.01E-01</gcoord>
+    </node>
+    <node id="752">Gcoord
+        <gcoord>7.56E-01  -2.65E-01  1.01E-01</gcoord>
+    </node>
+    <node id="753">Gcoord
+        <gcoord>7.56E-01  -4.10E-02  -2.86E-01</gcoord>
+    </node>
+    <node id="754">Gcoord
+        <gcoord>7.11E-01  -1.10E-02  1.50E-01</gcoord>
+    </node>
+    <node id="755">Gcoord
+        <gcoord>7.12E-01  -3.30E-02  1.48E-01</gcoord>
+    </node>
+    <node id="756">Gcoord
+        <gcoord>7.13E-01  -5.30E-02  1.43E-01</gcoord>
+    </node>
+    <node id="757">Gcoord
+        <gcoord>7.14E-01  -7.20E-02  1.36E-01</gcoord>
+    </node>
+    <node id="758">Gcoord
+        <gcoord>7.15E-01  -9.00E-02  1.26E-01</gcoord>
+    </node>
+    <node id="759">Gcoord
+        <gcoord>7.16E-01  -1.07E-01  1.14E-01</gcoord>
+    </node>
+    <node id="760">Gcoord
+        <gcoord>7.17E-01  -1.22E-01  1.00E-01</gcoord>
+    </node>
+    <node id="761">Gcoord
+        <gcoord>7.18E-01  -1.34E-01  8.50E-02</gcoord>
+    </node>
+    <node id="762">Gcoord
+        <gcoord>7.18E-01  -1.44E-01  6.80E-02</gcoord>
+    </node>
+    <node id="763">Gcoord
+        <gcoord>7.19E-01  -1.52E-01  5.00E-02</gcoord>
+    </node>
+    <node id="764">Gcoord
+        <gcoord>7.19E-01  -1.58E-01  3.10E-02</gcoord>
+    </node>
+    <node id="765">Gcoord
+        <gcoord>7.19E-01  -1.60E-01  1.10E-02</gcoord>
+    </node>
+    <node id="766">Gcoord
+        <gcoord>7.19E-01  -1.60E-01  -9.00E-03</gcoord>
+    </node>
+    <node id="767">Gcoord
+        <gcoord>7.19E-01  -1.58E-01  -2.80E-02</gcoord>
+    </node>
+    <node id="768">Gcoord
+        <gcoord>7.18E-01  -1.52E-01  -4.70E-02</gcoord>
+    </node>
+    <node id="769">Gcoord
+        <gcoord>7.18E-01  -1.44E-01  -6.60E-02</gcoord>
+    </node>
+    <node id="770">Gcoord
+        <gcoord>7.17E-01  -1.34E-01  -8.30E-02</gcoord>
+    </node>
+    <node id="771">Gcoord
+        <gcoord>7.16E-01  -1.22E-01  -9.80E-02</gcoord>
+    </node>
+    <node id="772">Gcoord
+        <gcoord>7.15E-01  -1.07E-01  -1.12E-01</gcoord>
+    </node>
+    <node id="773">Gcoord
+        <gcoord>7.14E-01  -9.00E-02  -1.25E-01</gcoord>
+    </node>
+    <node id="774">Gcoord
+        <gcoord>7.13E-01  -7.20E-02  -1.35E-01</gcoord>
+    </node>
+    <node id="775">Gcoord
+        <gcoord>7.12E-01  -5.20E-02  -1.42E-01</gcoord>
+    </node>
+    <node id="776">Gcoord
+        <gcoord>7.11E-01  -3.20E-02  -1.47E-01</gcoord>
+    </node>
+    <node id="777">Gcoord
+        <gcoord>7.11E-01  1.10E-02  -1.50E-01</gcoord>
+    </node>
+    <node id="778">Gcoord
+        <gcoord>7.12E-01  3.30E-02  -1.48E-01</gcoord>
+    </node>
+    <node id="779">Gcoord
+        <gcoord>7.13E-01  5.30E-02  -1.43E-01</gcoord>
+    </node>
+    <node id="780">Gcoord
+        <gcoord>7.14E-01  7.20E-02  -1.36E-01</gcoord>
+    </node>
+    <node id="781">Gcoord
+        <gcoord>7.15E-01  9.00E-02  -1.26E-01</gcoord>
+    </node>
+    <node id="782">Gcoord
+        <gcoord>7.16E-01  1.07E-01  -1.14E-01</gcoord>
+    </node>
+    <node id="783">Gcoord
+        <gcoord>7.17E-01  1.22E-01  -1.00E-01</gcoord>
+    </node>
+    <node id="784">Gcoord
+        <gcoord>7.18E-01  1.34E-01  -8.50E-02</gcoord>
+    </node>
+    <node id="785">Gcoord
+        <gcoord>7.18E-01  1.44E-01  -6.80E-02</gcoord>
+    </node>
+    <node id="786">Gcoord
+        <gcoord>7.19E-01  1.52E-01  -5.00E-02</gcoord>
+    </node>
+    <node id="787">Gcoord
+        <gcoord>7.19E-01  1.58E-01  -3.10E-02</gcoord>
+    </node>
+    <node id="788">Gcoord
+        <gcoord>7.19E-01  1.60E-01  -1.10E-02</gcoord>
+    </node>
+    <node id="789">Gcoord
+        <gcoord>7.19E-01  1.60E-01  9.00E-03</gcoord>
+    </node>
+    <node id="790">Gcoord
+        <gcoord>7.19E-01  1.58E-01  2.80E-02</gcoord>
+    </node>
+    <node id="791">Gcoord
+        <gcoord>7.18E-01  1.52E-01  4.70E-02</gcoord>
+    </node>
+    <node id="792">Gcoord
+        <gcoord>7.18E-01  1.44E-01  6.60E-02</gcoord>
+    </node>
+    <node id="793">Gcoord
+        <gcoord>7.17E-01  1.34E-01  8.30E-02</gcoord>
+    </node>
+    <node id="794">Gcoord
+        <gcoord>7.16E-01  1.22E-01  9.80E-02</gcoord>
+    </node>
+    <node id="795">Gcoord
+        <gcoord>7.15E-01  1.07E-01  1.12E-01</gcoord>
+    </node>
+    <node id="796">Gcoord
+        <gcoord>7.14E-01  9.00E-02  1.25E-01</gcoord>
+    </node>
+    <node id="797">Gcoord
+        <gcoord>7.13E-01  7.20E-02  1.35E-01</gcoord>
+    </node>
+    <node id="798">Gcoord
+        <gcoord>7.12E-01  5.20E-02  1.42E-01</gcoord>
+    </node>
+    <node id="799">Gcoord
+        <gcoord>7.11E-01  3.20E-02  1.47E-01</gcoord>
+    </node>
+    <node id="800">Gcoord
+        <gcoord>7.52E-01  2.50E-02  -3.70E-01</gcoord>
+    </node>
+    <node id="801">Gcoord
+        <gcoord>7.55E-01  2.60E-02  -3.81E-01</gcoord>
+    </node>
+    <node id="802">Gcoord
+        <gcoord>7.52E-01  7.50E-02  -3.63E-01</gcoord>
+    </node>
+    <node id="803">Gcoord
+        <gcoord>7.55E-01  7.70E-02  -3.73E-01</gcoord>
+    </node>
+    <node id="804">Gcoord
+        <gcoord>7.52E-01  1.24E-01  -3.49E-01</gcoord>
+    </node>
+    <node id="805">Gcoord
+        <gcoord>7.55E-01  1.27E-01  -3.59E-01</gcoord>
+    </node>
+    <node id="806">Gcoord
+        <gcoord>7.52E-01  1.70E-01  -3.29E-01</gcoord>
+    </node>
+    <node id="807">Gcoord
+        <gcoord>7.55E-01  1.74E-01  -3.39E-01</gcoord>
+    </node>
+    <node id="808">Gcoord
+        <gcoord>7.52E-01  2.13E-01  -3.03E-01</gcoord>
+    </node>
+    <node id="809">Gcoord
+        <gcoord>7.55E-01  2.18E-01  -3.12E-01</gcoord>
+    </node>
+    <node id="810">Gcoord
+        <gcoord>7.52E-01  2.52E-01  -2.71E-01</gcoord>
+    </node>
+    <node id="811">Gcoord
+        <gcoord>7.54E-01  2.58E-01  -2.79E-01</gcoord>
+    </node>
+    <node id="812">Gcoord
+        <gcoord>7.52E-01  2.86E-01  -2.34E-01</gcoord>
+    </node>
+    <node id="813">Gcoord
+        <gcoord>7.54E-01  2.94E-01  -2.41E-01</gcoord>
+    </node>
+    <node id="814">Gcoord
+        <gcoord>7.52E-01  3.15E-01  -1.92E-01</gcoord>
+    </node>
+    <node id="815">Gcoord
+        <gcoord>7.54E-01  3.24E-01  -1.98E-01</gcoord>
+    </node>
+    <node id="816">Gcoord
+        <gcoord>7.52E-01  3.39E-01  -1.48E-01</gcoord>
+    </node>
+    <node id="817">Gcoord
+        <gcoord>7.54E-01  3.48E-01  -1.52E-01</gcoord>
+    </node>
+    <node id="818">Gcoord
+        <gcoord>7.52E-01  3.56E-01  -1.00E-01</gcoord>
+    </node>
+    <node id="819">Gcoord
+        <gcoord>7.54E-01  3.65E-01  -1.03E-01</gcoord>
+    </node>
+    <node id="820">Gcoord
+        <gcoord>7.52E-01  3.66E-01  -5.00E-02</gcoord>
+    </node>
+    <node id="821">Gcoord
+        <gcoord>7.54E-01  3.76E-01  -5.20E-02</gcoord>
+    </node>
+    <node id="822">Gcoord
+        <gcoord>7.52E-01  3.69E-01  3.30E-05</gcoord>
+    </node>
+    <node id="823">Gcoord
+        <gcoord>7.54E-01  3.79E-01  1.10E-04</gcoord>
+    </node>
+    <node id="824">Gcoord
+        <gcoord>7.52E-01  3.66E-01  5.00E-02</gcoord>
+    </node>
+    <node id="825">Gcoord
+        <gcoord>7.54E-01  3.76E-01  5.20E-02</gcoord>
+    </node>
+    <node id="826">Gcoord
+        <gcoord>7.52E-01  3.56E-01  1.00E-01</gcoord>
+    </node>
+    <node id="827">Gcoord
+        <gcoord>7.54E-01  3.65E-01  1.03E-01</gcoord>
+    </node>
+    <node id="828">Gcoord
+        <gcoord>7.52E-01  3.39E-01  1.48E-01</gcoord>
+    </node>
+    <node id="829">Gcoord
+        <gcoord>7.54E-01  3.48E-01  1.52E-01</gcoord>
+    </node>
+    <node id="830">Gcoord
+        <gcoord>7.52E-01  3.16E-01  1.93E-01</gcoord>
+    </node>
+    <node id="831">Gcoord
+        <gcoord>7.54E-01  3.24E-01  1.98E-01</gcoord>
+    </node>
+    <node id="832">Gcoord
+        <gcoord>7.52E-01  2.87E-01  2.34E-01</gcoord>
+    </node>
+    <node id="833">Gcoord
+        <gcoord>7.54E-01  2.94E-01  2.41E-01</gcoord>
+    </node>
+    <node id="834">Gcoord
+        <gcoord>7.52E-01  2.52E-01  2.71E-01</gcoord>
+    </node>
+    <node id="835">Gcoord
+        <gcoord>7.55E-01  2.59E-01  2.79E-01</gcoord>
+    </node>
+    <node id="836">Gcoord
+        <gcoord>7.52E-01  2.13E-01  3.03E-01</gcoord>
+    </node>
+    <node id="837">Gcoord
+        <gcoord>7.55E-01  2.19E-01  3.12E-01</gcoord>
+    </node>
+    <node id="838">Gcoord
+        <gcoord>7.52E-01  1.70E-01  3.29E-01</gcoord>
+    </node>
+    <node id="839">Gcoord
+        <gcoord>7.55E-01  1.74E-01  3.39E-01</gcoord>
+    </node>
+    <node id="840">Gcoord
+        <gcoord>7.52E-01  1.24E-01  3.49E-01</gcoord>
+    </node>
+    <node id="841">Gcoord
+        <gcoord>7.55E-01  1.27E-01  3.59E-01</gcoord>
+    </node>
+    <node id="842">Gcoord
+        <gcoord>7.52E-01  7.50E-02  3.63E-01</gcoord>
+    </node>
+    <node id="843">Gcoord
+        <gcoord>7.55E-01  7.70E-02  3.74E-01</gcoord>
+    </node>
+    <node id="844">Gcoord
+        <gcoord>7.55E-01  -2.60E-02  3.81E-01</gcoord>
+    </node>
+    <node id="845">Gcoord
+        <gcoord>7.55E-01  -7.70E-02  3.73E-01</gcoord>
+    </node>
+    <node id="846">Gcoord
+        <gcoord>7.55E-01  -1.27E-01  3.59E-01</gcoord>
+    </node>
+    <node id="847">Gcoord
+        <gcoord>7.55E-01  -1.74E-01  3.39E-01</gcoord>
+    </node>
+    <node id="848">Gcoord
+        <gcoord>7.55E-01  -2.18E-01  3.12E-01</gcoord>
+    </node>
+    <node id="849">Gcoord
+        <gcoord>7.54E-01  -2.58E-01  2.79E-01</gcoord>
+    </node>
+    <node id="850">Gcoord
+        <gcoord>7.54E-01  -2.94E-01  2.41E-01</gcoord>
+    </node>
+    <node id="851">Gcoord
+        <gcoord>7.54E-01  -3.24E-01  1.98E-01</gcoord>
+    </node>
+    <node id="852">Gcoord
+        <gcoord>7.54E-01  -3.48E-01  1.52E-01</gcoord>
+    </node>
+    <node id="853">Gcoord
+        <gcoord>7.54E-01  -3.65E-01  1.03E-01</gcoord>
+    </node>
+    <node id="854">Gcoord
+        <gcoord>7.54E-01  -3.76E-01  5.20E-02</gcoord>
+    </node>
+    <node id="855">Gcoord
+        <gcoord>7.54E-01  -3.79E-01  -1.10E-04</gcoord>
+    </node>
+    <node id="856">Gcoord
+        <gcoord>7.54E-01  -3.76E-01  -5.20E-02</gcoord>
+    </node>
+    <node id="857">Gcoord
+        <gcoord>7.54E-01  -3.65E-01  -1.03E-01</gcoord>
+    </node>
+    <node id="858">Gcoord
+        <gcoord>7.54E-01  -3.48E-01  -1.52E-01</gcoord>
+    </node>
+    <node id="859">Gcoord
+        <gcoord>7.54E-01  -3.24E-01  -1.98E-01</gcoord>
+    </node>
+    <node id="860">Gcoord
+        <gcoord>7.54E-01  -2.94E-01  -2.41E-01</gcoord>
+    </node>
+    <node id="861">Gcoord
+        <gcoord>7.55E-01  -2.59E-01  -2.79E-01</gcoord>
+    </node>
+    <node id="862">Gcoord
+        <gcoord>7.55E-01  -2.19E-01  -3.12E-01</gcoord>
+    </node>
+    <node id="863">Gcoord
+        <gcoord>7.55E-01  -1.74E-01  -3.39E-01</gcoord>
+    </node>
+    <node id="864">Gcoord
+        <gcoord>7.55E-01  -1.27E-01  -3.59E-01</gcoord>
+    </node>
+    <node id="865">Gcoord
+        <gcoord>7.55E-01  -7.70E-02  -3.74E-01</gcoord>
+    </node>
+    <node id="866">Gcoord
+        <gcoord>7.52E-01  -2.50E-02  3.70E-01</gcoord>
+    </node>
+    <node id="867">Gcoord
+        <gcoord>7.52E-01  -7.50E-02  3.63E-01</gcoord>
+    </node>
+    <node id="868">Gcoord
+        <gcoord>7.52E-01  -1.24E-01  3.49E-01</gcoord>
+    </node>
+    <node id="869">Gcoord
+        <gcoord>7.52E-01  -1.70E-01  3.29E-01</gcoord>
+    </node>
+    <node id="870">Gcoord
+        <gcoord>7.52E-01  -2.13E-01  3.03E-01</gcoord>
+    </node>
+    <node id="871">Gcoord
+        <gcoord>7.52E-01  -2.52E-01  2.71E-01</gcoord>
+    </node>
+    <node id="872">Gcoord
+        <gcoord>7.52E-01  -2.86E-01  2.34E-01</gcoord>
+    </node>
+    <node id="873">Gcoord
+        <gcoord>7.52E-01  -3.15E-01  1.92E-01</gcoord>
+    </node>
+    <node id="874">Gcoord
+        <gcoord>7.52E-01  -3.39E-01  1.48E-01</gcoord>
+    </node>
+    <node id="875">Gcoord
+        <gcoord>7.52E-01  -3.56E-01  1.00E-01</gcoord>
+    </node>
+    <node id="876">Gcoord
+        <gcoord>7.52E-01  -3.66E-01  5.00E-02</gcoord>
+    </node>
+    <node id="877">Gcoord
+        <gcoord>7.52E-01  -3.69E-01  -3.30E-05</gcoord>
+    </node>
+    <node id="878">Gcoord
+        <gcoord>7.52E-01  -3.66E-01  -5.00E-02</gcoord>
+    </node>
+    <node id="879">Gcoord
+        <gcoord>7.52E-01  -3.56E-01  -1.00E-01</gcoord>
+    </node>
+    <node id="880">Gcoord
+        <gcoord>7.52E-01  -3.39E-01  -1.48E-01</gcoord>
+    </node>
+    <node id="881">Gcoord
+        <gcoord>7.52E-01  -3.16E-01  -1.93E-01</gcoord>
+    </node>
+    <node id="882">Gcoord
+        <gcoord>7.52E-01  -2.87E-01  -2.34E-01</gcoord>
+    </node>
+    <node id="883">Gcoord
+        <gcoord>7.52E-01  -2.52E-01  -2.71E-01</gcoord>
+    </node>
+    <node id="884">Gcoord
+        <gcoord>7.52E-01  -2.13E-01  -3.03E-01</gcoord>
+    </node>
+    <node id="885">Gcoord
+        <gcoord>7.52E-01  -1.70E-01  -3.29E-01</gcoord>
+    </node>
+    <node id="886">Gcoord
+        <gcoord>7.52E-01  -1.24E-01  -3.49E-01</gcoord>
+    </node>
+    <node id="887">Gcoord
+        <gcoord>7.52E-01  -7.50E-02  -3.63E-01</gcoord>
+    </node>
+    <node id="888">Gcoord
+        <gcoord>7.28E-01  -5.00E-02  -2.48E-01</gcoord>
+    </node>
+    <node id="889">Gcoord
+        <gcoord>7.28E-01  -5.90E-02  -2.93E-01</gcoord>
+    </node>
+    <node id="890">Gcoord
+        <gcoord>7.28E-01  -8.20E-02  -2.39E-01</gcoord>
+    </node>
+    <node id="891">Gcoord
+        <gcoord>7.28E-01  -9.70E-02  -2.83E-01</gcoord>
+    </node>
+    <node id="892">Gcoord
+        <gcoord>7.28E-01  -1.13E-01  -2.26E-01</gcoord>
+    </node>
+    <node id="893">Gcoord
+        <gcoord>7.28E-01  -1.33E-01  -2.68E-01</gcoord>
+    </node>
+    <node id="894">Gcoord
+        <gcoord>7.28E-01  -1.41E-01  -2.10E-01</gcoord>
+    </node>
+    <node id="895">Gcoord
+        <gcoord>7.28E-01  -1.67E-01  -2.48E-01</gcoord>
+    </node>
+    <node id="896">Gcoord
+        <gcoord>7.28E-01  -1.67E-01  -1.90E-01</gcoord>
+    </node>
+    <node id="897">Gcoord
+        <gcoord>7.28E-01  -1.98E-01  -2.24E-01</gcoord>
+    </node>
+    <node id="898">Gcoord
+        <gcoord>7.28E-01  -1.91E-01  -1.66E-01</gcoord>
+    </node>
+    <node id="899">Gcoord
+        <gcoord>7.28E-01  -2.25E-01  -1.97E-01</gcoord>
+    </node>
+    <node id="900">Gcoord
+        <gcoord>7.28E-01  -2.11E-01  -1.40E-01</gcoord>
+    </node>
+    <node id="901">Gcoord
+        <gcoord>7.28E-01  -2.49E-01  -1.65E-01</gcoord>
+    </node>
+    <node id="902">Gcoord
+        <gcoord>7.28E-01  -2.27E-01  -1.11E-01</gcoord>
+    </node>
+    <node id="903">Gcoord
+        <gcoord>7.28E-01  -2.69E-01  -1.32E-01</gcoord>
+    </node>
+    <node id="904">Gcoord
+        <gcoord>7.28E-01  -2.40E-01  -8.10E-02</gcoord>
+    </node>
+    <node id="905">Gcoord
+        <gcoord>7.28E-01  -2.84E-01  -9.50E-02</gcoord>
+    </node>
+    <node id="906">Gcoord
+        <gcoord>7.28E-01  -2.48E-01  -4.90E-02</gcoord>
+    </node>
+    <node id="907">Gcoord
+        <gcoord>7.28E-01  -2.94E-01  -5.70E-02</gcoord>
+    </node>
+    <node id="908">Gcoord
+        <gcoord>7.28E-01  -2.52E-01  -1.60E-02</gcoord>
+    </node>
+    <node id="909">Gcoord
+        <gcoord>7.28E-01  -2.99E-01  -1.90E-02</gcoord>
+    </node>
+    <node id="910">Gcoord
+        <gcoord>7.28E-01  -2.52E-01  1.70E-02</gcoord>
+    </node>
+    <node id="911">Gcoord
+        <gcoord>7.28E-01  -2.98E-01  2.00E-02</gcoord>
+    </node>
+    <node id="912">Gcoord
+        <gcoord>7.28E-01  -2.48E-01  5.00E-02</gcoord>
+    </node>
+    <node id="913">Gcoord
+        <gcoord>7.28E-01  -2.93E-01  5.90E-02</gcoord>
+    </node>
+    <node id="914">Gcoord
+        <gcoord>7.28E-01  -2.39E-01  8.20E-02</gcoord>
+    </node>
+    <node id="915">Gcoord
+        <gcoord>7.28E-01  -2.83E-01  9.70E-02</gcoord>
+    </node>
+    <node id="916">Gcoord
+        <gcoord>7.28E-01  -2.26E-01  1.13E-01</gcoord>
+    </node>
+    <node id="917">Gcoord
+        <gcoord>7.28E-01  -2.68E-01  1.33E-01</gcoord>
+    </node>
+    <node id="918">Gcoord
+        <gcoord>7.28E-01  -2.10E-01  1.41E-01</gcoord>
+    </node>
+    <node id="919">Gcoord
+        <gcoord>7.28E-01  -2.48E-01  1.67E-01</gcoord>
+    </node>
+    <node id="920">Gcoord
+        <gcoord>7.28E-01  -1.90E-01  1.67E-01</gcoord>
+    </node>
+    <node id="921">Gcoord
+        <gcoord>7.28E-01  -2.24E-01  1.98E-01</gcoord>
+    </node>
+    <node id="922">Gcoord
+        <gcoord>7.28E-01  -1.66E-01  1.91E-01</gcoord>
+    </node>
+    <node id="923">Gcoord
+        <gcoord>7.28E-01  -1.97E-01  2.25E-01</gcoord>
+    </node>
+    <node id="924">Gcoord
+        <gcoord>7.28E-01  -1.40E-01  2.11E-01</gcoord>
+    </node>
+    <node id="925">Gcoord
+        <gcoord>7.28E-01  -1.65E-01  2.49E-01</gcoord>
+    </node>
+    <node id="926">Gcoord
+        <gcoord>7.28E-01  -1.11E-01  2.27E-01</gcoord>
+    </node>
+    <node id="927">Gcoord
+        <gcoord>7.28E-01  -1.31E-01  2.69E-01</gcoord>
+    </node>
+    <node id="928">Gcoord
+        <gcoord>7.28E-01  -8.10E-02  2.40E-01</gcoord>
+    </node>
+    <node id="929">Gcoord
+        <gcoord>7.28E-01  -9.50E-02  2.84E-01</gcoord>
+    </node>
+    <node id="930">Gcoord
+        <gcoord>7.28E-01  -4.90E-02  2.48E-01</gcoord>
+    </node>
+    <node id="931">Gcoord
+        <gcoord>7.28E-01  -5.70E-02  2.94E-01</gcoord>
+    </node>
+    <node id="932">Gcoord
+        <gcoord>7.28E-01  -1.60E-02  2.52E-01</gcoord>
+    </node>
+    <node id="933">Gcoord
+        <gcoord>7.28E-01  -1.90E-02  2.99E-01</gcoord>
+    </node>
+    <node id="934">Gcoord
+        <gcoord>7.28E-01  5.90E-02  2.93E-01</gcoord>
+    </node>
+    <node id="935">Gcoord
+        <gcoord>7.28E-01  9.70E-02  2.83E-01</gcoord>
+    </node>
+    <node id="936">Gcoord
+        <gcoord>7.28E-01  1.33E-01  2.68E-01</gcoord>
+    </node>
+    <node id="937">Gcoord
+        <gcoord>7.28E-01  1.67E-01  2.48E-01</gcoord>
+    </node>
+    <node id="938">Gcoord
+        <gcoord>7.28E-01  1.98E-01  2.24E-01</gcoord>
+    </node>
+    <node id="939">Gcoord
+        <gcoord>7.28E-01  2.25E-01  1.97E-01</gcoord>
+    </node>
+    <node id="940">Gcoord
+        <gcoord>7.28E-01  2.49E-01  1.65E-01</gcoord>
+    </node>
+    <node id="941">Gcoord
+        <gcoord>7.28E-01  2.69E-01  1.32E-01</gcoord>
+    </node>
+    <node id="942">Gcoord
+        <gcoord>7.28E-01  2.84E-01  9.50E-02</gcoord>
+    </node>
+    <node id="943">Gcoord
+        <gcoord>7.28E-01  2.94E-01  5.70E-02</gcoord>
+    </node>
+    <node id="944">Gcoord
+        <gcoord>7.28E-01  2.99E-01  1.90E-02</gcoord>
+    </node>
+    <node id="945">Gcoord
+        <gcoord>7.28E-01  2.98E-01  -2.00E-02</gcoord>
+    </node>
+    <node id="946">Gcoord
+        <gcoord>7.28E-01  2.93E-01  -5.90E-02</gcoord>
+    </node>
+    <node id="947">Gcoord
+        <gcoord>7.28E-01  2.83E-01  -9.70E-02</gcoord>
+    </node>
+    <node id="948">Gcoord
+        <gcoord>7.28E-01  2.68E-01  -1.33E-01</gcoord>
+    </node>
+    <node id="949">Gcoord
+        <gcoord>7.28E-01  2.48E-01  -1.67E-01</gcoord>
+    </node>
+    <node id="950">Gcoord
+        <gcoord>7.28E-01  2.24E-01  -1.98E-01</gcoord>
+    </node>
+    <node id="951">Gcoord
+        <gcoord>7.28E-01  1.97E-01  -2.25E-01</gcoord>
+    </node>
+    <node id="952">Gcoord
+        <gcoord>7.28E-01  1.65E-01  -2.49E-01</gcoord>
+    </node>
+    <node id="953">Gcoord
+        <gcoord>7.28E-01  1.31E-01  -2.69E-01</gcoord>
+    </node>
+    <node id="954">Gcoord
+        <gcoord>7.28E-01  9.50E-02  -2.84E-01</gcoord>
+    </node>
+    <node id="955">Gcoord
+        <gcoord>7.28E-01  5.70E-02  -2.94E-01</gcoord>
+    </node>
+    <node id="956">Gcoord
+        <gcoord>7.28E-01  1.90E-02  -2.99E-01</gcoord>
+    </node>
+    <node id="957">Gcoord
+        <gcoord>7.28E-01  5.00E-02  2.48E-01</gcoord>
+    </node>
+    <node id="958">Gcoord
+        <gcoord>7.28E-01  8.20E-02  2.39E-01</gcoord>
+    </node>
+    <node id="959">Gcoord
+        <gcoord>7.28E-01  1.13E-01  2.26E-01</gcoord>
+    </node>
+    <node id="960">Gcoord
+        <gcoord>7.28E-01  1.41E-01  2.10E-01</gcoord>
+    </node>
+    <node id="961">Gcoord
+        <gcoord>7.28E-01  1.67E-01  1.90E-01</gcoord>
+    </node>
+    <node id="962">Gcoord
+        <gcoord>7.28E-01  1.91E-01  1.66E-01</gcoord>
+    </node>
+    <node id="963">Gcoord
+        <gcoord>7.28E-01  2.11E-01  1.40E-01</gcoord>
+    </node>
+    <node id="964">Gcoord
+        <gcoord>7.28E-01  2.27E-01  1.11E-01</gcoord>
+    </node>
+    <node id="965">Gcoord
+        <gcoord>7.28E-01  2.40E-01  8.10E-02</gcoord>
+    </node>
+    <node id="966">Gcoord
+        <gcoord>7.28E-01  2.48E-01  4.90E-02</gcoord>
+    </node>
+    <node id="967">Gcoord
+        <gcoord>7.28E-01  2.52E-01  1.60E-02</gcoord>
+    </node>
+    <node id="968">Gcoord
+        <gcoord>7.28E-01  2.52E-01  -1.70E-02</gcoord>
+    </node>
+    <node id="969">Gcoord
+        <gcoord>7.28E-01  2.48E-01  -5.00E-02</gcoord>
+    </node>
+    <node id="970">Gcoord
+        <gcoord>7.28E-01  2.39E-01  -8.20E-02</gcoord>
+    </node>
+    <node id="971">Gcoord
+        <gcoord>7.28E-01  2.26E-01  -1.13E-01</gcoord>
+    </node>
+    <node id="972">Gcoord
+        <gcoord>7.28E-01  2.10E-01  -1.41E-01</gcoord>
+    </node>
+    <node id="973">Gcoord
+        <gcoord>7.28E-01  1.90E-01  -1.67E-01</gcoord>
+    </node>
+    <node id="974">Gcoord
+        <gcoord>7.28E-01  1.66E-01  -1.91E-01</gcoord>
+    </node>
+    <node id="975">Gcoord
+        <gcoord>7.28E-01  1.40E-01  -2.11E-01</gcoord>
+    </node>
+    <node id="976">Gcoord
+        <gcoord>7.28E-01  1.11E-01  -2.27E-01</gcoord>
+    </node>
+    <node id="977">Gcoord
+        <gcoord>7.28E-01  8.10E-02  -2.40E-01</gcoord>
+    </node>
+    <node id="978">Gcoord
+        <gcoord>7.28E-01  4.90E-02  -2.48E-01</gcoord>
+    </node>
+    <node id="979">Gcoord
+        <gcoord>7.28E-01  1.60E-02  -2.52E-01</gcoord>
+    </node>
+    <node id="980">Gcoord
+        <gcoord>7.17E-01  -2.30E-02  3.86E-01</gcoord>
+    </node>
+    <node id="981">Gcoord
+        <gcoord>7.17E-01  -7.20E-02  3.79E-01</gcoord>
+    </node>
+    <node id="982">Gcoord
+        <gcoord>7.18E-01  -1.19E-01  3.66E-01</gcoord>
+    </node>
+    <node id="983">Gcoord
+        <gcoord>7.19E-01  -1.65E-01  3.47E-01</gcoord>
+    </node>
+    <node id="984">Gcoord
+        <gcoord>7.19E-01  -2.08E-01  3.22E-01</gcoord>
+    </node>
+    <node id="985">Gcoord
+        <gcoord>7.20E-01  -2.48E-01  2.91E-01</gcoord>
+    </node>
+    <node id="986">Gcoord
+        <gcoord>7.21E-01  -2.83E-01  2.55E-01</gcoord>
+    </node>
+    <node id="987">Gcoord
+        <gcoord>7.21E-01  -3.14E-01  2.15E-01</gcoord>
+    </node>
+    <node id="988">Gcoord
+        <gcoord>7.22E-01  -3.39E-01  1.72E-01</gcoord>
+    </node>
+    <node id="989">Gcoord
+        <gcoord>7.22E-01  -3.58E-01  1.25E-01</gcoord>
+    </node>
+    <node id="990">Gcoord
+        <gcoord>7.22E-01  -3.71E-01  7.60E-02</gcoord>
+    </node>
+    <node id="991">Gcoord
+        <gcoord>7.22E-01  -3.78E-01  2.60E-02</gcoord>
+    </node>
+    <node id="992">Gcoord
+        <gcoord>7.22E-01  -3.78E-01  -2.50E-02</gcoord>
+    </node>
+    <node id="993">Gcoord
+        <gcoord>7.22E-01  -3.72E-01  -7.50E-02</gcoord>
+    </node>
+    <node id="994">Gcoord
+        <gcoord>7.22E-01  -3.59E-01  -1.24E-01</gcoord>
+    </node>
+    <node id="995">Gcoord
+        <gcoord>7.21E-01  -3.40E-01  -1.70E-01</gcoord>
+    </node>
+    <node id="996">Gcoord
+        <gcoord>7.21E-01  -3.16E-01  -2.14E-01</gcoord>
+    </node>
+    <node id="997">Gcoord
+        <gcoord>7.20E-01  -2.85E-01  -2.54E-01</gcoord>
+    </node>
+    <node id="998">Gcoord
+        <gcoord>7.19E-01  -2.50E-01  -2.90E-01</gcoord>
+    </node>
+    <node id="999">Gcoord
+        <gcoord>7.19E-01  -2.11E-01  -3.21E-01</gcoord>
+    </node>
+    <node id="1000">Gcoord
+        <gcoord>7.18E-01  -1.68E-01  -3.46E-01</gcoord>
+    </node>
+    <node id="1001">Gcoord
+        <gcoord>7.17E-01  -1.23E-01  -3.66E-01</gcoord>
+    </node>
+    <node id="1002">Gcoord
+        <gcoord>7.17E-01  -7.50E-02  -3.79E-01</gcoord>
+    </node>
+    <node id="1003">Gcoord
+        <gcoord>7.17E-01  2.30E-02  -3.86E-01</gcoord>
+    </node>
+    <node id="1004">Gcoord
+        <gcoord>7.17E-01  7.20E-02  -3.79E-01</gcoord>
+    </node>
+    <node id="1005">Gcoord
+        <gcoord>7.18E-01  1.19E-01  -3.66E-01</gcoord>
+    </node>
+    <node id="1006">Gcoord
+        <gcoord>7.19E-01  1.65E-01  -3.47E-01</gcoord>
+    </node>
+    <node id="1007">Gcoord
+        <gcoord>7.19E-01  2.08E-01  -3.22E-01</gcoord>
+    </node>
+    <node id="1008">Gcoord
+        <gcoord>7.20E-01  2.48E-01  -2.91E-01</gcoord>
+    </node>
+    <node id="1009">Gcoord
+        <gcoord>7.21E-01  2.83E-01  -2.55E-01</gcoord>
+    </node>
+    <node id="1010">Gcoord
+        <gcoord>7.21E-01  3.14E-01  -2.15E-01</gcoord>
+    </node>
+    <node id="1011">Gcoord
+        <gcoord>7.22E-01  3.39E-01  -1.72E-01</gcoord>
+    </node>
+    <node id="1012">Gcoord
+        <gcoord>7.22E-01  3.58E-01  -1.25E-01</gcoord>
+    </node>
+    <node id="1013">Gcoord
+        <gcoord>7.22E-01  3.71E-01  -7.60E-02</gcoord>
+    </node>
+    <node id="1014">Gcoord
+        <gcoord>7.22E-01  3.78E-01  -2.60E-02</gcoord>
+    </node>
+    <node id="1015">Gcoord
+        <gcoord>7.22E-01  3.78E-01  2.50E-02</gcoord>
+    </node>
+    <node id="1016">Gcoord
+        <gcoord>7.22E-01  3.72E-01  7.50E-02</gcoord>
+    </node>
+    <node id="1017">Gcoord
+        <gcoord>7.22E-01  3.59E-01  1.24E-01</gcoord>
+    </node>
+    <node id="1018">Gcoord
+        <gcoord>7.21E-01  3.40E-01  1.70E-01</gcoord>
+    </node>
+    <node id="1019">Gcoord
+        <gcoord>7.21E-01  3.16E-01  2.14E-01</gcoord>
+    </node>
+    <node id="1020">Gcoord
+        <gcoord>7.20E-01  2.85E-01  2.54E-01</gcoord>
+    </node>
+    <node id="1021">Gcoord
+        <gcoord>7.19E-01  2.50E-01  2.90E-01</gcoord>
+    </node>
+    <node id="1022">Gcoord
+        <gcoord>7.19E-01  2.11E-01  3.21E-01</gcoord>
+    </node>
+    <node id="1023">Gcoord
+        <gcoord>7.18E-01  1.68E-01  3.46E-01</gcoord>
+    </node>
+    <node id="1024">Gcoord
+        <gcoord>7.17E-01  1.23E-01  3.66E-01</gcoord>
+    </node>
+    <node id="1025">Gcoord
+        <gcoord>7.17E-01  7.50E-02  3.79E-01</gcoord>
+    </node>
+    <node id="1026">Gcoord
+        <gcoord>6.80E-01  -4.71E-01  8.60E-02</gcoord>
+    </node>
+    <node id="1027">Gcoord
+        <gcoord>6.88E-01  -4.78E-01  8.70E-02</gcoord>
+    </node>
+    <node id="1028">Gcoord
+        <gcoord>6.97E-01  -4.78E-01  8.70E-02</gcoord>
+    </node>
+    <node id="1029">Gcoord
+        <gcoord>7.08E-01  -4.67E-01  8.50E-02</gcoord>
+    </node>
+    <node id="1030">Gcoord
+        <gcoord>7.13E-01  -4.58E-01  8.40E-02</gcoord>
+    </node>
+    <node id="1031">Gcoord
+        <gcoord>7.27E-01  -4.54E-01  8.30E-02</gcoord>
+    </node>
+    <node id="1032">Gcoord
+        <gcoord>7.54E-01  -4.52E-01  8.30E-02</gcoord>
+    </node>
+    <node id="1033">Gcoord
+        <gcoord>6.80E-01  -4.59E-01  1.38E-01</gcoord>
+    </node>
+    <node id="1034">Gcoord
+        <gcoord>6.88E-01  -4.65E-01  1.40E-01</gcoord>
+    </node>
+    <node id="1035">Gcoord
+        <gcoord>6.97E-01  -4.65E-01  1.40E-01</gcoord>
+    </node>
+    <node id="1036">Gcoord
+        <gcoord>7.08E-01  -4.54E-01  1.37E-01</gcoord>
+    </node>
+    <node id="1037">Gcoord
+        <gcoord>7.13E-01  -4.46E-01  1.34E-01</gcoord>
+    </node>
+    <node id="1038">Gcoord
+        <gcoord>7.27E-01  -4.42E-01  1.33E-01</gcoord>
+    </node>
+    <node id="1039">Gcoord
+        <gcoord>7.54E-01  -4.40E-01  1.33E-01</gcoord>
+    </node>
+    <node id="1040">Gcoord
+        <gcoord>6.80E-01  -4.40E-01  1.89E-01</gcoord>
+    </node>
+    <node id="1041">Gcoord
+        <gcoord>6.88E-01  -4.46E-01  1.91E-01</gcoord>
+    </node>
+    <node id="1042">Gcoord
+        <gcoord>6.97E-01  -4.47E-01  1.92E-01</gcoord>
+    </node>
+    <node id="1043">Gcoord
+        <gcoord>7.08E-01  -4.36E-01  1.87E-01</gcoord>
+    </node>
+    <node id="1044">Gcoord
+        <gcoord>7.13E-01  -4.28E-01  1.84E-01</gcoord>
+    </node>
+    <node id="1045">Gcoord
+        <gcoord>7.27E-01  -4.24E-01  1.82E-01</gcoord>
+    </node>
+    <node id="1046">Gcoord
+        <gcoord>7.54E-01  -4.23E-01  1.81E-01</gcoord>
+    </node>
+    <node id="1047">Gcoord
+        <gcoord>6.80E-01  -4.16E-01  2.37E-01</gcoord>
+    </node>
+    <node id="1048">Gcoord
+        <gcoord>6.88E-01  -4.22E-01  2.40E-01</gcoord>
+    </node>
+    <node id="1049">Gcoord
+        <gcoord>6.97E-01  -4.22E-01  2.40E-01</gcoord>
+    </node>
+    <node id="1050">Gcoord
+        <gcoord>7.08E-01  -4.13E-01  2.35E-01</gcoord>
+    </node>
+    <node id="1051">Gcoord
+        <gcoord>7.13E-01  -4.05E-01  2.30E-01</gcoord>
+    </node>
+    <node id="1052">Gcoord
+        <gcoord>7.27E-01  -4.01E-01  2.28E-01</gcoord>
+    </node>
+    <node id="1053">Gcoord
+        <gcoord>7.54E-01  -4.00E-01  2.27E-01</gcoord>
+    </node>
+    <node id="1054">Gcoord
+        <gcoord>6.80E-01  -3.87E-01  2.82E-01</gcoord>
+    </node>
+    <node id="1055">Gcoord
+        <gcoord>6.88E-01  -3.92E-01  2.86E-01</gcoord>
+    </node>
+    <node id="1056">Gcoord
+        <gcoord>6.97E-01  -3.93E-01  2.86E-01</gcoord>
+    </node>
+    <node id="1057">Gcoord
+        <gcoord>7.08E-01  -3.84E-01  2.79E-01</gcoord>
+    </node>
+    <node id="1058">Gcoord
+        <gcoord>7.13E-01  -3.76E-01  2.74E-01</gcoord>
+    </node>
+    <node id="1059">Gcoord
+        <gcoord>7.27E-01  -3.73E-01  2.72E-01</gcoord>
+    </node>
+    <node id="1060">Gcoord
+        <gcoord>7.54E-01  -3.72E-01  2.71E-01</gcoord>
+    </node>
+    <node id="1061">Gcoord
+        <gcoord>6.80E-01  -3.53E-01  3.24E-01</gcoord>
+    </node>
+    <node id="1062">Gcoord
+        <gcoord>6.88E-01  -3.58E-01  3.28E-01</gcoord>
+    </node>
+    <node id="1063">Gcoord
+        <gcoord>6.97E-01  -3.58E-01  3.28E-01</gcoord>
+    </node>
+    <node id="1064">Gcoord
+        <gcoord>7.08E-01  -3.50E-01  3.21E-01</gcoord>
+    </node>
+    <node id="1065">Gcoord
+        <gcoord>7.13E-01  -3.43E-01  3.15E-01</gcoord>
+    </node>
+    <node id="1066">Gcoord
+        <gcoord>7.27E-01  -3.41E-01  3.12E-01</gcoord>
+    </node>
+    <node id="1067">Gcoord
+        <gcoord>7.54E-01  -3.39E-01  3.11E-01</gcoord>
+    </node>
+    <node id="1068">Gcoord
+        <gcoord>6.80E-01  -3.15E-01  3.61E-01</gcoord>
+    </node>
+    <node id="1069">Gcoord
+        <gcoord>6.88E-01  -3.19E-01  3.66E-01</gcoord>
+    </node>
+    <node id="1070">Gcoord
+        <gcoord>6.97E-01  -3.19E-01  3.66E-01</gcoord>
+    </node>
+    <node id="1071">Gcoord
+        <gcoord>7.08E-01  -3.12E-01  3.58E-01</gcoord>
+    </node>
+    <node id="1072">Gcoord
+        <gcoord>7.13E-01  -3.06E-01  3.51E-01</gcoord>
+    </node>
+    <node id="1073">Gcoord
+        <gcoord>7.27E-01  -3.03E-01  3.48E-01</gcoord>
+    </node>
+    <node id="1074">Gcoord
+        <gcoord>7.54E-01  -3.02E-01  3.47E-01</gcoord>
+    </node>
+    <node id="1075">Gcoord
+        <gcoord>6.80E-01  -2.72E-01  3.94E-01</gcoord>
+    </node>
+    <node id="1076">Gcoord
+        <gcoord>6.88E-01  -2.76E-01  3.99E-01</gcoord>
+    </node>
+    <node id="1077">Gcoord
+        <gcoord>6.97E-01  -2.76E-01  4.00E-01</gcoord>
+    </node>
+    <node id="1078">Gcoord
+        <gcoord>7.08E-01  -2.70E-01  3.91E-01</gcoord>
+    </node>
+    <node id="1079">Gcoord
+        <gcoord>7.13E-01  -2.65E-01  3.83E-01</gcoord>
+    </node>
+    <node id="1080">Gcoord
+        <gcoord>7.27E-01  -2.63E-01  3.80E-01</gcoord>
+    </node>
+    <node id="1081">Gcoord
+        <gcoord>7.54E-01  -2.61E-01  3.78E-01</gcoord>
+    </node>
+    <node id="1082">Gcoord
+        <gcoord>6.80E-01  -2.27E-01  4.22E-01</gcoord>
+    </node>
+    <node id="1083">Gcoord
+        <gcoord>6.88E-01  -2.30E-01  4.28E-01</gcoord>
+    </node>
+    <node id="1084">Gcoord
+        <gcoord>6.97E-01  -2.30E-01  4.28E-01</gcoord>
+    </node>
+    <node id="1085">Gcoord
+        <gcoord>7.08E-01  -2.24E-01  4.18E-01</gcoord>
+    </node>
+    <node id="1086">Gcoord
+        <gcoord>7.13E-01  -2.20E-01  4.10E-01</gcoord>
+    </node>
+    <node id="1087">Gcoord
+        <gcoord>7.27E-01  -2.18E-01  4.07E-01</gcoord>
+    </node>
+    <node id="1088">Gcoord
+        <gcoord>7.54E-01  -2.17E-01  4.05E-01</gcoord>
+    </node>
+    <node id="1089">Gcoord
+        <gcoord>6.80E-01  -1.78E-01  4.45E-01</gcoord>
+    </node>
+    <node id="1090">Gcoord
+        <gcoord>6.88E-01  -1.80E-01  4.51E-01</gcoord>
+    </node>
+    <node id="1091">Gcoord
+        <gcoord>6.97E-01  -1.80E-01  4.51E-01</gcoord>
+    </node>
+    <node id="1092">Gcoord
+        <gcoord>7.08E-01  -1.76E-01  4.41E-01</gcoord>
+    </node>
+    <node id="1093">Gcoord
+        <gcoord>7.13E-01  -1.73E-01  4.32E-01</gcoord>
+    </node>
+    <node id="1094">Gcoord
+        <gcoord>7.27E-01  -1.71E-01  4.29E-01</gcoord>
+    </node>
+    <node id="1095">Gcoord
+        <gcoord>7.54E-01  -1.71E-01  4.27E-01</gcoord>
+    </node>
+    <node id="1096">Gcoord
+        <gcoord>6.80E-01  -1.27E-01  4.62E-01</gcoord>
+    </node>
+    <node id="1097">Gcoord
+        <gcoord>6.88E-01  -1.29E-01  4.68E-01</gcoord>
+    </node>
+    <node id="1098">Gcoord
+        <gcoord>6.97E-01  -1.29E-01  4.69E-01</gcoord>
+    </node>
+    <node id="1099">Gcoord
+        <gcoord>7.08E-01  -1.26E-01  4.58E-01</gcoord>
+    </node>
+    <node id="1100">Gcoord
+        <gcoord>7.13E-01  -1.23E-01  4.49E-01</gcoord>
+    </node>
+    <node id="1101">Gcoord
+        <gcoord>7.27E-01  -1.22E-01  4.45E-01</gcoord>
+    </node>
+    <node id="1102">Gcoord
+        <gcoord>7.54E-01  -1.22E-01  4.43E-01</gcoord>
+    </node>
+    <node id="1103">Gcoord
+        <gcoord>6.80E-01  -7.40E-02  4.73E-01</gcoord>
+    </node>
+    <node id="1104">Gcoord
+        <gcoord>6.88E-01  -7.50E-02  4.80E-01</gcoord>
+    </node>
+    <node id="1105">Gcoord
+        <gcoord>6.97E-01  -7.60E-02  4.80E-01</gcoord>
+    </node>
+    <node id="1106">Gcoord
+        <gcoord>7.08E-01  -7.40E-02  4.69E-01</gcoord>
+    </node>
+    <node id="1107">Gcoord
+        <gcoord>7.13E-01  -7.20E-02  4.60E-01</gcoord>
+    </node>
+    <node id="1108">Gcoord
+        <gcoord>7.27E-01  -7.20E-02  4.56E-01</gcoord>
+    </node>
+    <node id="1109">Gcoord
+        <gcoord>7.54E-01  -7.10E-02  4.54E-01</gcoord>
+    </node>
+    <node id="1110">Gcoord
+        <gcoord>6.80E-01  -2.10E-02  4.79E-01</gcoord>
+    </node>
+    <node id="1111">Gcoord
+        <gcoord>6.88E-01  -2.10E-02  4.85E-01</gcoord>
+    </node>
+    <node id="1112">Gcoord
+        <gcoord>6.97E-01  -2.10E-02  4.86E-01</gcoord>
+    </node>
+    <node id="1113">Gcoord
+        <gcoord>7.08E-01  -2.10E-02  4.74E-01</gcoord>
+    </node>
+    <node id="1114">Gcoord
+        <gcoord>7.13E-01  -2.00E-02  4.65E-01</gcoord>
+    </node>
+    <node id="1115">Gcoord
+        <gcoord>7.27E-01  -2.00E-02  4.61E-01</gcoord>
+    </node>
+    <node id="1116">Gcoord
+        <gcoord>7.54E-01  -2.00E-02  4.59E-01</gcoord>
+    </node>
+    <node id="1117">Gcoord
+        <gcoord>6.80E-01  3.30E-02  4.78E-01</gcoord>
+    </node>
+    <node id="1118">Gcoord
+        <gcoord>6.88E-01  3.30E-02  4.84E-01</gcoord>
+    </node>
+    <node id="1119">Gcoord
+        <gcoord>6.97E-01  3.30E-02  4.85E-01</gcoord>
+    </node>
+    <node id="1120">Gcoord
+        <gcoord>7.08E-01  3.20E-02  4.74E-01</gcoord>
+    </node>
+    <node id="1121">Gcoord
+        <gcoord>7.13E-01  3.20E-02  4.65E-01</gcoord>
+    </node>
+    <node id="1122">Gcoord
+        <gcoord>7.27E-01  3.20E-02  4.61E-01</gcoord>
+    </node>
+    <node id="1123">Gcoord
+        <gcoord>7.54E-01  3.10E-02  4.59E-01</gcoord>
+    </node>
+    <node id="1124">Gcoord
+        <gcoord>6.80E-01  8.60E-02  4.71E-01</gcoord>
+    </node>
+    <node id="1125">Gcoord
+        <gcoord>6.88E-01  8.70E-02  4.78E-01</gcoord>
+    </node>
+    <node id="1126">Gcoord
+        <gcoord>6.97E-01  8.70E-02  4.78E-01</gcoord>
+    </node>
+    <node id="1127">Gcoord
+        <gcoord>7.08E-01  8.50E-02  4.67E-01</gcoord>
+    </node>
+    <node id="1128">Gcoord
+        <gcoord>7.13E-01  8.40E-02  4.58E-01</gcoord>
+    </node>
+    <node id="1129">Gcoord
+        <gcoord>7.27E-01  8.30E-02  4.54E-01</gcoord>
+    </node>
+    <node id="1130">Gcoord
+        <gcoord>7.54E-01  8.30E-02  4.52E-01</gcoord>
+    </node>
+    <node id="1131">Gcoord
+        <gcoord>6.80E-01  1.38E-01  4.59E-01</gcoord>
+    </node>
+    <node id="1132">Gcoord
+        <gcoord>6.88E-01  1.40E-01  4.65E-01</gcoord>
+    </node>
+    <node id="1133">Gcoord
+        <gcoord>6.97E-01  1.40E-01  4.65E-01</gcoord>
+    </node>
+    <node id="1134">Gcoord
+        <gcoord>7.08E-01  1.37E-01  4.54E-01</gcoord>
+    </node>
+    <node id="1135">Gcoord
+        <gcoord>7.13E-01  1.34E-01  4.46E-01</gcoord>
+    </node>
+    <node id="1136">Gcoord
+        <gcoord>7.27E-01  1.33E-01  4.42E-01</gcoord>
+    </node>
+    <node id="1137">Gcoord
+        <gcoord>7.54E-01  1.33E-01  4.40E-01</gcoord>
+    </node>
+    <node id="1138">Gcoord
+        <gcoord>6.80E-01  1.89E-01  4.40E-01</gcoord>
+    </node>
+    <node id="1139">Gcoord
+        <gcoord>6.88E-01  1.91E-01  4.46E-01</gcoord>
+    </node>
+    <node id="1140">Gcoord
+        <gcoord>6.97E-01  1.92E-01  4.47E-01</gcoord>
+    </node>
+    <node id="1141">Gcoord
+        <gcoord>7.08E-01  1.87E-01  4.36E-01</gcoord>
+    </node>
+    <node id="1142">Gcoord
+        <gcoord>7.13E-01  1.84E-01  4.28E-01</gcoord>
+    </node>
+    <node id="1143">Gcoord
+        <gcoord>7.27E-01  1.82E-01  4.24E-01</gcoord>
+    </node>
+    <node id="1144">Gcoord
+        <gcoord>7.54E-01  1.81E-01  4.23E-01</gcoord>
+    </node>
+    <node id="1145">Gcoord
+        <gcoord>6.80E-01  2.37E-01  4.16E-01</gcoord>
+    </node>
+    <node id="1146">Gcoord
+        <gcoord>6.88E-01  2.40E-01  4.22E-01</gcoord>
+    </node>
+    <node id="1147">Gcoord
+        <gcoord>6.97E-01  2.40E-01  4.22E-01</gcoord>
+    </node>
+    <node id="1148">Gcoord
+        <gcoord>7.08E-01  2.35E-01  4.13E-01</gcoord>
+    </node>
+    <node id="1149">Gcoord
+        <gcoord>7.13E-01  2.30E-01  4.05E-01</gcoord>
+    </node>
+    <node id="1150">Gcoord
+        <gcoord>7.27E-01  2.28E-01  4.01E-01</gcoord>
+    </node>
+    <node id="1151">Gcoord
+        <gcoord>7.54E-01  2.27E-01  4.00E-01</gcoord>
+    </node>
+    <node id="1152">Gcoord
+        <gcoord>6.80E-01  2.82E-01  3.87E-01</gcoord>
+    </node>
+    <node id="1153">Gcoord
+        <gcoord>6.88E-01  2.86E-01  3.92E-01</gcoord>
+    </node>
+    <node id="1154">Gcoord
+        <gcoord>6.97E-01  2.86E-01  3.93E-01</gcoord>
+    </node>
+    <node id="1155">Gcoord
+        <gcoord>7.08E-01  2.79E-01  3.84E-01</gcoord>
+    </node>
+    <node id="1156">Gcoord
+        <gcoord>7.13E-01  2.74E-01  3.76E-01</gcoord>
+    </node>
+    <node id="1157">Gcoord
+        <gcoord>7.27E-01  2.72E-01  3.73E-01</gcoord>
+    </node>
+    <node id="1158">Gcoord
+        <gcoord>7.54E-01  2.71E-01  3.72E-01</gcoord>
+    </node>
+    <node id="1159">Gcoord
+        <gcoord>6.80E-01  3.24E-01  3.53E-01</gcoord>
+    </node>
+    <node id="1160">Gcoord
+        <gcoord>6.88E-01  3.28E-01  3.58E-01</gcoord>
+    </node>
+    <node id="1161">Gcoord
+        <gcoord>6.97E-01  3.28E-01  3.58E-01</gcoord>
+    </node>
+    <node id="1162">Gcoord
+        <gcoord>7.08E-01  3.21E-01  3.50E-01</gcoord>
+    </node>
+    <node id="1163">Gcoord
+        <gcoord>7.13E-01  3.15E-01  3.43E-01</gcoord>
+    </node>
+    <node id="1164">Gcoord
+        <gcoord>7.27E-01  3.12E-01  3.41E-01</gcoord>
+    </node>
+    <node id="1165">Gcoord
+        <gcoord>7.54E-01  3.11E-01  3.39E-01</gcoord>
+    </node>
+    <node id="1166">Gcoord
+        <gcoord>6.80E-01  3.61E-01  3.15E-01</gcoord>
+    </node>
+    <node id="1167">Gcoord
+        <gcoord>6.88E-01  3.66E-01  3.19E-01</gcoord>
+    </node>
+    <node id="1168">Gcoord
+        <gcoord>6.97E-01  3.66E-01  3.19E-01</gcoord>
+    </node>
+    <node id="1169">Gcoord
+        <gcoord>7.08E-01  3.58E-01  3.12E-01</gcoord>
+    </node>
+    <node id="1170">Gcoord
+        <gcoord>7.13E-01  3.51E-01  3.06E-01</gcoord>
+    </node>
+    <node id="1171">Gcoord
+        <gcoord>7.27E-01  3.48E-01  3.03E-01</gcoord>
+    </node>
+    <node id="1172">Gcoord
+        <gcoord>7.54E-01  3.47E-01  3.02E-01</gcoord>
+    </node>
+    <node id="1173">Gcoord
+        <gcoord>6.80E-01  3.94E-01  2.72E-01</gcoord>
+    </node>
+    <node id="1174">Gcoord
+        <gcoord>6.88E-01  3.99E-01  2.76E-01</gcoord>
+    </node>
+    <node id="1175">Gcoord
+        <gcoord>6.97E-01  4.00E-01  2.76E-01</gcoord>
+    </node>
+    <node id="1176">Gcoord
+        <gcoord>7.08E-01  3.91E-01  2.70E-01</gcoord>
+    </node>
+    <node id="1177">Gcoord
+        <gcoord>7.13E-01  3.83E-01  2.65E-01</gcoord>
+    </node>
+    <node id="1178">Gcoord
+        <gcoord>7.27E-01  3.80E-01  2.63E-01</gcoord>
+    </node>
+    <node id="1179">Gcoord
+        <gcoord>7.54E-01  3.78E-01  2.61E-01</gcoord>
+    </node>
+    <node id="1180">Gcoord
+        <gcoord>6.80E-01  4.22E-01  2.27E-01</gcoord>
+    </node>
+    <node id="1181">Gcoord
+        <gcoord>6.88E-01  4.28E-01  2.30E-01</gcoord>
+    </node>
+    <node id="1182">Gcoord
+        <gcoord>6.97E-01  4.28E-01  2.30E-01</gcoord>
+    </node>
+    <node id="1183">Gcoord
+        <gcoord>7.08E-01  4.18E-01  2.24E-01</gcoord>
+    </node>
+    <node id="1184">Gcoord
+        <gcoord>7.13E-01  4.10E-01  2.20E-01</gcoord>
+    </node>
+    <node id="1185">Gcoord
+        <gcoord>7.27E-01  4.07E-01  2.18E-01</gcoord>
+    </node>
+    <node id="1186">Gcoord
+        <gcoord>7.54E-01  4.05E-01  2.17E-01</gcoord>
+    </node>
+    <node id="1187">Gcoord
+        <gcoord>6.80E-01  4.45E-01  1.78E-01</gcoord>
+    </node>
+    <node id="1188">Gcoord
+        <gcoord>6.88E-01  4.51E-01  1.80E-01</gcoord>
+    </node>
+    <node id="1189">Gcoord
+        <gcoord>6.97E-01  4.51E-01  1.80E-01</gcoord>
+    </node>
+    <node id="1190">Gcoord
+        <gcoord>7.08E-01  4.41E-01  1.76E-01</gcoord>
+    </node>
+    <node id="1191">Gcoord
+        <gcoord>7.13E-01  4.32E-01  1.73E-01</gcoord>
+    </node>
+    <node id="1192">Gcoord
+        <gcoord>7.27E-01  4.29E-01  1.71E-01</gcoord>
+    </node>
+    <node id="1193">Gcoord
+        <gcoord>7.54E-01  4.27E-01  1.71E-01</gcoord>
+    </node>
+    <node id="1194">Gcoord
+        <gcoord>6.80E-01  4.62E-01  1.27E-01</gcoord>
+    </node>
+    <node id="1195">Gcoord
+        <gcoord>6.88E-01  4.68E-01  1.29E-01</gcoord>
+    </node>
+    <node id="1196">Gcoord
+        <gcoord>6.97E-01  4.69E-01  1.29E-01</gcoord>
+    </node>
+    <node id="1197">Gcoord
+        <gcoord>7.08E-01  4.58E-01  1.26E-01</gcoord>
+    </node>
+    <node id="1198">Gcoord
+        <gcoord>7.13E-01  4.49E-01  1.23E-01</gcoord>
+    </node>
+    <node id="1199">Gcoord
+        <gcoord>7.27E-01  4.45E-01  1.22E-01</gcoord>
+    </node>
+    <node id="1200">Gcoord
+        <gcoord>7.54E-01  4.43E-01  1.22E-01</gcoord>
+    </node>
+    <node id="1201">Gcoord
+        <gcoord>6.80E-01  4.73E-01  7.40E-02</gcoord>
+    </node>
+    <node id="1202">Gcoord
+        <gcoord>6.88E-01  4.80E-01  7.50E-02</gcoord>
+    </node>
+    <node id="1203">Gcoord
+        <gcoord>6.97E-01  4.80E-01  7.60E-02</gcoord>
+    </node>
+    <node id="1204">Gcoord
+        <gcoord>7.08E-01  4.69E-01  7.40E-02</gcoord>
+    </node>
+    <node id="1205">Gcoord
+        <gcoord>7.13E-01  4.60E-01  7.20E-02</gcoord>
+    </node>
+    <node id="1206">Gcoord
+        <gcoord>7.27E-01  4.56E-01  7.20E-02</gcoord>
+    </node>
+    <node id="1207">Gcoord
+        <gcoord>7.54E-01  4.54E-01  7.10E-02</gcoord>
+    </node>
+    <node id="1208">Gcoord
+        <gcoord>6.80E-01  4.79E-01  2.10E-02</gcoord>
+    </node>
+    <node id="1209">Gcoord
+        <gcoord>6.88E-01  4.85E-01  2.10E-02</gcoord>
+    </node>
+    <node id="1210">Gcoord
+        <gcoord>6.97E-01  4.86E-01  2.10E-02</gcoord>
+    </node>
+    <node id="1211">Gcoord
+        <gcoord>7.08E-01  4.74E-01  2.10E-02</gcoord>
+    </node>
+    <node id="1212">Gcoord
+        <gcoord>7.13E-01  4.65E-01  2.00E-02</gcoord>
+    </node>
+    <node id="1213">Gcoord
+        <gcoord>7.27E-01  4.61E-01  2.00E-02</gcoord>
+    </node>
+    <node id="1214">Gcoord
+        <gcoord>7.54E-01  4.59E-01  2.00E-02</gcoord>
+    </node>
+    <node id="1215">Gcoord
+        <gcoord>7.54E-01  -4.59E-01  -2.00E-02</gcoord>
+    </node>
+    <node id="1216">Gcoord
+        <gcoord>7.27E-01  -4.61E-01  -2.00E-02</gcoord>
+    </node>
+    <node id="1217">Gcoord
+        <gcoord>7.13E-01  -4.65E-01  -2.00E-02</gcoord>
+    </node>
+    <node id="1218">Gcoord
+        <gcoord>7.08E-01  -4.74E-01  -2.10E-02</gcoord>
+    </node>
+    <node id="1219">Gcoord
+        <gcoord>6.97E-01  -4.86E-01  -2.10E-02</gcoord>
+    </node>
+    <node id="1220">Gcoord
+        <gcoord>6.88E-01  -4.85E-01  -2.10E-02</gcoord>
+    </node>
+    <node id="1221">Gcoord
+        <gcoord>6.80E-01  -4.79E-01  -2.10E-02</gcoord>
+    </node>
+    <node id="1222">Gcoord
+        <gcoord>7.54E-01  -4.54E-01  -7.10E-02</gcoord>
+    </node>
+    <node id="1223">Gcoord
+        <gcoord>7.27E-01  -4.56E-01  -7.20E-02</gcoord>
+    </node>
+    <node id="1224">Gcoord
+        <gcoord>7.13E-01  -4.60E-01  -7.20E-02</gcoord>
+    </node>
+    <node id="1225">Gcoord
+        <gcoord>7.08E-01  -4.69E-01  -7.40E-02</gcoord>
+    </node>
+    <node id="1226">Gcoord
+        <gcoord>6.97E-01  -4.80E-01  -7.60E-02</gcoord>
+    </node>
+    <node id="1227">Gcoord
+        <gcoord>6.88E-01  -4.80E-01  -7.50E-02</gcoord>
+    </node>
+    <node id="1228">Gcoord
+        <gcoord>6.80E-01  -4.73E-01  -7.40E-02</gcoord>
+    </node>
+    <node id="1229">Gcoord
+        <gcoord>7.54E-01  -4.43E-01  -1.22E-01</gcoord>
+    </node>
+    <node id="1230">Gcoord
+        <gcoord>7.27E-01  -4.45E-01  -1.22E-01</gcoord>
+    </node>
+    <node id="1231">Gcoord
+        <gcoord>7.13E-01  -4.49E-01  -1.23E-01</gcoord>
+    </node>
+    <node id="1232">Gcoord
+        <gcoord>7.08E-01  -4.58E-01  -1.26E-01</gcoord>
+    </node>
+    <node id="1233">Gcoord
+        <gcoord>6.97E-01  -4.69E-01  -1.29E-01</gcoord>
+    </node>
+    <node id="1234">Gcoord
+        <gcoord>6.88E-01  -4.68E-01  -1.29E-01</gcoord>
+    </node>
+    <node id="1235">Gcoord
+        <gcoord>6.80E-01  -4.62E-01  -1.27E-01</gcoord>
+    </node>
+    <node id="1236">Gcoord
+        <gcoord>7.54E-01  -4.27E-01  -1.71E-01</gcoord>
+    </node>
+    <node id="1237">Gcoord
+        <gcoord>7.27E-01  -4.29E-01  -1.71E-01</gcoord>
+    </node>
+    <node id="1238">Gcoord
+        <gcoord>7.13E-01  -4.32E-01  -1.73E-01</gcoord>
+    </node>
+    <node id="1239">Gcoord
+        <gcoord>7.08E-01  -4.41E-01  -1.76E-01</gcoord>
+    </node>
+    <node id="1240">Gcoord
+        <gcoord>6.97E-01  -4.51E-01  -1.80E-01</gcoord>
+    </node>
+    <node id="1241">Gcoord
+        <gcoord>6.88E-01  -4.51E-01  -1.80E-01</gcoord>
+    </node>
+    <node id="1242">Gcoord
+        <gcoord>6.80E-01  -4.45E-01  -1.78E-01</gcoord>
+    </node>
+    <node id="1243">Gcoord
+        <gcoord>7.54E-01  -4.05E-01  -2.17E-01</gcoord>
+    </node>
+    <node id="1244">Gcoord
+        <gcoord>7.27E-01  -4.07E-01  -2.18E-01</gcoord>
+    </node>
+    <node id="1245">Gcoord
+        <gcoord>7.13E-01  -4.10E-01  -2.20E-01</gcoord>
+    </node>
+    <node id="1246">Gcoord
+        <gcoord>7.08E-01  -4.18E-01  -2.24E-01</gcoord>
+    </node>
+    <node id="1247">Gcoord
+        <gcoord>6.97E-01  -4.28E-01  -2.30E-01</gcoord>
+    </node>
+    <node id="1248">Gcoord
+        <gcoord>6.88E-01  -4.28E-01  -2.30E-01</gcoord>
+    </node>
+    <node id="1249">Gcoord
+        <gcoord>6.80E-01  -4.22E-01  -2.27E-01</gcoord>
+    </node>
+    <node id="1250">Gcoord
+        <gcoord>7.54E-01  -3.78E-01  -2.61E-01</gcoord>
+    </node>
+    <node id="1251">Gcoord
+        <gcoord>7.27E-01  -3.80E-01  -2.63E-01</gcoord>
+    </node>
+    <node id="1252">Gcoord
+        <gcoord>7.13E-01  -3.83E-01  -2.65E-01</gcoord>
+    </node>
+    <node id="1253">Gcoord
+        <gcoord>7.08E-01  -3.91E-01  -2.70E-01</gcoord>
+    </node>
+    <node id="1254">Gcoord
+        <gcoord>6.97E-01  -4.00E-01  -2.76E-01</gcoord>
+    </node>
+    <node id="1255">Gcoord
+        <gcoord>6.88E-01  -3.99E-01  -2.76E-01</gcoord>
+    </node>
+    <node id="1256">Gcoord
+        <gcoord>6.80E-01  -3.94E-01  -2.72E-01</gcoord>
+    </node>
+    <node id="1257">Gcoord
+        <gcoord>7.54E-01  -3.47E-01  -3.02E-01</gcoord>
+    </node>
+    <node id="1258">Gcoord
+        <gcoord>7.27E-01  -3.48E-01  -3.03E-01</gcoord>
+    </node>
+    <node id="1259">Gcoord
+        <gcoord>7.13E-01  -3.51E-01  -3.06E-01</gcoord>
+    </node>
+    <node id="1260">Gcoord
+        <gcoord>7.08E-01  -3.58E-01  -3.12E-01</gcoord>
+    </node>
+    <node id="1261">Gcoord
+        <gcoord>6.97E-01  -3.66E-01  -3.19E-01</gcoord>
+    </node>
+    <node id="1262">Gcoord
+        <gcoord>6.88E-01  -3.66E-01  -3.19E-01</gcoord>
+    </node>
+    <node id="1263">Gcoord
+        <gcoord>6.80E-01  -3.61E-01  -3.15E-01</gcoord>
+    </node>
+    <node id="1264">Gcoord
+        <gcoord>7.54E-01  -3.11E-01  -3.39E-01</gcoord>
+    </node>
+    <node id="1265">Gcoord
+        <gcoord>7.27E-01  -3.12E-01  -3.41E-01</gcoord>
+    </node>
+    <node id="1266">Gcoord
+        <gcoord>7.13E-01  -3.15E-01  -3.43E-01</gcoord>
+    </node>
+    <node id="1267">Gcoord
+        <gcoord>7.08E-01  -3.21E-01  -3.50E-01</gcoord>
+    </node>
+    <node id="1268">Gcoord
+        <gcoord>6.97E-01  -3.28E-01  -3.58E-01</gcoord>
+    </node>
+    <node id="1269">Gcoord
+        <gcoord>6.88E-01  -3.28E-01  -3.58E-01</gcoord>
+    </node>
+    <node id="1270">Gcoord
+        <gcoord>6.80E-01  -3.24E-01  -3.53E-01</gcoord>
+    </node>
+    <node id="1271">Gcoord
+        <gcoord>7.54E-01  -2.71E-01  -3.72E-01</gcoord>
+    </node>
+    <node id="1272">Gcoord
+        <gcoord>7.27E-01  -2.72E-01  -3.73E-01</gcoord>
+    </node>
+    <node id="1273">Gcoord
+        <gcoord>7.13E-01  -2.74E-01  -3.76E-01</gcoord>
+    </node>
+    <node id="1274">Gcoord
+        <gcoord>7.08E-01  -2.79E-01  -3.84E-01</gcoord>
+    </node>
+    <node id="1275">Gcoord
+        <gcoord>6.97E-01  -2.86E-01  -3.93E-01</gcoord>
+    </node>
+    <node id="1276">Gcoord
+        <gcoord>6.88E-01  -2.86E-01  -3.92E-01</gcoord>
+    </node>
+    <node id="1277">Gcoord
+        <gcoord>6.80E-01  -2.82E-01  -3.87E-01</gcoord>
+    </node>
+    <node id="1278">Gcoord
+        <gcoord>7.54E-01  -2.27E-01  -4.00E-01</gcoord>
+    </node>
+    <node id="1279">Gcoord
+        <gcoord>7.27E-01  -2.28E-01  -4.01E-01</gcoord>
+    </node>
+    <node id="1280">Gcoord
+        <gcoord>7.13E-01  -2.30E-01  -4.05E-01</gcoord>
+    </node>
+    <node id="1281">Gcoord
+        <gcoord>7.08E-01  -2.35E-01  -4.13E-01</gcoord>
+    </node>
+    <node id="1282">Gcoord
+        <gcoord>6.97E-01  -2.40E-01  -4.22E-01</gcoord>
+    </node>
+    <node id="1283">Gcoord
+        <gcoord>6.88E-01  -2.40E-01  -4.22E-01</gcoord>
+    </node>
+    <node id="1284">Gcoord
+        <gcoord>6.80E-01  -2.37E-01  -4.16E-01</gcoord>
+    </node>
+    <node id="1285">Gcoord
+        <gcoord>7.54E-01  -1.81E-01  -4.23E-01</gcoord>
+    </node>
+    <node id="1286">Gcoord
+        <gcoord>7.27E-01  -1.82E-01  -4.24E-01</gcoord>
+    </node>
+    <node id="1287">Gcoord
+        <gcoord>7.13E-01  -1.84E-01  -4.28E-01</gcoord>
+    </node>
+    <node id="1288">Gcoord
+        <gcoord>7.08E-01  -1.87E-01  -4.36E-01</gcoord>
+    </node>
+    <node id="1289">Gcoord
+        <gcoord>6.97E-01  -1.92E-01  -4.47E-01</gcoord>
+    </node>
+    <node id="1290">Gcoord
+        <gcoord>6.88E-01  -1.91E-01  -4.46E-01</gcoord>
+    </node>
+    <node id="1291">Gcoord
+        <gcoord>6.80E-01  -1.89E-01  -4.40E-01</gcoord>
+    </node>
+    <node id="1292">Gcoord
+        <gcoord>7.54E-01  -1.33E-01  -4.40E-01</gcoord>
+    </node>
+    <node id="1293">Gcoord
+        <gcoord>7.27E-01  -1.33E-01  -4.42E-01</gcoord>
+    </node>
+    <node id="1294">Gcoord
+        <gcoord>7.13E-01  -1.34E-01  -4.46E-01</gcoord>
+    </node>
+    <node id="1295">Gcoord
+        <gcoord>7.08E-01  -1.37E-01  -4.54E-01</gcoord>
+    </node>
+    <node id="1296">Gcoord
+        <gcoord>6.97E-01  -1.40E-01  -4.65E-01</gcoord>
+    </node>
+    <node id="1297">Gcoord
+        <gcoord>6.88E-01  -1.40E-01  -4.65E-01</gcoord>
+    </node>
+    <node id="1298">Gcoord
+        <gcoord>6.80E-01  -1.38E-01  -4.59E-01</gcoord>
+    </node>
+    <node id="1299">Gcoord
+        <gcoord>7.54E-01  -8.30E-02  -4.52E-01</gcoord>
+    </node>
+    <node id="1300">Gcoord
+        <gcoord>7.27E-01  -8.30E-02  -4.54E-01</gcoord>
+    </node>
+    <node id="1301">Gcoord
+        <gcoord>7.13E-01  -8.40E-02  -4.58E-01</gcoord>
+    </node>
+    <node id="1302">Gcoord
+        <gcoord>7.08E-01  -8.50E-02  -4.67E-01</gcoord>
+    </node>
+    <node id="1303">Gcoord
+        <gcoord>6.97E-01  -8.70E-02  -4.78E-01</gcoord>
+    </node>
+    <node id="1304">Gcoord
+        <gcoord>6.88E-01  -8.70E-02  -4.78E-01</gcoord>
+    </node>
+    <node id="1305">Gcoord
+        <gcoord>6.80E-01  -8.60E-02  -4.71E-01</gcoord>
+    </node>
+    <node id="1306">Gcoord
+        <gcoord>7.54E-01  -3.10E-02  -4.59E-01</gcoord>
+    </node>
+    <node id="1307">Gcoord
+        <gcoord>7.27E-01  -3.20E-02  -4.61E-01</gcoord>
+    </node>
+    <node id="1308">Gcoord
+        <gcoord>7.13E-01  -3.20E-02  -4.65E-01</gcoord>
+    </node>
+    <node id="1309">Gcoord
+        <gcoord>7.08E-01  -3.20E-02  -4.74E-01</gcoord>
+    </node>
+    <node id="1310">Gcoord
+        <gcoord>6.97E-01  -3.30E-02  -4.85E-01</gcoord>
+    </node>
+    <node id="1311">Gcoord
+        <gcoord>6.88E-01  -3.30E-02  -4.84E-01</gcoord>
+    </node>
+    <node id="1312">Gcoord
+        <gcoord>6.80E-01  -3.30E-02  -4.78E-01</gcoord>
+    </node>
+    <node id="1313">Gcoord
+        <gcoord>7.54E-01  2.00E-02  -4.59E-01</gcoord>
+    </node>
+    <node id="1314">Gcoord
+        <gcoord>7.27E-01  2.00E-02  -4.61E-01</gcoord>
+    </node>
+    <node id="1315">Gcoord
+        <gcoord>7.13E-01  2.00E-02  -4.65E-01</gcoord>
+    </node>
+    <node id="1316">Gcoord
+        <gcoord>7.08E-01  2.10E-02  -4.74E-01</gcoord>
+    </node>
+    <node id="1317">Gcoord
+        <gcoord>6.97E-01  2.10E-02  -4.86E-01</gcoord>
+    </node>
+    <node id="1318">Gcoord
+        <gcoord>6.88E-01  2.10E-02  -4.85E-01</gcoord>
+    </node>
+    <node id="1319">Gcoord
+        <gcoord>6.80E-01  2.10E-02  -4.79E-01</gcoord>
+    </node>
+    <node id="1320">Gcoord
+        <gcoord>7.54E-01  7.10E-02  -4.54E-01</gcoord>
+    </node>
+    <node id="1321">Gcoord
+        <gcoord>7.27E-01  7.20E-02  -4.56E-01</gcoord>
+    </node>
+    <node id="1322">Gcoord
+        <gcoord>7.13E-01  7.20E-02  -4.60E-01</gcoord>
+    </node>
+    <node id="1323">Gcoord
+        <gcoord>7.08E-01  7.40E-02  -4.69E-01</gcoord>
+    </node>
+    <node id="1324">Gcoord
+        <gcoord>6.97E-01  7.60E-02  -4.80E-01</gcoord>
+    </node>
+    <node id="1325">Gcoord
+        <gcoord>6.88E-01  7.50E-02  -4.80E-01</gcoord>
+    </node>
+    <node id="1326">Gcoord
+        <gcoord>6.80E-01  7.40E-02  -4.73E-01</gcoord>
+    </node>
+    <node id="1327">Gcoord
+        <gcoord>7.54E-01  1.22E-01  -4.43E-01</gcoord>
+    </node>
+    <node id="1328">Gcoord
+        <gcoord>7.27E-01  1.22E-01  -4.45E-01</gcoord>
+    </node>
+    <node id="1329">Gcoord
+        <gcoord>7.13E-01  1.23E-01  -4.49E-01</gcoord>
+    </node>
+    <node id="1330">Gcoord
+        <gcoord>7.08E-01  1.26E-01  -4.58E-01</gcoord>
+    </node>
+    <node id="1331">Gcoord
+        <gcoord>6.97E-01  1.29E-01  -4.69E-01</gcoord>
+    </node>
+    <node id="1332">Gcoord
+        <gcoord>6.88E-01  1.29E-01  -4.68E-01</gcoord>
+    </node>
+    <node id="1333">Gcoord
+        <gcoord>6.80E-01  1.27E-01  -4.62E-01</gcoord>
+    </node>
+    <node id="1334">Gcoord
+        <gcoord>7.54E-01  1.71E-01  -4.27E-01</gcoord>
+    </node>
+    <node id="1335">Gcoord
+        <gcoord>7.27E-01  1.71E-01  -4.29E-01</gcoord>
+    </node>
+    <node id="1336">Gcoord
+        <gcoord>7.13E-01  1.73E-01  -4.32E-01</gcoord>
+    </node>
+    <node id="1337">Gcoord
+        <gcoord>7.08E-01  1.76E-01  -4.41E-01</gcoord>
+    </node>
+    <node id="1338">Gcoord
+        <gcoord>6.97E-01  1.80E-01  -4.51E-01</gcoord>
+    </node>
+    <node id="1339">Gcoord
+        <gcoord>6.88E-01  1.80E-01  -4.51E-01</gcoord>
+    </node>
+    <node id="1340">Gcoord
+        <gcoord>6.80E-01  1.78E-01  -4.45E-01</gcoord>
+    </node>
+    <node id="1341">Gcoord
+        <gcoord>7.54E-01  2.17E-01  -4.05E-01</gcoord>
+    </node>
+    <node id="1342">Gcoord
+        <gcoord>7.27E-01  2.18E-01  -4.07E-01</gcoord>
+    </node>
+    <node id="1343">Gcoord
+        <gcoord>7.13E-01  2.20E-01  -4.10E-01</gcoord>
+    </node>
+    <node id="1344">Gcoord
+        <gcoord>7.08E-01  2.24E-01  -4.18E-01</gcoord>
+    </node>
+    <node id="1345">Gcoord
+        <gcoord>6.97E-01  2.30E-01  -4.28E-01</gcoord>
+    </node>
+    <node id="1346">Gcoord
+        <gcoord>6.88E-01  2.30E-01  -4.28E-01</gcoord>
+    </node>
+    <node id="1347">Gcoord
+        <gcoord>6.80E-01  2.27E-01  -4.22E-01</gcoord>
+    </node>
+    <node id="1348">Gcoord
+        <gcoord>7.54E-01  2.61E-01  -3.78E-01</gcoord>
+    </node>
+    <node id="1349">Gcoord
+        <gcoord>7.27E-01  2.63E-01  -3.80E-01</gcoord>
+    </node>
+    <node id="1350">Gcoord
+        <gcoord>7.13E-01  2.65E-01  -3.83E-01</gcoord>
+    </node>
+    <node id="1351">Gcoord
+        <gcoord>7.08E-01  2.70E-01  -3.91E-01</gcoord>
+    </node>
+    <node id="1352">Gcoord
+        <gcoord>6.97E-01  2.76E-01  -4.00E-01</gcoord>
+    </node>
+    <node id="1353">Gcoord
+        <gcoord>6.88E-01  2.76E-01  -3.99E-01</gcoord>
+    </node>
+    <node id="1354">Gcoord
+        <gcoord>6.80E-01  2.72E-01  -3.94E-01</gcoord>
+    </node>
+    <node id="1355">Gcoord
+        <gcoord>7.54E-01  3.02E-01  -3.47E-01</gcoord>
+    </node>
+    <node id="1356">Gcoord
+        <gcoord>7.27E-01  3.03E-01  -3.48E-01</gcoord>
+    </node>
+    <node id="1357">Gcoord
+        <gcoord>7.13E-01  3.06E-01  -3.51E-01</gcoord>
+    </node>
+    <node id="1358">Gcoord
+        <gcoord>7.08E-01  3.12E-01  -3.58E-01</gcoord>
+    </node>
+    <node id="1359">Gcoord
+        <gcoord>6.97E-01  3.19E-01  -3.66E-01</gcoord>
+    </node>
+    <node id="1360">Gcoord
+        <gcoord>6.88E-01  3.19E-01  -3.66E-01</gcoord>
+    </node>
+    <node id="1361">Gcoord
+        <gcoord>6.80E-01  3.15E-01  -3.61E-01</gcoord>
+    </node>
+    <node id="1362">Gcoord
+        <gcoord>7.54E-01  3.39E-01  -3.11E-01</gcoord>
+    </node>
+    <node id="1363">Gcoord
+        <gcoord>7.27E-01  3.41E-01  -3.12E-01</gcoord>
+    </node>
+    <node id="1364">Gcoord
+        <gcoord>7.13E-01  3.43E-01  -3.15E-01</gcoord>
+    </node>
+    <node id="1365">Gcoord
+        <gcoord>7.08E-01  3.50E-01  -3.21E-01</gcoord>
+    </node>
+    <node id="1366">Gcoord
+        <gcoord>6.97E-01  3.58E-01  -3.28E-01</gcoord>
+    </node>
+    <node id="1367">Gcoord
+        <gcoord>6.88E-01  3.58E-01  -3.28E-01</gcoord>
+    </node>
+    <node id="1368">Gcoord
+        <gcoord>6.80E-01  3.53E-01  -3.24E-01</gcoord>
+    </node>
+    <node id="1369">Gcoord
+        <gcoord>7.54E-01  3.72E-01  -2.71E-01</gcoord>
+    </node>
+    <node id="1370">Gcoord
+        <gcoord>7.27E-01  3.73E-01  -2.72E-01</gcoord>
+    </node>
+    <node id="1371">Gcoord
+        <gcoord>7.13E-01  3.76E-01  -2.74E-01</gcoord>
+    </node>
+    <node id="1372">Gcoord
+        <gcoord>7.08E-01  3.84E-01  -2.79E-01</gcoord>
+    </node>
+    <node id="1373">Gcoord
+        <gcoord>6.97E-01  3.93E-01  -2.86E-01</gcoord>
+    </node>
+    <node id="1374">Gcoord
+        <gcoord>6.88E-01  3.92E-01  -2.86E-01</gcoord>
+    </node>
+    <node id="1375">Gcoord
+        <gcoord>6.80E-01  3.87E-01  -2.82E-01</gcoord>
+    </node>
+    <node id="1376">Gcoord
+        <gcoord>7.54E-01  4.00E-01  -2.27E-01</gcoord>
+    </node>
+    <node id="1377">Gcoord
+        <gcoord>7.27E-01  4.01E-01  -2.28E-01</gcoord>
+    </node>
+    <node id="1378">Gcoord
+        <gcoord>7.13E-01  4.05E-01  -2.30E-01</gcoord>
+    </node>
+    <node id="1379">Gcoord
+        <gcoord>7.08E-01  4.13E-01  -2.35E-01</gcoord>
+    </node>
+    <node id="1380">Gcoord
+        <gcoord>6.97E-01  4.22E-01  -2.40E-01</gcoord>
+    </node>
+    <node id="1381">Gcoord
+        <gcoord>6.88E-01  4.22E-01  -2.40E-01</gcoord>
+    </node>
+    <node id="1382">Gcoord
+        <gcoord>6.80E-01  4.16E-01  -2.37E-01</gcoord>
+    </node>
+    <node id="1383">Gcoord
+        <gcoord>7.54E-01  4.23E-01  -1.81E-01</gcoord>
+    </node>
+    <node id="1384">Gcoord
+        <gcoord>7.27E-01  4.24E-01  -1.82E-01</gcoord>
+    </node>
+    <node id="1385">Gcoord
+        <gcoord>7.13E-01  4.28E-01  -1.84E-01</gcoord>
+    </node>
+    <node id="1386">Gcoord
+        <gcoord>7.08E-01  4.36E-01  -1.87E-01</gcoord>
+    </node>
+    <node id="1387">Gcoord
+        <gcoord>6.97E-01  4.47E-01  -1.92E-01</gcoord>
+    </node>
+    <node id="1388">Gcoord
+        <gcoord>6.88E-01  4.46E-01  -1.91E-01</gcoord>
+    </node>
+    <node id="1389">Gcoord
+        <gcoord>6.80E-01  4.40E-01  -1.89E-01</gcoord>
+    </node>
+    <node id="1390">Gcoord
+        <gcoord>7.54E-01  4.40E-01  -1.33E-01</gcoord>
+    </node>
+    <node id="1391">Gcoord
+        <gcoord>7.27E-01  4.42E-01  -1.33E-01</gcoord>
+    </node>
+    <node id="1392">Gcoord
+        <gcoord>7.13E-01  4.46E-01  -1.34E-01</gcoord>
+    </node>
+    <node id="1393">Gcoord
+        <gcoord>7.08E-01  4.54E-01  -1.37E-01</gcoord>
+    </node>
+    <node id="1394">Gcoord
+        <gcoord>6.97E-01  4.65E-01  -1.40E-01</gcoord>
+    </node>
+    <node id="1395">Gcoord
+        <gcoord>6.88E-01  4.65E-01  -1.40E-01</gcoord>
+    </node>
+    <node id="1396">Gcoord
+        <gcoord>6.80E-01  4.59E-01  -1.38E-01</gcoord>
+    </node>
+    <node id="1397">Gcoord
+        <gcoord>7.54E-01  4.52E-01  -8.30E-02</gcoord>
+    </node>
+    <node id="1398">Gcoord
+        <gcoord>7.27E-01  4.54E-01  -8.30E-02</gcoord>
+    </node>
+    <node id="1399">Gcoord
+        <gcoord>7.13E-01  4.58E-01  -8.40E-02</gcoord>
+    </node>
+    <node id="1400">Gcoord
+        <gcoord>7.08E-01  4.67E-01  -8.50E-02</gcoord>
+    </node>
+    <node id="1401">Gcoord
+        <gcoord>6.97E-01  4.78E-01  -8.70E-02</gcoord>
+    </node>
+    <node id="1402">Gcoord
+        <gcoord>6.88E-01  4.78E-01  -8.70E-02</gcoord>
+    </node>
+    <node id="1403">Gcoord
+        <gcoord>6.80E-01  4.71E-01  -8.60E-02</gcoord>
+    </node>
+    <node id="1404">Gcoord
+        <gcoord>6.94E-01  2.45E-01  -4.11E-01</gcoord>
+    </node>
+    <node id="1405">Gcoord
+        <gcoord>7.86E-01  -3.80E-01  -1.86E-01</gcoord>
+    </node>
+    <node id="1406">Gcoord
+        <gcoord>7.45E-01  -3.68E-01  -1.77E-01</gcoord>
+    </node>
+    <node id="1407">Gcoord
+        <gcoord>7.53E-01  -3.93E-01  -1.73E-01</gcoord>
+    </node>
+    <node id="1408">Gcoord
+        <gcoord>7.82E-01  -3.64E-01  -2.27E-01</gcoord>
+    </node>
+    <node id="1409">Gcoord
+        <gcoord>7.82E-01  -4.00E-01  -1.38E-01</gcoord>
+    </node>
+    <node id="1410">Gcoord
+        <gcoord>7.32E-01  -3.91E-01  -1.74E-01</gcoord>
+    </node>
+    <node id="1411">Gcoord
+        <gcoord>7.36E-01  -4.05E-01  -1.47E-01</gcoord>
+    </node>
+    <node id="1412">Gcoord
+        <gcoord>6.94E-01  4.14E-01  1.45E-01</gcoord>
+    </node>
+    <node id="1413">Gcoord
+        <gcoord>7.04E-01  3.94E-01  1.80E-01</gcoord>
+    </node>
+    <node id="1414">Gcoord
+        <gcoord>6.92E-01  2.29E-01  -3.95E-01</gcoord>
+    </node>
+    <node id="1415">Gcoord
+        <gcoord>7.10E-01  4.26E-01  9.60E-02</gcoord>
+    </node>
+    <node id="1416">Gcoord
+        <gcoord>7.20E-01  4.07E-01  1.23E-01</gcoord>
+    </node>
+    <node id="1417">Gcoord
+        <gcoord>6.98E-01  4.40E-01  1.47E-01</gcoord>
+    </node>
+    <node id="1418">Gcoord
+        <gcoord>7.46E-01  2.09E-01  3.56E-01</gcoord>
+    </node>
+    <node id="1419">Gcoord
+        <gcoord>7.43E-01  1.72E-01  3.73E-01</gcoord>
+    </node>
+    <node id="1420">Gcoord
+        <gcoord>7.10E-01  1.88E-01  3.93E-01</gcoord>
+    </node>
+    <node id="1421">Gcoord
+        <gcoord>7.81E-01  1.87E-01  3.78E-01</gcoord>
+    </node>
+    <node id="1422">Gcoord
+        <gcoord>7.80E-01  2.27E-01  3.55E-01</gcoord>
+    </node>
+    <node id="1423">Gcoord
+        <gcoord>7.51E-01  2.50E-01  3.32E-01</gcoord>
+    </node>
+    <node id="1424">Gcoord
+        <gcoord>7.16E-01  2.36E-01  3.60E-01</gcoord>
+    </node>
+    <node id="1425">Gcoord
+        <gcoord>7.44E-01  -3.01E-01  2.71E-01</gcoord>
+    </node>
+    <node id="1426">Gcoord
+        <gcoord>7.75E-01  -3.00E-01  2.76E-01</gcoord>
+    </node>
+    <node id="1427">Gcoord
+        <gcoord>7.39E-01  -3.16E-01  3.00E-01</gcoord>
+    </node>
+    <node id="1428">Gcoord
+        <gcoord>7.26E-01  -3.36E-01  2.59E-01</gcoord>
+    </node>
+    <node id="1429">Gcoord
+        <gcoord>7.83E-01  -3.25E-01  2.72E-01</gcoord>
+    </node>
+    <node id="1430">Gcoord
+        <gcoord>7.82E-01  -3.53E-01  2.32E-01</gcoord>
+    </node>
+    <node id="1431">Gcoord
+        <gcoord>7.59E-01  -3.33E-01  2.60E-01</gcoord>
+    </node>
+    <node id="1432">Gcoord
+        <gcoord>7.40E-01  -3.56E-01  2.41E-01</gcoord>
+    </node>
+    <node id="1433">Gcoord
+        <gcoord>7.61E-01  -3.67E-01  2.18E-01</gcoord>
+    </node>
+    <node id="1434">Gcoord
+        <gcoord>7.39E-01  -3.83E-01  2.00E-01</gcoord>
+    </node>
+    <node id="1435">Gcoord
+        <gcoord>7.81E-01  -3.95E-01  2.02E-01</gcoord>
+    </node>
+    <node id="1436">Gcoord
+        <gcoord>7.82E-01  -3.78E-01  1.90E-01</gcoord>
+    </node>
+    <node id="1437">Gcoord
+        <gcoord>7.46E-01  -3.65E-01  1.80E-01</gcoord>
+    </node>
+    <node id="1438">Gcoord
+        <gcoord>7.78E-01  4.27E-01  -5.00E-03</gcoord>
+    </node>
+    <node id="1439">Gcoord
+        <gcoord>7.81E-01  4.20E-01  -4.80E-02</gcoord>
+    </node>
+    <node id="1440">Gcoord
+        <gcoord>7.48E-01  4.13E-01  -3.40E-02</gcoord>
+    </node>
+    <node id="1441">Gcoord
+        <gcoord>7.40E-01  4.28E-01  -2.60E-02</gcoord>
+    </node>
+    <node id="1442">Gcoord
+        <gcoord>7.81E-01  1.44E-01  3.98E-01</gcoord>
+    </node>
+    <node id="1443">Gcoord
+        <gcoord>7.51E-01  1.54E-01  3.86E-01</gcoord>
+    </node>
+    <node id="1444">Gcoord
+        <gcoord>7.80E-01  1.00E-01  4.13E-01</gcoord>
+    </node>
+    <node id="1445">Gcoord
+        <gcoord>6.91E-01  4.63E-01  -5.40E-02</gcoord>
+    </node>
+    <node id="1446">Gcoord
+        <gcoord>7.10E-01  4.30E-01  -1.00E-02</gcoord>
+    </node>
+    <node id="1447">Gcoord
+        <gcoord>7.49E-01  1.03E-01  3.97E-01</gcoord>
+    </node>
+    <node id="1448">Gcoord
+        <gcoord>6.97E-01  2.49E-01  -4.04E-01</gcoord>
+    </node>
+    <node id="1449">Gcoord
+        <gcoord>6.90E-01  -4.20E-01  -1.40E-01</gcoord>
+    </node>
+    <node id="1450">Gcoord
+        <gcoord>6.93E-01  -4.45E-01  -1.50E-01</gcoord>
+    </node>
+    <node id="1451">Gcoord
+        <gcoord>6.95E-01  -3.99E-01  -1.73E-01</gcoord>
+    </node>
+    <node id="1452">Gcoord
+        <gcoord>7.73E-01  -4.13E-01  -8.30E-02</gcoord>
+    </node>
+    <node id="1453">Gcoord
+        <gcoord>7.41E-01  -3.94E-01  -1.11E-01</gcoord>
+    </node>
+    <node id="1454">Gcoord
+        <gcoord>7.24E-01  -4.18E-01  -1.18E-01</gcoord>
+    </node>
+    <node id="1455">Gcoord
+        <gcoord>7.29E-01  -4.22E-01  -9.10E-02</gcoord>
+    </node>
+    <node id="1456">Gcoord
+        <gcoord>7.35E-01  -4.25E-01  -6.40E-02</gcoord>
+    </node>
+    <node id="1457">Gcoord
+        <gcoord>7.13E-01  -4.21E-01  -5.80E-02</gcoord>
+    </node>
+    <node id="1458">Gcoord
+        <gcoord>7.10E-01  -4.13E-01  -1.04E-01</gcoord>
+    </node>
+    <node id="1459">Gcoord
+        <gcoord>7.43E-01  -3.98E-01  -7.70E-02</gcoord>
+    </node>
+    <node id="1460">Gcoord
+        <gcoord>7.33E-01  3.79E-01  -1.97E-01</gcoord>
+    </node>
+    <node id="1461">Gcoord
+        <gcoord>7.12E-01  3.91E-01  -1.70E-01</gcoord>
+    </node>
+    <node id="1462">Gcoord
+        <gcoord>7.42E-01  3.64E-01  -2.23E-01</gcoord>
+    </node>
+    <node id="1463">Gcoord
+        <gcoord>7.79E-01  3.78E-01  -1.90E-01</gcoord>
+    </node>
+    <node id="1464">Gcoord
+        <gcoord>6.91E-01  -3.24E-01  -3.10E-01</gcoord>
+    </node>
+    <node id="1465">Gcoord
+        <gcoord>7.52E-01  3.79E-01  -1.74E-01</gcoord>
+    </node>
+    <node id="1466">Gcoord
+        <gcoord>7.23E-01  3.96E-01  -1.51E-01</gcoord>
+    </node>
+    <node id="1467">Gcoord
+        <gcoord>7.82E-01  -1.85E-01  -3.80E-01</gcoord>
+    </node>
+    <node id="1468">Gcoord
+        <gcoord>7.82E-01  -2.26E-01  -3.57E-01</gcoord>
+    </node>
+    <node id="1469">Gcoord
+        <gcoord>7.18E-01  -4.35E-01  -4.10E-02</gcoord>
+    </node>
+    <node id="1470">Gcoord
+        <gcoord>6.84E-01  -4.61E-01  -4.20E-02</gcoord>
+    </node>
+    <node id="1471">Gcoord
+        <gcoord>7.82E-01  1.38E-01  -4.00E-01</gcoord>
+    </node>
+    <node id="1472">Gcoord
+        <gcoord>7.80E-01  1.79E-01  -3.84E-01</gcoord>
+    </node>
+    <node id="1473">Gcoord
+        <gcoord>7.82E-01  9.30E-02  -4.12E-01</gcoord>
+    </node>
+    <node id="1474">Gcoord
+        <gcoord>7.51E-01  1.22E-01  -3.96E-01</gcoord>
+    </node>
+    <node id="1475">Gcoord
+        <gcoord>6.81E-01  -6.00E-02  -9.10E-02</gcoord>
+    </node>
+    <node id="1476">Gcoord
+        <gcoord>6.87E-01  -3.20E-02  -1.02E-01</gcoord>
+    </node>
+    <node id="1477">Gcoord
+        <gcoord>6.86E-01  -8.60E-02  -8.20E-02</gcoord>
+    </node>
+    <node id="1478">Gcoord
+        <gcoord>6.90E-01  -8.90E-02  -5.90E-02</gcoord>
+    </node>
+    <node id="1479">Gcoord
+        <gcoord>7.30E-01  -9.60E-02  -8.10E-02</gcoord>
+    </node>
+    <node id="1480">Gcoord
+        <gcoord>6.92E-01  -5.00E-02  -1.11E-01</gcoord>
+    </node>
+    <node id="1481">Gcoord
+        <gcoord>6.97E-01  6.00E-02  9.60E-02</gcoord>
+    </node>
+    <node id="1482">Gcoord
+        <gcoord>7.04E-01  9.80E-02  6.30E-02</gcoord>
+    </node>
+    <node id="1483">Gcoord
+        <gcoord>6.76E-01  8.60E-02  6.60E-02</gcoord>
+    </node>
+    <node id="1484">Gcoord
+        <gcoord>6.75E-01  5.40E-02  9.30E-02</gcoord>
+    </node>
+    <node id="1485">Gcoord
+        <gcoord>7.47E-01  9.70E-02  8.40E-02</gcoord>
+    </node>
+    <node id="1486">Gcoord
+        <gcoord>7.42E-01  -1.29E-01  -1.20E-02</gcoord>
+    </node>
+    <node id="1487">Gcoord
+        <gcoord>7.00E-01  -1.00E-01  -4.20E-02</gcoord>
+    </node>
+    <node id="1488">Gcoord
+        <gcoord>6.92E-01  -1.08E-01  -6.00E-03</gcoord>
+    </node>
+    <node id="1489">Gcoord
+        <gcoord>6.98E-01  1.00E-01  -4.53E-01</gcoord>
+    </node>
+    <node id="1490">Gcoord
+        <gcoord>6.99E-01  -1.03E-01  4.30E-02</gcoord>
+    </node>
+    <node id="1491">Gcoord
+        <gcoord>6.78E-01  -9.80E-02  3.50E-02</gcoord>
+    </node>
+    <node id="1492">Gcoord
+        <gcoord>7.44E-01  -1.17E-01  5.10E-02</gcoord>
+    </node>
+    <node id="1493">Gcoord
+        <gcoord>6.76E-01  -7.60E-02  8.00E-02</gcoord>
+    </node>
+    <node id="1494">Gcoord
+        <gcoord>6.95E-01  -8.00E-02  8.20E-02</gcoord>
+    </node>
+    <node id="1495">Gcoord
+        <gcoord>7.42E-01  -7.70E-02  1.01E-01</gcoord>
+    </node>
+    <node id="1496">Gcoord
+        <gcoord>7.46E-01  3.92E-01  -1.29E-01</gcoord>
+    </node>
+    <node id="1497">Gcoord
+        <gcoord>7.81E-01  3.95E-01  -1.46E-01</gcoord>
+    </node>
+    <node id="1498">Gcoord
+        <gcoord>7.65E-01  4.08E-01  -1.49E-01</gcoord>
+    </node>
+    <node id="1499">Gcoord
+        <gcoord>7.36E-01  4.16E-01  -1.05E-01</gcoord>
+    </node>
+    <node id="1500">Gcoord
+        <gcoord>7.80E-01  4.11E-01  -9.80E-02</gcoord>
+    </node>
+    <node id="1501">Gcoord
+        <gcoord>7.00E-01  -4.50E-01  -9.40E-02</gcoord>
+    </node>
+    <node id="1502">Gcoord
+        <gcoord>6.79E-01  1.03E-01  2.00E-02</gcoord>
+    </node>
+    <node id="1503">Gcoord
+        <gcoord>7.85E-01  -1.39E-01  -3.99E-01</gcoord>
+    </node>
+    <node id="1504">Gcoord
+        <gcoord>7.45E-01  -1.72E-01  -3.82E-01</gcoord>
+    </node>
+    <node id="1505">Gcoord
+        <gcoord>6.96E-01  -4.21E-01  -1.96E-01</gcoord>
+    </node>
+    <node id="1506">Gcoord
+        <gcoord>7.19E-01  -3.67E-01  -2.23E-01</gcoord>
+    </node>
+    <node id="1507">Gcoord
+        <gcoord>7.03E-01  3.58E-01  -2.90E-01</gcoord>
+    </node>
+    <node id="1508">Gcoord
+        <gcoord>6.95E-01  9.60E-02  -4.62E-01</gcoord>
+    </node>
+    <node id="1509">Gcoord
+        <gcoord>7.01E-01  1.90E-01  -3.91E-01</gcoord>
+    </node>
+    <node id="1510">Gcoord
+        <gcoord>6.97E-01  2.32E-01  -3.83E-01</gcoord>
+    </node>
+    <node id="1511">Gcoord
+        <gcoord>7.03E-01  1.99E-01  -4.17E-01</gcoord>
+    </node>
+    <node id="1512">Gcoord
+        <gcoord>7.21E-01  4.26E-01  -1.01E-01</gcoord>
+    </node>
+    <node id="1513">Gcoord
+        <gcoord>7.15E-01  4.10E-01  -1.16E-01</gcoord>
+    </node>
+    <node id="1514">Gcoord
+        <gcoord>7.42E-01  1.28E-01  -2.70E-02</gcoord>
+    </node>
+    <node id="1515">Gcoord
+        <gcoord>7.44E-01  1.08E-01  -6.60E-02</gcoord>
+    </node>
+    <node id="1516">Gcoord
+        <gcoord>6.82E-01  1.04E-01  -2.70E-02</gcoord>
+    </node>
+    <node id="1517">Gcoord
+        <gcoord>7.36E-01  8.20E-02  -9.70E-02</gcoord>
+    </node>
+    <node id="1518">Gcoord
+        <gcoord>7.03E-01  -2.49E-01  3.55E-01</gcoord>
+    </node>
+    <node id="1519">Gcoord
+        <gcoord>6.93E-01  -2.46E-01  4.00E-01</gcoord>
+    </node>
+    <node id="1520">Gcoord
+        <gcoord>7.33E-01  -2.63E-01  3.33E-01</gcoord>
+    </node>
+    <node id="1521">Gcoord
+        <gcoord>7.25E-01  -2.20E-01  3.64E-01</gcoord>
+    </node>
+    <node id="1522">Gcoord
+        <gcoord>7.08E-01  -1.95E-01  3.86E-01</gcoord>
+    </node>
+    <node id="1523">Gcoord
+        <gcoord>7.22E-01  2.73E-01  3.31E-01</gcoord>
+    </node>
+    <node id="1524">Gcoord
+        <gcoord>7.02E-01  2.95E-01  3.55E-01</gcoord>
+    </node>
+    <node id="1525">Gcoord
+        <gcoord>6.97E-01  2.93E-01  3.25E-01</gcoord>
+    </node>
+    <node id="1526">Gcoord
+        <gcoord>6.95E-01  2.52E-01  3.56E-01</gcoord>
+    </node>
+    <node id="1527">Gcoord
+        <gcoord>7.18E-01  3.04E-01  3.05E-01</gcoord>
+    </node>
+    <node id="1528">Gcoord
+        <gcoord>7.03E-01  3.31E-01  3.23E-01</gcoord>
+    </node>
+    <node id="1529">Gcoord
+        <gcoord>7.80E-01  -4.10E-02  4.22E-01</gcoord>
+    </node>
+    <node id="1530">Gcoord
+        <gcoord>7.54E-01  -4.50E-02  4.12E-01</gcoord>
+    </node>
+    <node id="1531">Gcoord
+        <gcoord>7.76E-01  8.00E-03  4.25E-01</gcoord>
+    </node>
+    <node id="1532">Gcoord
+        <gcoord>7.44E-01  -8.60E-02  4.14E-01</gcoord>
+    </node>
+    <node id="1533">Gcoord
+        <gcoord>7.82E-01  -9.20E-02  4.15E-01</gcoord>
+    </node>
+    <node id="1534">Gcoord
+        <gcoord>7.80E-01  -1.32E-01  4.06E-01</gcoord>
+    </node>
+    <node id="1535">Gcoord
+        <gcoord>7.01E-01  1.80E-02  -4.34E-01</gcoord>
+    </node>
+    <node id="1536">Gcoord
+        <gcoord>7.02E-01  9.00E-02  -4.36E-01</gcoord>
+    </node>
+    <node id="1537">Gcoord
+        <gcoord>7.23E-01  -6.00E-03  -4.30E-01</gcoord>
+    </node>
+    <node id="1538">Gcoord
+        <gcoord>7.16E-01  -5.50E-02  -4.28E-01</gcoord>
+    </node>
+    <node id="1539">Gcoord
+        <gcoord>7.16E-01  -4.24E-01  -1.90E-02</gcoord>
+    </node>
+    <node id="1540">Gcoord
+        <gcoord>7.12E-01  4.10E-02  -4.30E-01</gcoord>
+    </node>
+    <node id="1541">Gcoord
+        <gcoord>7.01E-01  4.50E-02  -4.60E-01</gcoord>
+    </node>
+    <node id="1542">Gcoord
+        <gcoord>7.53E-01  -1.08E-04  -4.13E-01</gcoord>
+    </node>
+    <node id="1543">Gcoord
+        <gcoord>6.83E-01  2.60E-02  1.06E-01</gcoord>
+    </node>
+    <node id="1544">Gcoord
+        <gcoord>6.74E-01  -1.30E-02  1.08E-01</gcoord>
+    </node>
+    <node id="1545">Gcoord
+        <gcoord>7.86E-01  -1.12E-01  2.30E-02</gcoord>
+    </node>
+    <node id="1546">Gcoord
+        <gcoord>7.75E-01  3.57E-01  2.30E-01</gcoord>
+    </node>
+    <node id="1547">Gcoord
+        <gcoord>7.85E-01  3.40E-01  2.61E-01</gcoord>
+    </node>
+    <node id="1548">Gcoord
+        <gcoord>7.53E-01  3.10E-01  2.75E-01</gcoord>
+    </node>
+    <node id="1549">Gcoord
+        <gcoord>7.37E-01  3.50E-01  2.53E-01</gcoord>
+    </node>
+    <node id="1550">Gcoord
+        <gcoord>7.00E-01  4.54E-01  9.50E-02</gcoord>
+    </node>
+    <node id="1551">Gcoord
+        <gcoord>7.82E-01  3.88E-01  1.84E-01</gcoord>
+    </node>
+    <node id="1552">Gcoord
+        <gcoord>7.44E-01  3.60E-01  1.92E-01</gcoord>
+    </node>
+    <node id="1553">Gcoord
+        <gcoord>7.40E-01  3.78E-01  2.13E-01</gcoord>
+    </node>
+    <node id="1554">Gcoord
+        <gcoord>7.44E-01  4.04E-01  8.80E-02</gcoord>
+    </node>
+    <node id="1555">Gcoord
+        <gcoord>7.19E-01  4.28E-01  4.00E-02</gcoord>
+    </node>
+    <node id="1556">Gcoord
+        <gcoord>7.50E-01  4.13E-01  4.70E-02</gcoord>
+    </node>
+    <node id="1557">Gcoord
+        <gcoord>7.37E-01  4.26E-01  1.50E-02</gcoord>
+    </node>
+    <node id="1558">Gcoord
+        <gcoord>7.77E-01  4.19E-01  4.20E-02</gcoord>
+    </node>
+    <node id="1559">Gcoord
+        <gcoord>7.76E-01  4.16E-01  9.10E-02</gcoord>
+    </node>
+    <node id="1560">Gcoord
+        <gcoord>7.37E-01  -3.29E-01  -2.31E-01</gcoord>
+    </node>
+    <node id="1561">Gcoord
+        <gcoord>7.58E-01  -3.22E-01  -2.71E-01</gcoord>
+    </node>
+    <node id="1562">Gcoord
+        <gcoord>7.23E-01  -3.53E-01  -2.55E-01</gcoord>
+    </node>
+    <node id="1563">Gcoord
+        <gcoord>6.96E-01  -3.46E-01  -2.82E-01</gcoord>
+    </node>
+    <node id="1564">Gcoord
+        <gcoord>7.34E-01  -3.14E-01  -2.94E-01</gcoord>
+    </node>
+    <node id="1565">Gcoord
+        <gcoord>7.44E-01  -2.88E-01  -2.85E-01</gcoord>
+    </node>
+    <node id="1566">Gcoord
+        <gcoord>7.40E-01  -3.45E-01  -2.17E-01</gcoord>
+    </node>
+    <node id="1567">Gcoord
+        <gcoord>7.75E-01  -3.38E-01  -2.60E-01</gcoord>
+    </node>
+    <node id="1568">Gcoord
+        <gcoord>6.98E-01  -1.96E-01  4.20E-01</gcoord>
+    </node>
+    <node id="1569">Gcoord
+        <gcoord>7.20E-01  -1.67E-01  3.90E-01</gcoord>
+    </node>
+    <node id="1570">Gcoord
+        <gcoord>7.15E-01  4.21E-01  -6.30E-02</gcoord>
+    </node>
+    <node id="1571">Gcoord
+        <gcoord>7.51E-01  2.15E-01  -3.59E-01</gcoord>
+    </node>
+    <node id="1572">Gcoord
+        <gcoord>7.20E-01  1.68E-01  -3.90E-01</gcoord>
+    </node>
+    <node id="1573">Gcoord
+        <gcoord>7.17E-01  1.33E-01  -4.12E-01</gcoord>
+    </node>
+    <node id="1574">Gcoord
+        <gcoord>7.16E-01  -1.02E-01  -4.13E-01</gcoord>
+    </node>
+    <node id="1575">Gcoord
+        <gcoord>7.48E-01  -1.02E-01  -4.02E-01</gcoord>
+    </node>
+    <node id="1576">Gcoord
+        <gcoord>7.47E-01  -4.80E-02  -4.15E-01</gcoord>
+    </node>
+    <node id="1577">Gcoord
+        <gcoord>7.78E-01  -5.10E-02  -4.22E-01</gcoord>
+    </node>
+    <node id="1578">Gcoord
+        <gcoord>7.77E-01  -1.64E-01  3.89E-01</gcoord>
+    </node>
+    <node id="1579">Gcoord
+        <gcoord>7.31E-01  8.70E-02  -4.19E-01</gcoord>
+    </node>
+    <node id="1580">Gcoord
+        <gcoord>7.80E-01  -3.09E-01  -2.98E-01</gcoord>
+    </node>
+    <node id="1581">Gcoord
+        <gcoord>7.01E-01  -5.00E-03  -4.61E-01</gcoord>
+    </node>
+    <node id="1582">Gcoord
+        <gcoord>7.45E-01  2.64E-01  -3.30E-01</gcoord>
+    </node>
+    <node id="1583">Gcoord
+        <gcoord>7.80E-01  2.18E-01  -3.62E-01</gcoord>
+    </node>
+    <node id="1584">Gcoord
+        <gcoord>7.85E-01  -3.96E-01  1.46E-01</gcoord>
+    </node>
+    <node id="1585">Gcoord
+        <gcoord>7.54E-01  -3.92E-01  1.40E-01</gcoord>
+    </node>
+    <node id="1586">Gcoord
+        <gcoord>7.82E-01  -4.18E-01  9.50E-02</gcoord>
+    </node>
+    <node id="1587">Gcoord
+        <gcoord>7.75E-01  -4.09E-01  9.40E-02</gcoord>
+    </node>
+    <node id="1588">Gcoord
+        <gcoord>7.41E-01  -4.12E-01  1.15E-01</gcoord>
+    </node>
+    <node id="1589">Gcoord
+        <gcoord>6.94E-01  -1.60E-02  -1.12E-01</gcoord>
+    </node>
+    <node id="1590">Gcoord
+        <gcoord>7.80E-01  -4.12E-01  1.46E-01</gcoord>
+    </node>
+    <node id="1591">Gcoord
+        <gcoord>7.78E-01  -4.24E-01  2.90E-02</gcoord>
+    </node>
+    <node id="1592">Gcoord
+        <gcoord>7.84E-01  -2.21E-01  3.70E-01</gcoord>
+    </node>
+    <node id="1593">Gcoord
+        <gcoord>7.51E-01  -1.74E-01  3.79E-01</gcoord>
+    </node>
+    <node id="1594">Gcoord
+        <gcoord>7.79E-01  -2.40E-01  3.47E-01</gcoord>
+    </node>
+    <node id="1595">Gcoord
+        <gcoord>7.48E-01  -2.11E-01  3.55E-01</gcoord>
+    </node>
+    <node id="1596">Gcoord
+        <gcoord>6.94E-01  -4.66E-01  3.00E-03</gcoord>
+    </node>
+    <node id="1597">Gcoord
+        <gcoord>7.03E-01  -4.37E-01  6.00E-03</gcoord>
+    </node>
+    <node id="1598">Gcoord
+        <gcoord>6.89E-01  -3.95E-01  -2.47E-01</gcoord>
+    </node>
+    <node id="1599">Gcoord
+        <gcoord>6.92E-01  4.70E-01  -4.00E-03</gcoord>
+    </node>
+    <node id="1600">Gcoord
+        <gcoord>7.02E-01  -2.94E-01  -3.53E-01</gcoord>
+    </node>
+    <node id="1601">Gcoord
+        <gcoord>7.14E-01  -3.02E-01  -3.07E-01</gcoord>
+    </node>
+    <node id="1602">Gcoord
+        <gcoord>7.01E-01  -2.69E-01  -3.38E-01</gcoord>
+    </node>
+    <node id="1603">Gcoord
+        <gcoord>6.95E-01  -2.52E-01  -3.89E-01</gcoord>
+    </node>
+    <node id="1604">Gcoord
+        <gcoord>7.21E-01  -2.88E-01  -3.07E-01</gcoord>
+    </node>
+    <node id="1605">Gcoord
+        <gcoord>7.00E-01  1.58E-01  4.34E-01</gcoord>
+    </node>
+    <node id="1606">Gcoord
+        <gcoord>7.06E-01  1.24E-01  4.13E-01</gcoord>
+    </node>
+    <node id="1607">Gcoord
+        <gcoord>7.22E-01  1.49E-01  4.00E-01</gcoord>
+    </node>
+    <node id="1608">Gcoord
+        <gcoord>6.96E-01  4.63E-01  4.60E-02</gcoord>
+    </node>
+    <node id="1609">Gcoord
+        <gcoord>7.43E-01  -2.24E-01  -3.63E-01</gcoord>
+    </node>
+    <node id="1610">Gcoord
+        <gcoord>7.76E-01  -2.68E-01  -3.28E-01</gcoord>
+    </node>
+    <node id="1611">Gcoord
+        <gcoord>6.85E-01  -3.70E-01  -2.83E-01</gcoord>
+    </node>
+    <node id="1612">Gcoord
+        <gcoord>7.39E-01  -4.02E-01  -3.40E-02</gcoord>
+    </node>
+    <node id="1613">Gcoord
+        <gcoord>7.36E-01  -4.30E-01  7.00E-03</gcoord>
+    </node>
+    <node id="1614">Gcoord
+        <gcoord>7.45E-01  -4.06E-01  2.20E-02</gcoord>
+    </node>
+    <node id="1615">Gcoord
+        <gcoord>6.95E-01  -4.50E-01  1.11E-01</gcoord>
+    </node>
+    <node id="1616">Gcoord
+        <gcoord>7.11E-01  -4.24E-01  9.80E-02</gcoord>
+    </node>
+    <node id="1617">Gcoord
+        <gcoord>7.05E-01  -4.32E-01  1.60E-01</gcoord>
+    </node>
+    <node id="1618">Gcoord
+        <gcoord>7.01E-01  -3.55E-01  2.94E-01</gcoord>
+    </node>
+    <node id="1619">Gcoord
+        <gcoord>7.16E-01  -3.04E-01  2.99E-01</gcoord>
+    </node>
+    <node id="1620">Gcoord
+        <gcoord>7.00E-01  2.06E-01  4.13E-01</gcoord>
+    </node>
+    <node id="1621">Gcoord
+        <gcoord>7.03E-01  -4.40E-02  4.59E-01</gcoord>
+    </node>
+    <node id="1622">Gcoord
+        <gcoord>7.17E-01  -4.40E-02  4.28E-01</gcoord>
+    </node>
+    <node id="1623">Gcoord
+        <gcoord>6.96E-01  -2.00E-02  4.37E-01</gcoord>
+    </node>
+    <node id="1624">Gcoord
+        <gcoord>7.86E-01  -2.60E-01  3.39E-01</gcoord>
+    </node>
+    <node id="1625">Gcoord
+        <gcoord>7.50E-01  -2.71E-01  3.12E-01</gcoord>
+    </node>
+    <node id="1626">Gcoord
+        <gcoord>7.85E-01  -1.90E-01  3.96E-01</gcoord>
+    </node>
+    <node id="1627">Gcoord
+        <gcoord>7.02E-01  -4.13E-01  2.07E-01</gcoord>
+    </node>
+    <node id="1628">Gcoord
+        <gcoord>7.10E-01  -3.93E-01  1.87E-01</gcoord>
+    </node>
+    <node id="1629">Gcoord
+        <gcoord>7.32E-01  -4.70E-02  3.75E-01</gcoord>
+    </node>
+    <node id="1630">Gcoord
+        <gcoord>7.14E-01  -2.27E-01  -3.69E-01</gcoord>
+    </node>
+    <node id="1631">Gcoord
+        <gcoord>7.82E-01  3.04E-01  2.95E-01</gcoord>
+    </node>
+    <node id="1632">Gcoord
+        <gcoord>7.37E-01  2.00E-02  -1.21E-01</gcoord>
+    </node>
+    <node id="1633">Gcoord
+        <gcoord>7.40E-01  -5.30E-02  -1.13E-01</gcoord>
+    </node>
+    <node id="1634">Gcoord
+        <gcoord>6.80E-01  1.10E-02  -1.11E-01</gcoord>
+    </node>
+    <node id="1635">Gcoord
+        <gcoord>6.92E-01  3.80E-02  -1.13E-01</gcoord>
+    </node>
+    <node id="1636">Gcoord
+        <gcoord>7.39E-01  3.95E-01  -7.90E-02</gcoord>
+    </node>
+    <node id="1637">Gcoord
+        <gcoord>7.40E-01  4.17E-01  -6.80E-02</gcoord>
+    </node>
+    <node id="1638">Gcoord
+        <gcoord>7.11E-01  -1.40E-01  4.14E-01</gcoord>
+    </node>
+    <node id="1639">Gcoord
+        <gcoord>7.45E-01  -1.23E-01  3.89E-01</gcoord>
+    </node>
+    <node id="1640">Gcoord
+        <gcoord>7.38E-01  -1.25E-01  4.21E-01</gcoord>
+    </node>
+    <node id="1641">Gcoord
+        <gcoord>7.18E-01  -2.02E-01  -3.68E-01</gcoord>
+    </node>
+    <node id="1642">Gcoord
+        <gcoord>7.11E-01  -1.94E-01  -3.90E-01</gcoord>
+    </node>
+    <node id="1643">Gcoord
+        <gcoord>6.99E-01  -2.08E-01  -4.14E-01</gcoord>
+    </node>
+    <node id="1644">Gcoord
+        <gcoord>7.79E-01  -2.95E-01  3.05E-01</gcoord>
+    </node>
+    <node id="1645">Gcoord
+        <gcoord>7.02E-01  1.50E-01  -4.38E-01</gcoord>
+    </node>
+    <node id="1646">Gcoord
+        <gcoord>6.99E-01  -3.86E-01  2.53E-01</gcoord>
+    </node>
+    <node id="1647">Gcoord
+        <gcoord>7.14E-01  -3.67E-01  2.18E-01</gcoord>
+    </node>
+    <node id="1648">Gcoord
+        <gcoord>6.97E-01  1.13E-01  1.80E-02</gcoord>
+    </node>
+    <node id="1649">Gcoord
+        <gcoord>7.42E-01  1.26E-01  2.20E-02</gcoord>
+    </node>
+    <node id="1650">Gcoord
+        <gcoord>7.44E-01  -3.40E-01  2.23E-01</gcoord>
+    </node>
+    <node id="1651">Gcoord
+        <gcoord>7.01E-01  3.89E-01  -2.48E-01</gcoord>
+    </node>
+    <node id="1652">Gcoord
+        <gcoord>7.09E-01  3.69E-01  -2.31E-01</gcoord>
+    </node>
+    <node id="1653">Gcoord
+        <gcoord>7.37E-01  1.81E-01  3.95E-01</gcoord>
+    </node>
+    <node id="1654">Gcoord
+        <gcoord>7.10E-01  6.90E-02  -8.60E-02</gcoord>
+    </node>
+    <node id="1655">Gcoord
+        <gcoord>7.75E-01  3.62E-01  -2.31E-01</gcoord>
+    </node>
+    <node id="1656">Gcoord
+        <gcoord>7.54E-01  3.42E-01  -2.34E-01</gcoord>
+    </node>
+    <node id="1657">Gcoord
+        <gcoord>7.73E-01  3.25E-01  -2.72E-01</gcoord>
+    </node>
+    <node id="1658">Gcoord
+        <gcoord>7.09E-01  -4.31E-01  5.60E-02</gcoord>
+    </node>
+    <node id="1659">Gcoord
+        <gcoord>6.99E-01  -4.59E-01  5.90E-02</gcoord>
+    </node>
+    <node id="1660">Gcoord
+        <gcoord>7.36E-01  -4.18E-01  6.90E-02</gcoord>
+    </node>
+    <node id="1661">Gcoord
+        <gcoord>7.34E-01  -4.33E-01  3.80E-02</gcoord>
+    </node>
+    <node id="1662">Gcoord
+        <gcoord>7.49E-01  1.71E-01  -3.82E-01</gcoord>
+    </node>
+    <node id="1663">Gcoord
+        <gcoord>7.24E-01  -3.93E-01  1.56E-01</gcoord>
+    </node>
+    <node id="1664">Gcoord
+        <gcoord>7.30E-01  -3.42E-01  1.66E-01</gcoord>
+    </node>
+    <node id="1665">Gcoord
+        <gcoord>6.72E-01  -4.30E-02  1.02E-01</gcoord>
+    </node>
+    <node id="1666">Gcoord
+        <gcoord>6.90E-01  -2.90E-02  1.14E-01</gcoord>
+    </node>
+    <node id="1667">Gcoord
+        <gcoord>7.37E-01  -1.60E-02  1.21E-01</gcoord>
+    </node>
+    <node id="1668">Gcoord
+        <gcoord>6.71E-01  3.70E-02  -1.05E-01</gcoord>
+    </node>
+    <node id="1669">Gcoord
+        <gcoord>7.23E-01  -2.68E-01  -3.39E-01</gcoord>
+    </node>
+    <node id="1670">Gcoord
+        <gcoord>7.02E-01  -1.59E-01  -4.37E-01</gcoord>
+    </node>
+    <node id="1671">Gcoord
+        <gcoord>7.08E-01  -1.47E-01  -4.12E-01</gcoord>
+    </node>
+    <node id="1672">Gcoord
+        <gcoord>7.79E-01  4.00E-01  1.35E-01</gcoord>
+    </node>
+    <node id="1673">Gcoord
+        <gcoord>7.44E-01  3.85E-01  1.48E-01</gcoord>
+    </node>
+    <node id="1674">Gcoord
+        <gcoord>7.26E-01  -4.00E-03  4.26E-01</gcoord>
+    </node>
+    <node id="1675">Gcoord
+        <gcoord>7.51E-01  9.67E-04  4.13E-01</gcoord>
+    </node>
+    <node id="1676">Gcoord
+        <gcoord>7.48E-01  4.80E-02  4.10E-01</gcoord>
+    </node>
+    <node id="1677">Gcoord
+        <gcoord>6.99E-01  1.07E-01  4.51E-01</gcoord>
+    </node>
+    <node id="1678">Gcoord
+        <gcoord>7.15E-01  1.09E-01  4.17E-01</gcoord>
+    </node>
+    <node id="1679">Gcoord
+        <gcoord>7.02E-01  4.16E-01  -2.00E-01</gcoord>
+    </node>
+    <node id="1680">Gcoord
+        <gcoord>7.02E-01  1.10E-02  4.61E-01</gcoord>
+    </node>
+    <node id="1681">Gcoord
+        <gcoord>7.14E-01  5.00E-02  4.26E-01</gcoord>
+    </node>
+    <node id="1682">Gcoord
+        <gcoord>6.76E-01  6.40E-02  -8.40E-02</gcoord>
+    </node>
+    <node id="1683">Gcoord
+        <gcoord>7.77E-01  5.40E-02  4.22E-01</gcoord>
+    </node>
+    <node id="1684">Gcoord
+        <gcoord>7.33E-01  3.60E-02  1.22E-01</gcoord>
+    </node>
+    <node id="1685">Gcoord
+        <gcoord>7.02E-01  4.49E-01  -1.07E-01</gcoord>
+    </node>
+    <node id="1686">Gcoord
+        <gcoord>6.94E-01  4.21E-01  1.97E-01</gcoord>
+    </node>
+    <node id="1687">Gcoord
+        <gcoord>7.09E-01  3.00E-01  -3.09E-01</gcoord>
+    </node>
+    <node id="1688">Gcoord
+        <gcoord>7.24E-01  3.29E-01  -2.70E-01</gcoord>
+    </node>
+    <node id="1689">Gcoord
+        <gcoord>7.43E-01  2.93E-01  -2.87E-01</gcoord>
+    </node>
+    <node id="1690">Gcoord
+        <gcoord>7.36E-01  3.12E-01  -3.01E-01</gcoord>
+    </node>
+    <node id="1691">Gcoord
+        <gcoord>7.77E-01  2.96E-01  -3.03E-01</gcoord>
+    </node>
+    <node id="1692">Gcoord
+        <gcoord>7.03E-01  -1.40E-01  4.40E-01</gcoord>
+    </node>
+    <node id="1693">Gcoord
+        <gcoord>7.12E-01  3.46E-01  2.66E-01</gcoord>
+    </node>
+    <node id="1694">Gcoord
+        <gcoord>7.02E-01  5.90E-02  4.58E-01</gcoord>
+    </node>
+    <node id="1695">Gcoord
+        <gcoord>7.45E-01  -3.93E-01  9.50E-02</gcoord>
+    </node>
+    <node id="1696">Gcoord
+        <gcoord>6.99E-01  4.35E-01  -1.58E-01</gcoord>
+    </node>
+    <node id="1697">Gcoord
+        <gcoord>7.09E-01  3.68E-01  2.23E-01</gcoord>
+    </node>
+    <node id="1698">Gcoord
+        <gcoord>7.77E-01  -1.02E-01  -4.11E-01</gcoord>
+    </node>
+    <node id="1699">Gcoord
+        <gcoord>7.02E-01  3.94E-01  2.40E-01</gcoord>
+    </node>
+    <node id="1700">Gcoord
+        <gcoord>7.57E-01  2.88E-01  3.11E-01</gcoord>
+    </node>
+    <node id="1701">Gcoord
+        <gcoord>7.06E-01  -1.01E-01  4.20E-01</gcoord>
+    </node>
+    <node id="1702">Gcoord
+        <gcoord>7.02E-01  -3.21E-01  3.32E-01</gcoord>
+    </node>
+    <node id="1703">Gcoord
+        <gcoord>7.42E-01  3.20E-01  -2.52E-01</gcoord>
+    </node>
+    <node id="1704">Gcoord
+        <gcoord>6.97E-01  3.65E-01  2.84E-01</gcoord>
+    </node>
+    <node id="1705">Gcoord
+        <gcoord>7.79E-01  2.58E-01  -3.36E-01</gcoord>
+    </node>
+    <node id="1706">Gcoord
+        <gcoord>7.81E-01  -2.00E-03  -4.23E-01</gcoord>
+    </node>
+    <node id="1707">Gcoord
+        <gcoord>7.79E-01  4.50E-02  -4.21E-01</gcoord>
+    </node>
+    <node id="1708">Gcoord
+        <gcoord>7.53E-01  4.80E-02  -4.15E-01</gcoord>
+    </node>
+    <node id="1709">Gcoord
+        <gcoord>7.73E-01  -4.21E-01  -3.10E-02</gcoord>
+    </node>
+    <node id="1710">Gcoord
+        <gcoord>6.99E-01  2.68E-01  -3.48E-01</gcoord>
+    </node>
+    <node id="1711">Gcoord
+        <gcoord>6.98E-01  3.23E-01  -3.31E-01</gcoord>
+    </node>
+    <node id="1712">Gcoord
+        <gcoord>7.81E-01  2.69E-01  3.27E-01</gcoord>
+    </node>
+    <node id="1713">Gcoord
+        <gcoord>7.39E-01  -2.57E-01  -3.13E-01</gcoord>
+    </node>
+    <node id="1714">Gcoord
+        <gcoord>7.37E-01  -1.47E-01  -3.95E-01</gcoord>
+    </node>
+    <node id="1715">Gcoord
+        <gcoord>7.00E-01  2.51E-01  3.89E-01</gcoord>
+    </node>
+    <node id="1716">Gcoord
+        <gcoord>6.97E-01  2.85E-01  -3.64E-01</gcoord>
+    </node>
+    <node id="1717">Gcoord
+        <gcoord>6.99E-01  -1.06E-01  -4.54E-01</gcoord>
+    </node>
+    <node id="1718">Gcoord
+        <gcoord>6.93E-01  -2.86E-01  3.68E-01</gcoord>
+    </node>
+    <node id="1719">Gcoord
+        <gcoord>7.01E-01  -9.50E-02  4.54E-01</gcoord>
+    </node>
+    <node id="1720">Gcoord
+        <gcoord>7.02E-01  2.57E-01  -3.96E-01</gcoord>
+    </node>
+    <node id="1721">Gcoord
+        <gcoord>6.94E-01  -6.00E-02  -4.64E-01</gcoord>
+    </node>
+</Nodes>
